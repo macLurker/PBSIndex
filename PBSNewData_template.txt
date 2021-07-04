@@ -1,0 +1,6 @@
+; key-word:text
+Pbsmodule:<module-num>
+pbstitle:<module-title>
+pbsTopic:<topic>
+; repeat as needed
+pbsend

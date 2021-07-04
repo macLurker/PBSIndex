@@ -1,0 +1,2477 @@
+{
+       "DataVersion" : " 1 Jul 2021, 17:29",
+       "Lessons" : {
+                      "CSSRef" : {
+                                    "Link" : "https://www.w3schools.com/cssref/css_selectors.asp",
+                                    "Title" : "W3 CSS selector ref"
+                                  },
+                      "FreeCode" : {
+                                      "Link" : "https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a",
+                                      "Title" : "API Cheatsheets"
+                                    },
+                      "MotherEff" : {
+                                       "Link" : "https://mothereff.in/js-variables",
+                                       "Title" : "Javascript variable name validator"
+                                     },
+                      "PBS1" : {
+                                  "Link" : "https://pbs.bartificer.net/pbs1.html",
+                                  "Title" : "PBS 1 of X &#8211; Introduction"
+                                },
+                      "PBS10" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs10.html",
+                                   "Title" : "PBS 10 of X &#8211; Yet More CSS"
+                                 },
+                      "PBS100" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs100.html",
+                                    "Title" : "PBS 100 of X &#8211; Time Sharing Challenge Solution"
+                                  },
+                      "PBS101" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs101.html",
+                                    "Title" : "PBS 101 of X &#8211; Introducing Version Control"
+                                  },
+                      "PBS102" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs102.html",
+                                    "Title" : "PBS 102 of X &#8211; Introducing Git"
+                                  },
+                      "PBS103" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs103.html",
+                                    "Title" : "PBS 103 of X &#8211; Getting Started with Git"
+                                  },
+                      "PBS104" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs104.html",
+                                    "Title" : "PBS 104 of X &#8211; Tracking Changes in Git"
+                                  },
+                      "PBS105" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs105.html",
+                                    "Title" : "PBS 105 of X &#8211; Seeing the Past with Git"
+                                  },
+                      "PBS106" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs106.html",
+                                    "Title" : "PBS 106 of X &#8211; Time Travel with Git"
+                                  },
+                      "PBS107" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs107.html",
+                                    "Title" : "PBS 107 of X &#8211; Branching Basics"
+                                  },
+                      "PBS108" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs108.html",
+                                    "Title" : "PBS 108 of X &#8211; Merging & Tagging"
+                                  },
+                      "PBS109" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs109.html",
+                                    "Title" : "PBS 109 of X &#8211; SemVer & Structured Commits"
+                                  },
+                      "PBS11" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs11.html",
+                                   "Title" : "PBS 11 of X &#8211; Tables"
+                                 },
+                      "PBS110" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs110.html",
+                                    "Title" : "PBS 110 of X &#8211; Merge Conflicts"
+                                  },
+                      "PBS111" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs111.html",
+                                    "Title" : "PBS 111 of X &#8211; Stashing Changes"
+                                  },
+                      "PBS112" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs112.html",
+                                    "Title" : "PBS 112 of X &#8211; Introducing Git Remotes"
+                                  },
+                      "PBS113" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs113.html",
+                                    "Title" : "PBS 113 of X &#8211; My First Git Remote"
+                                  },
+                      "PBS114" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs114.html",
+                                    "Title" : "PBS 114 of X &#8211; Tracking Git Branches"
+                                  },
+                      "PBS115" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs115.html",
+                                    "Title" : "PBS 115 of X &#8211; The Push & Pull of Git"
+                                  },
+                      "PBS116" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs116.html",
+                                    "Title" : "PBS 116 of X &#8211; Team Git"
+                                  },
+                      "PBS117" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs117.html",
+                                    "Title" : "PBS 117 of X &#8211; Introducing GitHub"
+                                  },
+                      "PBS118" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs118.html",
+                                    "Title" : "PBS 118 of X &#8211; JavaScript Apps with GitHub Pages"
+                                  },
+                      "PBS118xx" : {
+                                      "Link" : "https://pbs.bartificer.net/pbs118xx.html",
+                                      "Title" : "PBS 118xx of X &#8211; JavaScript Apps with GitHub Pages"
+                                    },
+                      "PBS12" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs12.html",
+                                   "Title" : "PBS 12 of X &#8211; Introducing JavaScript"
+                                 },
+                      "PBS13" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs13.html",
+                                   "Title" : "PBS 13 of X &#8211; JS Conditionals"
+                                 },
+                      "PBS14" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs14.html",
+                                   "Title" : "PBS 14 of X &#8211; JS Loops &#038; Arrays"
+                                 },
+                      "PBS15" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs15.html",
+                                   "Title" : "PBS 15 of X &#8211; JS Functions"
+                                 },
+                      "PBS16" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs16.html",
+                                   "Title" : "PBS 16 of X &#8211; JS Callbacks"
+                                 },
+                      "PBS17" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs17.html",
+                                   "Title" : "PBS 17 of X &#8211; JS Objects"
+                                 },
+                      "PBS18" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs18.html",
+                                   "Title" : "PBS 18 of X &#8211; JS Miscellany"
+                                 },
+                      "PBS19" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs19.html",
+                                   "Title" : "PBS 19 of X &#8211; Some JavaScript Challenges"
+                                 },
+                      "PBS2" : {
+                                  "Link" : "https://pbs.bartificer.net/pbs2.html",
+                                  "Title" : "PBS 2 of X &#8211; Introducing HTML"
+                                },
+                      "PBS20" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs20.html",
+                                   "Title" : "PBS 20 of X &#8211; JS in the Browser"
+                                 },
+                      "PBS21" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs21.html",
+                                   "Title" : "PBS 21 of X &#8211; jQuery Basics"
+                                 },
+                      "PBS22" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs22.html",
+                                   "Title" : "PBS 22 of X &#8211; jQuery Events"
+                                 },
+                      "PBS23" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs23.html",
+                                   "Title" : "PBS 23 of X &#8211; Creating Elements with jQuery"
+                                 },
+                      "PBS24" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs24.html",
+                                   "Title" : "PBS 24 of X &#8211; Creating a JavaScript API"
+                                 },
+                      "PBS25" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs25.html",
+                                   "Title" : "PBS 25 of X &#8211; A Case Study (bartificer.linkToolkit.js)"
+                                 },
+                      "PBS26" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs26.html",
+                                   "Title" : "PBS 26 of X &#8211; HTML Data Attributes with jQuery"
+                                 },
+                      "PBS27" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs27.html",
+                                   "Title" : "PBS 27 of X &#8211; JS Prototype Revision | HTML Forms"
+                                 },
+                      "PBS28" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs28.html",
+                                   "Title" : "PBS 28 of X &#8211; JS Prototype Revision | CSS Attribute Selectors &#038; Buttons"
+                                 },
+                      "PBS29" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs29.html",
+                                   "Title" : "PBS 29 of X &#8211; JS Prototype Revision | Glyph Icons"
+                                 },
+                      "PBS3" : {
+                                  "Link" : "https://pbs.bartificer.net/pbs3.html",
+                                  "Title" : "PBS 3 of X &#8211; HTML Block Elements"
+                                },
+                      "PBS30" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs30.html",
+                                   "Title" : "PBS 30 of X &#8211; Comparing JS Objects | Introducing WAI-ARIA"
+                                 },
+                      "PBS31" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs31.html",
+                                   "Title" : "PBS 31 of X &#8211; JS Static Functions | Checkboxes &#038; Radio Buttons"
+                                 },
+                      "PBS32" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs32.html",
+                                   "Title" : "PBS 32 of X &#8211; JS Error Handling Revision | HTML Selects"
+                                 },
+                      "PBS33" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs33.html",
+                                   "Title" : "PBS 33 of X &#8211; JS Testing with QUnit"
+                                 },
+                      "PBS34" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs34.html",
+                                   "Title" : "PBS 34 of X &#8211; More JS Testing with QUnit"
+                                 },
+                      "PBS35" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs35.html",
+                                   "Title" : "PBS 35 of X &#8211; HTML Text Input and Introducing Life"
+                                 },
+                      "PBS36" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs36.html",
+                                   "Title" : "PBS 36 of X &#8211; More HTML Text Input | More Cellular Automata"
+                                 },
+                      "PBS37" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs37.html",
+                                   "Title" : "PBS 37 of X &#8211; JSDoc Demo"
+                                 },
+                      "PBS38" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs38.html",
+                                   "Title" : "PBS 38 of X &#8211; Taking Stock"
+                                 },
+                      "PBS39" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs39.html",
+                                   "Title" : "PBS 39 of X &#8211; HTML 5 Form Validation"
+                                 },
+                      "PBS4" : {
+                                  "Link" : "https://pbs.bartificer.net/pbs4.html",
+                                  "Title" : "PBS 4 of X &#8211; HTML In-line Elements"
+                                },
+                      "PBS40" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs40.html",
+                                   "Title" : "PBS 40 of X &#8211; HTML 5 Custom Validations"
+                                 },
+                      "PBS41" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs41.html",
+                                   "Title" : "PBS 41 of X &#8211; Form Events"
+                                 },
+                      "PBS42" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs42.html",
+                                   "Title" : "PBS 42 of X &#8211; Playing the Game of Life"
+                                 },
+                      "PBS43" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs43.html",
+                                   "Title" : "PBS 43 of X &#8211; Introducing JavaScript ES6"
+                                 },
+                      "PBS44" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs44.html",
+                                   "Title" : "PBS 44 of X &#8211; ES6 Arguments & Objects"
+                                 },
+                      "PBS45" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs45.html",
+                                   "Title" : "PBS 45 of X &#8211; ES6 Arrays & Strings"
+                                 },
+                      "PBS46" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs46.html",
+                                   "Title" : "PBS 46 of X &#8211; ES6 Spread Operator Arrow Functions & Classes"
+                                 },
+                      "PBS47" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs47.html",
+                                   "Title" : "PBS 47 of X &#8211; ES6 Polymorphism"
+                                 },
+                      "PBS48" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs48.html",
+                                   "Title" : "PBS 48 of X &#8211; A Closer Look at 'this' and 'static'"
+                                 },
+                      "PBS49" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs49.html",
+                                   "Title" : "PBS 49 of X &#8211; Improving Our Cellular Automata"
+                                 },
+                      "PBS5" : {
+                                  "Link" : "https://pbs.bartificer.net/pbs5.html",
+                                  "Title" : "PBS 5 of X &#8211; Images &#038; Links"
+                                },
+                      "PBS50" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs50.html",
+                                   "Title" : "PBS 50 of X &#8211; A Worked Example"
+                                 },
+                      "PBS51" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs51.html",
+                                   "Title" : "PBS 51 of X &#8211; Cellular Automata Wrap-up"
+                                 },
+                      "PBS52" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs52.html",
+                                   "Title" : "PBS 52 of X &#8211; Introducing Bootstrap 4"
+                                 },
+                      "PBS53" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs53.html",
+                                   "Title" : "PBS 53 of X &#8211; Bootstrap Utilities"
+                                 },
+                      "PBS54" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs54.html",
+                                   "Title" : "PBS 54 of X &#8211; More Bootstrap Utilities"
+                                 },
+                      "PBS55" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs55.html",
+                                   "Title" : "PBS 55 of X &#8211; Bootstrap Content"
+                                 },
+                      "PBS56" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs56.html",
+                                   "Title" : "PBS 56 of X &#8211; More Bootstrap Content"
+                                 },
+                      "PBS57" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs57.html",
+                                   "Title" : "PBS 57 of X &#8211; The Bootstrap Grid"
+                                 },
+                      "PBS58" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs58.html",
+                                   "Title" : "PBS 58 of X &#8211; Bootstrap Breakpoints"
+                                 },
+                      "PBS59" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs59.html",
+                                   "Title" : "PBS 59 of X &#8211; More Bootstrap Breakpoints"
+                                 },
+                      "PBS6" : {
+                                  "Link" : "https://pbs.bartificer.net/pbs6.html",
+                                  "Title" : "PBS 6 of X &#8211; Introducing CSS"
+                                },
+                      "PBS60" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs60.html",
+                                   "Title" : "PBS 60 of X &#8211; Bootstrap & jQuery"
+                                 },
+                      "PBS61" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs61.html",
+                                   "Title" : "PBS 61 of X &#8211; Bootstrap Jumbotron & Badges"
+                                 },
+                      "PBS62" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs62.html",
+                                   "Title" : "PBS 62 of X &#8211; A Basic Bootstrap Form"
+                                 },
+                      "PBS63" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs63.html",
+                                   "Title" : "PBS 63 of X &#8211; Bootstrap Buttons"
+                                 },
+                      "PBS64" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs64.html",
+                                   "Title" : "PBS 64 of X &#8211; Bootstrap Form Layouts"
+                                 },
+                      "PBS65" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs65.html",
+                                   "Title" : "PBS 65 of X &#8211; Bootstrap Input Groups"
+                                 },
+                      "PBS66" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs66.html",
+                                   "Title" : "PBS 66 of X &#8211; Bootstrap Form Validation"
+                                 },
+                      "PBS67" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs67.html",
+                                   "Title" : "PBS 67 of X &#8211; Introducing Bootstrap Dropdowns"
+                                 },
+                      "PBS68" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs68.html",
+                                   "Title" : "PBS 68 of X &#8211; Bootstrap Navs"
+                                 },
+                      "PBS69" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs69.html",
+                                   "Title" : "PBS 69 of X &#8211; Bootstrap Navbars"
+                                 },
+                      "PBS7" : {
+                                  "Link" : "https://pbs.bartificer.net/pbs7.html",
+                                  "Title" : "PBS 7 of X &#8211; More CSS"
+                                },
+                      "PBS70" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs70.html",
+                                   "Title" : "PBS 70 of X &#8211; Bootstrap Modals & Toast"
+                                 },
+                      "PBS71" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs71.html",
+                                   "Title" : "PBS 71 of X &#8211; Bootstrap Spinners"
+                                 },
+                      "PBS72" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs72.html",
+                                   "Title" : "PBS 72 of X &#8211; HTML5 Templates"
+                                 },
+                      "PBS73" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs73.html",
+                                   "Title" : "PBS 73 of X &#8211; Mustache Templates"
+                                 },
+                      "PBS74" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs74.html",
+                                   "Title" : "PBS 74 of X &#8211; More Mustaches"
+                                 },
+                      "PBS75" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs75.html",
+                                   "Title" : "PBS 75 of X &#8211; AJAX Intro"
+                                 },
+                      "PBS76" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs76.html",
+                                   "Title" : "PBS 76 of X &#8211; AJAX with jQuery"
+                                 },
+                      "PBS77" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs77.html",
+                                   "Title" : "PBS 77 of X &#8211; More Callbacks & More AJAX"
+                                 },
+                      "PBS78" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs78.html",
+                                   "Title" : "PBS 78 of X &#8211; is.js & Bootstrap Popovers"
+                                 },
+                      "PBS79" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs79.html",
+                                   "Title" : "PBS 79 of X &#8211; Introducing Javascript Promises"
+                                 },
+                      "PBS8" : {
+                                  "Link" : "https://pbs.bartificer.net/pbs8.html",
+                                  "Title" : "PBS 8 of X &#8211; CSS Positioning"
+                                },
+                      "PBS80" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs80.html",
+                                   "Title" : "PBS 80 of X &#8211; JavaScript Promise Chains"
+                                 },
+                      "PBS81" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs81.html",
+                                   "Title" : "PBS 81 of X &#8211; JavaScript Promise Utilities"
+                                 },
+                      "PBS82" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs82.html",
+                                   "Title" : "PBS 82 of X &#8211; Async & Await"
+                                 },
+                      "PBS83" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs83.html",
+                                   "Title" : "PBS 83 of X &#8211; Bootstrap Cards"
+                                 },
+                      "PBS84" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs84.html",
+                                   "Title" : "PBS 84 of X &#8211; Objects as Dictionaries in JavaScript (Redux & Update)"
+                                 },
+                      "PBS85" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs85.html",
+                                   "Title" : "PBS 85 of X &#8211; Objects as Arrays in JavaScript (Redux & Update)"
+                                 },
+                      "PBS86" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs86.html",
+                                   "Title" : "PBS 86 of X &#8211; JavaScript Function Objects (Redux & Update)"
+                                 },
+                      "PBS87" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs87.html",
+                                   "Title" : "PBS 87 of X &#8211; JavaScript Iterator Objects & Generator Functions"
+                                 },
+                      "PBS88" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs88.html",
+                                   "Title" : "PBS 88 of X &#8211; DOM & jQuery Objects Redux"
+                                 },
+                      "PBS9" : {
+                                  "Link" : "https://pbs.bartificer.net/pbs9.html",
+                                  "Title" : "PBS 9 of X &#8211; More CSS Positioning"
+                                },
+                      "PBS90" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs90.html",
+                                   "Title" : "PBS 90 of X &#8211; JavaScript Wrapper Objects"
+                                 },
+                      "PBS91" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs91.html",
+                                   "Title" : "PBS 91 of X &#8211; JavaScript RE Objects"
+                                 },
+                      "PBS92" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs92.html",
+                                   "Title" : "PBS 92 of X &#8211; Currency Grid Solution"
+                                 },
+                      "PBS93" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs93.html",
+                                   "Title" : "PBS 93 of X &#8211; Encapsulation with JavaScript Objects"
+                                 },
+                      "PBS94" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs94.html",
+                                   "Title" : "PBS 94 of X &#8211; Basic JavaScript OO with Class"
+                                 },
+                      "PBS95" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs95.html",
+                                   "Title" : "PBS 95 of X &#8211; Better JavaScript Class Attributes"
+                                 },
+                      "PBS97" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs97.html",
+                                   "Title" : "PBS 97 of X &#8211; Class Data Attributes & Functions"
+                                 },
+                      "PBS98" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs98.html",
+                                   "Title" : "PBS 98 of X &#8211; Building with Classes Part 1"
+                                 },
+                      "PBS99" : {
+                                   "Link" : "https://pbs.bartificer.net/pbs99.html",
+                                   "Title" : "PBS 99 of X &#8211; Building with Classes Part 2"
+                                 },
+                      "wills1" : {
+                                    "Link" : "https://www.podfeet.com/blog/tutorials-5/objects-in-javascript/",
+                                    "Title" : "Will explains objects"
+                                  }
+                    },
+       "Topics" : {
+                     "AJAX Same Origin Policy" : {
+                                                    "Key" : "PBS76"
+                                                  },
+                     "API Cheatsheets by GeekoSupremo" : {
+                                                            "Key" : "FreeCode"
+                                                          },
+                     "API case study linkToolkit" : {
+                                                       "Key" : "PBS25"
+                                                     },
+                     "ARIA roles and fieldsets" : {
+                                                     "Key" : "PBS31"
+                                                   },
+                     "Adding dynamic Bootstrap components" : {
+                                                                "Key" : "PBS60"
+                                                              },
+                     "Bart's farm" : {
+                                        "Key" : "PBS47"
+                                      },
+                     "Boolean class" : {
+                                          "Key" : "PBS90"
+                                        },
+                     "Bootstrap 4 documentation link" : {
+                                                           "Key" : "PBS52"
+                                                         },
+                     "Bootstrap 4, ARIA in forms" : {
+                                                       "Key" : "PBS62"
+                                                     },
+                     "Bootstrap 4, Basic dropdown menu example" : {
+                                                                     "Key" : "PBS67"
+                                                                   },
+                     "Bootstrap 4, Bootstrap dropdown menus as Web App UI" : {
+                                                                                "Key" : "PBS67"
+                                                                              },
+                     "Bootstrap 4, Bootstrap dropdowns vs HTML5 select" : {
+                                                                             "Key" : "PBS67"
+                                                                           },
+                     "Bootstrap 4, Bootstrap forms" : {
+                                                         "Key" : "PBS62"
+                                                       },
+                     "Bootstrap 4, Introduction" : {
+                                                      "Key" : "PBS52"
+                                                    },
+                     "Bootstrap 4, Popper" : {
+                                                "Key" : "PBS60"
+                                              },
+                     "Bootstrap 4, alerts" : {
+                                                "Key" : "PBS60"
+                                              },
+                     "Bootstrap 4, background colors" : {
+                                                           "Key" : "PBS53"
+                                                         },
+                     "Bootstrap 4, badges" : {
+                                                "Key" : "PBS61"
+                                              },
+                     "Bootstrap 4, block and inline" : {
+                                                          "Key" : "PBS54"
+                                                        },
+                     "Bootstrap 4, blockquote" : {
+                                                    "Key" : "PBS55"
+                                                  },
+                     "Bootstrap 4, border utilities" : {
+                                                          "Key" : "PBS53"
+                                                        },
+                     "Bootstrap 4, branding navbars" : {
+                                                          "Key" : "PBS69"
+                                                        },
+                     "Bootstrap 4, breakpoints" : {
+                                                     "Key" : "PBS58"
+                                                   },
+                     "Bootstrap 4, button groups" : {
+                                                       "Key" : "PBS63"
+                                                     },
+                     "Bootstrap 4, button toolbars" : {
+                                                         "Key" : "PBS63"
+                                                       },
+                     "Bootstrap 4, buttons and button examples" : {
+                                                                     "Key" : "PBS63"
+                                                                   },
+                     "Bootstrap 4, card classes" : {
+                                                      "Key" : "PBS83"
+                                                    },
+                     "Bootstrap 4, card deck" : {
+                                                   "Key" : "PBS83"
+                                                 },
+                     "Bootstrap 4, card groups" : {
+                                                     "Key" : "PBS83"
+                                                   },
+                     "Bootstrap 4, cards " : {
+                                                "Key" : "PBS83"
+                                              },
+                     "Bootstrap 4, checkboxes" : {
+                                                    "Key" : "PBS62"
+                                                  },
+                     "Bootstrap 4, checkboxes, using as input group add-ons" : {
+                                                                                  "Key" : "PBS65"
+                                                                                },
+                     "Bootstrap 4, class is-invalid" : {
+                                                          "Key" : "PBS66"
+                                                        },
+                     "Bootstrap 4, class is-valid" : {
+                                                        "Key" : "PBS66"
+                                                      },
+                     "Bootstrap 4, class was-validated" : {
+                                                             "Key" : "PBS66"
+                                                           },
+                     "Bootstrap 4, columns" : {
+                                                 "Key" : "PBS57"
+                                               },
+                     "Bootstrap 4, containers" : {
+                                                    "Key" : "PBS57"
+                                                  },
+                     "Bootstrap 4, controlling popovers via JavaScript" : {
+                                                                             "Key" : "PBS78"
+                                                                           },
+                     "Bootstrap 4, creating BS toast from JavaScript" : {
+                                                                           "Key" : "PBS70"
+                                                                         },
+                     "Bootstrap 4, custom form validation" : {
+                                                                "Key" : "PBS66"
+                                                              },
+                     "Bootstrap 4, customizing modal notifications" : {
+                                                                         "Key" : "PBS70"
+                                                                       },
+                     "Bootstrap 4, dismissable alerts" : {
+                                                            "Key" : "PBS60"
+                                                          },
+                     "Bootstrap 4, display headings" : {
+                                                          "Key" : "PBS55"
+                                                        },
+                     "Bootstrap 4, dropdown menu dividers" : {
+                                                                "Key" : "PBS67"
+                                                              },
+                     "Bootstrap 4, dropdown menu headers" : {
+                                                               "Key" : "PBS67"
+                                                             },
+                     "Bootstrap 4, dropdown menu help text" : {
+                                                                 "Key" : "PBS67"
+                                                               },
+                     "Bootstrap 4, dropdown menu in input groups" : {
+                                                                       "Key" : "PBS67"
+                                                                     },
+                     "Bootstrap 4, dropdown menu split buttons" : {
+                                                                     "Key" : "PBS67"
+                                                                   },
+                     "Bootstrap 4, dropdown menus for navigation" : {
+                                                                       "Key" : "PBS68"
+                                                                     },
+                     "Bootstrap 4, dropdown, using as input group add-ons" : {
+                                                                                "Key" : "PBS65"
+                                                                              },
+                     "Bootstrap 4, figure captions" : {
+                                                         "Key" : "PBS56"
+                                                       },
+                     "Bootstrap 4, figures" : {
+                                                 "Key" : "PBS56"
+                                               },
+                     "Bootstrap 4, flex boxes utilities" : {
+                                                              "Key" : "PBS54"
+                                                            },
+                     "Bootstrap 4, float utilities" : {
+                                                         "Key" : "PBS54"
+                                                       },
+                     "Bootstrap 4, font properties" : {
+                                                         "Key" : "PBS53"
+                                                       },
+                     "Bootstrap 4, form container" : {
+                                                        "Key" : "PBS62"
+                                                      },
+                     "Bootstrap 4, form example" : {
+                                                      "Key" : "PBS62"
+                                                    },
+                     "Bootstrap 4, form groups" : {
+                                                     "Key" : "PBS62"
+                                                   },
+                     "Bootstrap 4, form sizes" : {
+                                                    "Key" : "PBS64"
+                                                  },
+                     "Bootstrap 4, form validation" : {
+                                                         "Key" : "PBS66"
+                                                       },
+                     "Bootstrap 4, form validation styles (1-4)" : {
+                                                                      "Key" : "PBS66"
+                                                                    },
+                     "Bootstrap 4, full-width buttons" : {
+                                                            "Key" : "PBS63"
+                                                          },
+                     "Bootstrap 4, grid gutters" : {
+                                                      "Key" : "PBS57"
+                                                    },
+                     "Bootstrap 4, grid layouts" : {
+                                                      "Key" : "PBS57"
+                                                    },
+                     "Bootstrap 4, grid structure worked example" : {
+                                                                       "Key" : "PBS57"
+                                                                     },
+                     "Bootstrap 4, grid-based forms" : {
+                                                          "Key" : "PBS64"
+                                                        },
+                     "Bootstrap 4, heading classes" : {
+                                                         "Key" : "PBS55"
+                                                       },
+                     "Bootstrap 4, horizontal forms" : {
+                                                          "Key" : "PBS64"
+                                                        },
+                     "Bootstrap 4, how to include responsive design" : {
+                                                                          "Key" : "PBS58"
+                                                                        },
+                     "Bootstrap 4, images, responsive" : {
+                                                            "Key" : "PBS56"
+                                                          },
+                     "Bootstrap 4, info box example" : {
+                                                          "Key" : "PBS53"
+                                                        },
+                     "Bootstrap 4, inline forms" : {
+                                                      "Key" : "PBS64"
+                                                    },
+                     "Bootstrap 4, input group sizes" : {
+                                                           "Key" : "PBS65"
+                                                         },
+                     "Bootstrap 4, input group, append" : {
+                                                             "Key" : "PBS65"
+                                                           },
+                     "Bootstrap 4, input group, prepend" : {
+                                                              "Key" : "PBS65"
+                                                            },
+                     "Bootstrap 4, input group, text add-on" : {
+                                                                  "Key" : "PBS65"
+                                                                },
+                     "Bootstrap 4, input group, using FA glyphicons" : {
+                                                                          "Key" : "PBS65"
+                                                                        },
+                     "Bootstrap 4, input groups" : {
+                                                      "Key" : "PBS65"
+                                                    },
+                     "Bootstrap 4, input groups, multiple inputs & add-ons" : {
+                                                                                 "Key" : "PBS65"
+                                                                               },
+                     "Bootstrap 4, jumbotron" : {
+                                                   "Key" : "PBS61"
+                                                 },
+                     "Bootstrap 4, lead paragraphs" : {
+                                                         "Key" : "PBS55"
+                                                       },
+                     "Bootstrap 4, list of utility classes with breakpoint variants" : {
+                                                                                          "Key" : "PBS59"
+                                                                                        },
+                     "Bootstrap 4, lists, inlined" : {
+                                                        "Key" : "PBS55"
+                                                      },
+                     "Bootstrap 4, lists, unstyled" : {
+                                                         "Key" : "PBS55"
+                                                       },
+                     "Bootstrap 4, lists, unstyled, as flex boxes" : {
+                                                                        "Key" : "PBS55"
+                                                                      },
+                     "Bootstrap 4, modal notifications" : {
+                                                             "Key" : "PBS70"
+                                                           },
+                     "Bootstrap 4, nav pills" : {
+                                                   "Key" : "PBS68"
+                                                 },
+                     "Bootstrap 4, nav tabs" : {
+                                                  "Key" : "PBS68"
+                                                },
+                     "Bootstrap 4, navbar basics" : {
+                                                       "Key" : "PBS69"
+                                                     },
+                     "Bootstrap 4, navbar forms" : {
+                                                      "Key" : "PBS69"
+                                                    },
+                     "Bootstrap 4, navbar hamburger" : {
+                                                          "Key" : "PBS69"
+                                                        },
+                     "Bootstrap 4, offset" : {
+                                                "Key" : "PBS64"
+                                              },
+                     "Bootstrap 4, popovers" : {
+                                                  "Key" : "PBS78"
+                                                },
+                     "Bootstrap 4, position utilities" : {
+                                                            "Key" : "PBS54"
+                                                          },
+                     "Bootstrap 4, radio buttons" : {
+                                                       "Key" : "PBS62"
+                                                     },
+                     "Bootstrap 4, radio buttons, using as input group add-ons" : {
+                                                                                     "Key" : "PBS65"
+                                                                                   },
+                     "Bootstrap 4, re-ordering columns" : {
+                                                             "Key" : "PBS58"
+                                                           },
+                     "Bootstrap 4, rounded borders" : {
+                                                         "Key" : "PBS53"
+                                                       },
+                     "Bootstrap 4, rows" : {
+                                              "Key" : "PBS57"
+                                            },
+                     "Bootstrap 4, screen reader utilities" : {
+                                                                 "Key" : "PBS54"
+                                                               },
+                     "Bootstrap 4, selected rounded borders" : {
+                                                                  "Key" : "PBS68"
+                                                                },
+                     "Bootstrap 4, size utilities" : {
+                                                        "Key" : "PBS54"
+                                                      },
+                     "Bootstrap 4, spacing utilities (margins and padding)" : {
+                                                                                 "Key" : "PBS53"
+                                                                               },
+                     "Bootstrap 4, spinner alignment" : {
+                                                           "Key" : "PBS71"
+                                                         },
+                     "Bootstrap 4, spinner sizes" : {
+                                                       "Key" : "PBS71"
+                                                     },
+                     "Bootstrap 4, spinners" : {
+                                                  "Key" : "PBS71"
+                                                },
+                     "Bootstrap 4, spinners in buttons" : {
+                                                             "Key" : "PBS71"
+                                                           },
+                     "Bootstrap 4, style invalid-feedback" : {
+                                                                "Key" : "PBS66"
+                                                              },
+                     "Bootstrap 4, style valid-feedback" : {
+                                                              "Key" : "PBS66"
+                                                            },
+                     "Bootstrap 4, table borders" : {
+                                                       "Key" : "PBS56"
+                                                     },
+                     "Bootstrap 4, table row highlighting" : {
+                                                                "Key" : "PBS56"
+                                                              },
+                     "Bootstrap 4, tables" : {
+                                                "Key" : "PBS56"
+                                              },
+                     "Bootstrap 4, tables, horizontal scrolling" : {
+                                                                      "Key" : "PBS56"
+                                                                    },
+                     "Bootstrap 4, text alignment" : {
+                                                        "Key" : "PBS53"
+                                                      },
+                     "Bootstrap 4, text colors" : {
+                                                     "Key" : "PBS53"
+                                                   },
+                     "Bootstrap 4, text transformations" : {
+                                                              "Key" : "PBS53"
+                                                            },
+                     "Bootstrap 4, toast notifications" : {
+                                                             "Key" : "PBS70"
+                                                           },
+                     "Bootstrap 4, toast racks (per Bart)" : {
+                                                                "Key" : "PBS70"
+                                                              },
+                     "Bootstrap 4, triggering modals with JavaScript" : {
+                                                                           "Key" : "PBS70"
+                                                                         },
+                     "Bootstrap 4, vertical alignment utilities" : {
+                                                                      "Key" : "PBS54"
+                                                                    },
+                     "Bootstrap 4, which notification to use" : {
+                                                                   "Key" : "PBS70"
+                                                                 },
+                     "Bootstrap and JavaScript interactions" : {
+                                                                  "Key" : "PBS60"
+                                                                },
+                     "Bootstrap, using components to build a game" : {
+                                                                        "Key" : "PBS78"
+                                                                      },
+                     "Brian's Brain cellular automaton" : {
+                                                             "Key" : "PBS51"
+                                                           },
+                     "Bubbling or propagation" : {
+                                                    "Key" : "PBS41"
+                                                  },
+                     "Build a browser app: a worked example" : {
+                                                                  "Key" : "PBS50"
+                                                                },
+                     "CSS Review" : {
+                                       "Key" : "PBS38"
+                                     },
+                     "CSS documentation links" : {
+                                                    "Key" : "PBS38"
+                                                  },
+                     "CSS fonts" : {
+                                      "Key" : "PBS6"
+                                    },
+                     "CSS overview" : {
+                                         "Key" : "PBS6"
+                                       },
+                     "CSS selector reference" : {
+                                                   "Key" : "CSSRef"
+                                                 },
+                     "CSS selectors" : {
+                                          "Key" : "PBS6"
+                                        },
+                     "CSS selectors review" : {
+                                                 "Key" : "PBS21"
+                                               },
+                     "CSS style declarations" : {
+                                                   "Key" : "PBS6"
+                                                 },
+                     "CSS stylesheet, external" : {
+                                                     "Key" : "PBS6"
+                                                   },
+                     "CSS stylesheet, internal" : {
+                                                     "Key" : "PBS6"
+                                                   },
+                     "CSS syntax, basic" : {
+                                              "Key" : "PBS6"
+                                            },
+                     "CSS text formatting" : {
+                                                "Key" : "PBS6"
+                                              },
+                     "CSS, box model re-visited" : {
+                                                      "Key" : "PBS52"
+                                                    },
+                     "Cellular automaton wrap-up" : {
+                                                       "Key" : "PBS51"
+                                                     },
+                     "Checkboxes in Bootstrap 4" : {
+                                                      "Key" : "PBS62"
+                                                    },
+                     "Checkboxes in HTML forms" : {
+                                                     "Key" : "PBS31"
+                                                   },
+                     "Conditional Mustache sections" : {
+                                                          "Key" : "PBS73"
+                                                        },
+                     "Convert this to jQuery object" : {
+                                                          "Key" : "PBS40"
+                                                        },
+                     "Document Object Model (DOM)" : {
+                                                        "Key" : "PBS20"
+                                                      },
+                     "Document Object Model (DOM) & jQuery" : {
+                                                                 "Key" : "PBS88"
+                                                               },
+                     "Embedding Javascript in Web Pages" : {
+                                                              "Key" : "PBS22"
+                                                            },
+                     "Form events" : {
+                                        "Key" : "PBS41"
+                                      },
+                     "Form validation, HTML5" : {
+                                                   "Key" : "PBS39"
+                                                 },
+                     "Functions as Mustache section keys" : {
+                                                               "Key" : "PBS74"
+                                                             },
+                     "Getting/installing is.js" : {
+                                                     "Key" : "PBS78"
+                                                   },
+                     "Git introduction" : {
+                                             "Key" : "PBS101"
+                                           },
+                     "GitHub Jekyll documentation links" : {
+                                                              "Key" : "PBS118"
+                                                            },
+                     "GitHub Pages documentation links" : {
+                                                             "Key" : "PBS118"
+                                                           },
+                     "GitHub authentication" : {
+                                                  "Key" : "PBS117"
+                                                },
+                     "GitHub command line interface (gh)" : {
+                                                               "Key" : "PBS117"
+                                                             },
+                     "GitHub documentation" : {
+                                                 "Key" : "PBS117"
+                                               },
+                     "GitHub overview" : {
+                                            "Key" : "PBS117"
+                                          },
+                     "GitHub worked examples" : {
+                                                   "Key" : "PBS117"
+                                                 },
+                     "GitHub, cloning GitHub repositories" : {
+                                                                "Key" : "PBS117"
+                                                              },
+                     "GitHub, setting up SSH" : {
+                                                   "Key" : "PBS117"
+                                                 },
+                     "HTML Review" : {
+                                        "Key" : "PBS38"
+                                      },
+                     "HTML documentation links" : {
+                                                     "Key" : "PBS38"
+                                                   },
+                     "HTML forms, checkboxes" : {
+                                                   "Key" : "PBS31"
+                                                 },
+                     "HTML forms, dropdown lists" : {
+                                                       "Key" : "PBS32"
+                                                     },
+                     "HTML forms, radio buttons" : {
+                                                      "Key" : "PBS31"
+                                                    },
+                     "HTML forms, selects (pull-downs)" : {
+                                                             "Key" : "PBS32"
+                                                           },
+                     "HTML interactive playground link" : {
+                                                             "Key" : "PBS53"
+                                                           },
+                     "HTML tags redux" : {
+                                            "Key" : "PBS88"
+                                          },
+                     "HTTP GET method" : {
+                                            "Key" : "PBS75"
+                                          },
+                     "HTTP Overview" : {
+                                          "Key" : "PBS75"
+                                        },
+                     "HTTP POST method" : {
+                                             "Key" : "PBS75"
+                                           },
+                     "HTTP protocol example, using CURL" : {
+                                                              "Key" : "PBS75"
+                                                            },
+                     "HTTP request breakdown" : {
+                                                   "Key" : "PBS75"
+                                                 },
+                     "HTTP responses" : {
+                                           "Key" : "PBS75"
+                                         },
+                     "How to easily check data types & data validity" : {
+                                                                           "Key" : "PBS78"
+                                                                         },
+                     "IDs, HTML tags" : {
+                                           "Key" : "PBS7"
+                                         },
+                     "JQuery AJAX function" : {
+                                                 "Key" : "PBS76"
+                                               },
+                     "JQuery Event handlers in Forms" : {
+                                                           "Key" : "PBS40"
+                                                         },
+                     "JQuery, text inputs" : {
+                                                "Key" : "PBS35"
+                                              },
+                     "JSDoc" : {
+                                  "Key" : "PBS24"
+                                },
+                     "JSDoc, how to use in detail" : {
+                                                        "Key" : "PBS37"
+                                                      },
+                     "JavaScript Playground" : {
+                                                  "Key" : "PBS12"
+                                                },
+                     "JavaScript Promise (native)" : {
+                                                        "Key" : "PBS81"
+                                                      },
+                     "JavaScript Review" : {
+                                              "Key" : "PBS38"
+                                            },
+                     "JavaScript documentation links" : {
+                                                           "Key" : "PBS38"
+                                                         },
+                     "JavaScript, RegExp class" : {
+                                                     "Key" : "PBS91"
+                                                   },
+                     "JavaScript, Regular Expressions & String instance functions" : {
+                                                                                        "Key" : "PBS91"
+                                                                                      },
+                     "JavaScript, Regular Expressions (redux) " : {
+                                                                     "Key" : "PBS91"
+                                                                   },
+                     "JavaScript, Regular Expressions .exec function (redux)" : {
+                                                                                   "Key" : "PBS91"
+                                                                                 },
+                     "JavaScript, Regular Expressions .match function (redux)" : {
+                                                                                    "Key" : "PBS91"
+                                                                                  },
+                     "JavaScript, Regular Expressions .replace function" : {
+                                                                              "Key" : "PBS91"
+                                                                            },
+                     "JavaScript, Regular Expressions .split function" : {
+                                                                            "Key" : "PBS91"
+                                                                          },
+                     "JavaScript, Regular Expressions .test function (redux)" : {
+                                                                                   "Key" : "PBS91"
+                                                                                 },
+                     "JavaScript, Regular Expressions documentation links" : {
+                                                                                "Key" : "PBS91"
+                                                                              },
+                     "JavaScript, Regular Expressions grouping" : {
+                                                                     "Key" : "PBS91"
+                                                                   },
+                     "JavaScript, Regular Expressions literals" : {
+                                                                     "Key" : "PBS91"
+                                                                   },
+                     "JavaScript, Using Regular Expressions to parse and extract" : {
+                                                                                       "Key" : "PBS91"
+                                                                                     },
+                     "JavaScript, catch function in thenables" : {
+                                                                    "Key" : "PBS79"
+                                                                  },
+                     "JavaScript, form reset" : {
+                                                   "Key" : "PBS63"
+                                                 },
+                     "JavaScript, promise terminology" : {
+                                                            "Key" : "PBS79"
+                                                          },
+                     "JavaScript, then function" : {
+                                                      "Key" : "PBS79"
+                                                    },
+                     "JavaScript, thenable definition" : {
+                                                            "Key" : "PBS79"
+                                                          },
+                     "Javascript ES6 (introduction)" : {
+                                                          "Key" : "PBS43"
+                                                        },
+                     "Javascript prototype algorithm" : {
+                                                           "Key" : "PBS31"
+                                                         },
+                     "Javascript, .apply function" : {
+                                                        "Key" : "PBS48"
+                                                      },
+                     "Javascript, .call function" : {
+                                                       "Key" : "PBS48"
+                                                     },
+                     "Javascript, .next function, iterators" : {
+                                                                  "Key" : "PBS87"
+                                                                },
+                     "Javascript, API development" : {
+                                                        "Key" : "PBS24"
+                                                      },
+                     "Javascript, Array-like object conversion (ES6)" : {
+                                                                           "Key" : "PBS45"
+                                                                         },
+                     "Javascript, Array.from (ES6)" : {
+                                                         "Key" : "PBS45"
+                                                       },
+                     "Javascript, Boolean function" : {
+                                                         "Key" : "PBS12"
+                                                       },
+                     "Javascript, DOM-searching class & instance functions" : {
+                                                                                 "Key" : "PBS97"
+                                                                               },
+                     "Javascript, DOM-storing data attributes in classes" : {
+                                                                               "Key" : "PBS97"
+                                                                             },
+                     "Javascript, Font Awesome" : {
+                                                     "Key" : "PBS29"
+                                                   },
+                     "Javascript, HTML glyph icons" : {
+                                                         "Key" : "PBS29"
+                                                       },
+                     "Javascript, Math abs (absolute value) function" : {
+                                                                           "Key" : "PBS18"
+                                                                         },
+                     "Javascript, Math ceiling function" : {
+                                                              "Key" : "PBS18"
+                                                            },
+                     "Javascript, Math floor function" : {
+                                                            "Key" : "PBS18"
+                                                          },
+                     "Javascript, Math object" : {
+                                                    "Key" : "PBS18"
+                                                  },
+                     "Javascript, Math random function" : {
+                                                             "Key" : "PBS18"
+                                                           },
+                     "Javascript, Math round function" : {
+                                                            "Key" : "PBS18"
+                                                          },
+                     "Javascript, Math sqrt (square root) function" : {
+                                                                         "Key" : "PBS18"
+                                                                       },
+                     "Javascript, Math trig functions" : {
+                                                            "Key" : "PBS18"
+                                                          },
+                     "Javascript, RegExp function" : {
+                                                        "Key" : "PBS18"
+                                                      },
+                     "Javascript, String function" : {
+                                                        "Key" : "PBS12"
+                                                      },
+                     "Javascript, Template literals (ES6)" : {
+                                                                "Key" : "PBS45"
+                                                              },
+                     "Javascript, URL input type" : {
+                                                       "Key" : "PBS36"
+                                                     },
+                     "Javascript, abstract keyword work-around" : {
+                                                                     "Key" : "PBS99"
+                                                                   },
+                     "Javascript, accessing dictionary values (redux)" : {
+                                                                            "Key" : "PBS84"
+                                                                          },
+                     "Javascript, argument variable" : {
+                                                          "Key" : "PBS17"
+                                                        },
+                     "Javascript, arguments variable 2" : {
+                                                             "Key" : "PBS18"
+                                                           },
+                     "Javascript, arguments variable in functions" : {
+                                                                        "Key" : "PBS86"
+                                                                      },
+                     "Javascript, array basics (redux)" : {
+                                                             "Key" : "PBS85"
+                                                           },
+                     "Javascript, array destructuring" : {
+                                                            "Key" : "PBS85"
+                                                          },
+                     "Javascript, array functions" : {
+                                                        "Key" : "PBS18"
+                                                      },
+                     "Javascript, array functions (redux)" : {
+                                                                "Key" : "PBS85"
+                                                              },
+                     "Javascript, array match function" : {
+                                                             "Key" : "PBS85"
+                                                           },
+                     "Javascript, array pop function" : {
+                                                           "Key" : "PBS85"
+                                                         },
+                     "Javascript, array slice function" : {
+                                                             "Key" : "PBS33"
+                                                           },
+                     "Javascript, arrays" : {
+                                               "Key" : "PBS14"
+                                             },
+                     "Javascript, arrays & iterators" : {
+                                                           "Key" : "PBS87"
+                                                         },
+                     "Javascript, arrays with callbacks" : {
+                                                              "Key" : "PBS16"
+                                                            },
+                     "Javascript, arrow functions (ES6)" : {
+                                                              "Key" : "PBS46"
+                                                            },
+                     "Javascript, arrow functions (redux)" : {
+                                                                "Key" : "PBS86"
+                                                              },
+                     "Javascript, basics" : {
+                                               "Key" : "PBS12"
+                                             },
+                     "Javascript, building a div in CSS" : {
+                                                              "Key" : "PBS47"
+                                                            },
+                     "Javascript, callbacks (revisited)" : {
+                                                              "Key" : "PBS77"
+                                                            },
+                     "Javascript, catch" : {
+                                              "Key" : "PBS32"
+                                            },
+                     "Javascript, cellular automata improvements" : {
+                                                                       "Key" : "PBS49"
+                                                                     },
+                     "Javascript, charAt function" : {
+                                                        "Key" : "PBS18"
+                                                      },
+                     "Javascript, cheat sheet" : {
+                                                    "Key" : "PBS17"
+                                                  },
+                     "Javascript, class attributes defined" : {
+                                                                 "Key" : "PBS94"
+                                                               },
+                     "Javascript, class data attributes" : {
+                                                              "Key" : "PBS97"
+                                                            },
+                     "Javascript, class functions" : {
+                                                        "Key" : "PBS97"
+                                                      },
+                     "Javascript, class inheritance (ES6)" : {
+                                                                "Key" : "PBS47"
+                                                              },
+                     "Javascript, class inheritance (redux)" : {
+                                                                  "Key" : "PBS99"
+                                                                },
+                     "Javascript, class instance defined" : {
+                                                               "Key" : "PBS94"
+                                                             },
+                     "Javascript, class naming conventions" : {
+                                                                 "Key" : "PBS94"
+                                                               },
+                     "Javascript, class, how to make" : {
+                                                           "Key" : "PBS94"
+                                                         },
+                     "Javascript, classes redux" : {
+                                                      "Key" : "PBS94"
+                                                    },
+                     "Javascript, classes, intro" : {
+                                                       "Key" : "PBS46"
+                                                     },
+                     "Javascript, clearInterval function" : {
+                                                               "Key" : "PBS22"
+                                                             },
+                     "Javascript, clones definition" : {
+                                                          "Key" : "PBS29"
+                                                        },
+                     "Javascript, closure" : {
+                                                "Key" : "PBS24"
+                                              },
+                     "Javascript, comparisons" : {
+                                                    "Key" : "PBS13"
+                                                  },
+                     "Javascript, concatenation" : {
+                                                      "Key" : "PBS12"
+                                                    },
+                     "Javascript, console" : {
+                                                "Key" : "PBS20"
+                                              },
+                     "Javascript, const (ES6)" : {
+                                                    "Key" : "PBS43"
+                                                  },
+                     "Javascript, converting array elements to variables" : {
+                                                                               "Key" : "PBS85"
+                                                                             },
+                     "Javascript, converting dictionary entries to variables" : {
+                                                                                   "Key" : "PBS84"
+                                                                                 },
+                     "Javascript, cookies, intro to using" : {
+                                                                "Key" : "PBS100"
+                                                              },
+                     "Javascript, creating dictionaries with Object literals (redux)" : {
+                                                                                           "Key" : "PBS84"
+                                                                                         },
+                     "Javascript, creating is-a relationship" : {
+                                                                   "Key" : "PBS47"
+                                                                 },
+                     "Javascript, data attributes" : {
+                                                        "Key" : "PBS26"
+                                                      },
+                     "Javascript, default argument values" : {
+                                                                "Key" : "PBS86"
+                                                              },
+                     "Javascript, dictionaries (redux)" : {
+                                                             "Key" : "PBS84"
+                                                           },
+                     "Javascript, dictionary keys (redux)" : {
+                                                                "Key" : "PBS84"
+                                                              },
+                     "Javascript, dictionary shorthand property names" : {
+                                                                            "Key" : "PBS84"
+                                                                          },
+                     "Javascript, email input type" : {
+                                                         "Key" : "PBS36"
+                                                       },
+                     "Javascript, embedding data in the URL" : {
+                                                                  "Key" : "PBS100"
+                                                                },
+                     "Javascript, encapsulation" : {
+                                                      "Key" : "PBS93"
+                                                    },
+                     "Javascript, error handling" : {
+                                                       "Key" : "PBS18"
+                                                     },
+                     "Javascript, error handling 2" : {
+                                                         "Key" : "PBS32"
+                                                       },
+                     "Javascript, event, keypress" : {
+                                                        "Key" : "PBS41"
+                                                      },
+                     "Javascript, events, click" : {
+                                                      "Key" : "PBS22"
+                                                    },
+                     "Javascript, events, document ready" : {
+                                                               "Key" : "PBS22"
+                                                             },
+                     "Javascript, extends (inherits from) keyword" : {
+                                                                        "Key" : "PBS99"
+                                                                      },
+                     "Javascript, for loop" : {
+                                                 "Key" : "PBS14"
+                                               },
+                     "Javascript, for...in (ES6)" : {
+                                                       "Key" : "PBS44"
+                                                     },
+                     "Javascript, for...in , when to use" : {
+                                                               "Key" : "PBS49"
+                                                             },
+                     "Javascript, for...of & iterators" : {
+                                                             "Key" : "PBS87"
+                                                           },
+                     "Javascript, for...of (ES6)" : {
+                                                       "Key" : "PBS45"
+                                                     },
+                     "Javascript, for...of , when to use" : {
+                                                               "Key" : "PBS49"
+                                                             },
+                     "Javascript, foreach function" : {
+                                                         "Key" : "PBS16"
+                                                       },
+                     "Javascript, forms, text areas" : {
+                                                          "Key" : "PBS35"
+                                                        },
+                     "Javascript, forms, text boxes" : {
+                                                          "Key" : "PBS35"
+                                                        },
+                     "Javascript, function arguments (ES6)" : {
+                                                                 "Key" : "PBS44"
+                                                               },
+                     "Javascript, function class constructor" : {
+                                                                   "Key" : "PBS94"
+                                                                 },
+                     "Javascript, function constructor invocation" : {
+                                                                        "Key" : "PBS48"
+                                                                      },
+                     "Javascript, function direct invocations" : {
+                                                                    "Key" : "PBS48"
+                                                                  },
+                     "Javascript, function expressions (redux)" : {
+                                                                     "Key" : "PBS86"
+                                                                   },
+                     "Javascript, function hoisting" : {
+                                                          "Key" : "PBS86"
+                                                        },
+                     "Javascript, function indirect invocation" : {
+                                                                     "Key" : "PBS48"
+                                                                   },
+                     "Javascript, function programmatic invocation" : {
+                                                                         "Key" : "PBS48"
+                                                                       },
+                     "Javascript, function scope (redux)" : {
+                                                               "Key" : "PBS86"
+                                                             },
+                     "Javascript, function statements (redux)" : {
+                                                                    "Key" : "PBS86"
+                                                                  },
+                     "Javascript, functions as arguments/objects" : {
+                                                                       "Key" : "PBS16"
+                                                                     },
+                     "Javascript, functions intro" : {
+                                                        "Key" : "PBS15"
+                                                      },
+                     "Javascript, functions, anonymous (redux)" : {
+                                                                     "Key" : "PBS86"
+                                                                   },
+                     "Javascript, functions, instance" : {
+                                                            "Key" : "PBS31"
+                                                          },
+                     "Javascript, functions, instance (redux)" : {
+                                                                    "Key" : "PBS94"
+                                                                  },
+                     "Javascript, functions, optional arguments" : {
+                                                                      "Key" : "PBS16"
+                                                                    },
+                     "Javascript, functions, self-executing anonymous" : {
+                                                                            "Key" : "PBS24"
+                                                                          },
+                     "Javascript, functions, static" : {
+                                                          "Key" : "PBS31"
+                                                        },
+                     "Javascript, generator functions" : {
+                                                            "Key" : "PBS87"
+                                                          },
+                     "Javascript, generator functions in UI examples" : {
+                                                                           "Key" : "PBS87"
+                                                                         },
+                     "Javascript, get keyword (getter)" : {
+                                                             "Key" : "PBS95"
+                                                           },
+                     "Javascript, has-a relationship" : {
+                                                           "Key" : "PBS98"
+                                                         },
+                     "Javascript, hidden input" : {
+                                                     "Key" : "PBS36"
+                                                   },
+                     "Javascript, if statement" : {
+                                                     "Key" : "PBS13"
+                                                   },
+                     "Javascript, inheritance jargon" : {
+                                                           "Key" : "PBS99"
+                                                         },
+                     "Javascript, instance functions (ES6)" : {
+                                                                 "Key" : "PBS47"
+                                                               },
+                     "Javascript, instance properties (ES6)" : {
+                                                                  "Key" : "PBS47"
+                                                                },
+                     "Javascript, instance vs static properties (ES6)" : {
+                                                                            "Key" : "PBS44"
+                                                                          },
+                     "Javascript, instanceof operator" : {
+                                                            "Key" : "PBS94"
+                                                          },
+                     "Javascript, intro" : {
+                                              "Key" : "PBS12"
+                                            },
+                     "Javascript, is-a relationship" : {
+                                                          "Key" : "PBS99"
+                                                        },
+                     "Javascript, isNan function" : {
+                                                       "Key" : "PBS13"
+                                                     },
+                     "Javascript, join array function" : {
+                                                            "Key" : "PBS18"
+                                                          },
+                     "Javascript, length function" : {
+                                                        "Key" : "PBS18"
+                                                      },
+                     "Javascript, let (ES6)" : {
+                                                  "Key" : "PBS43"
+                                                },
+                     "Javascript, let vs const (when to use)" : {
+                                                                   "Key" : "PBS45"
+                                                                 },
+                     "Javascript, logical operators" : {
+                                                          "Key" : "PBS13"
+                                                        },
+                     "Javascript, looping over arrays (redux)" : {
+                                                                    "Key" : "PBS85"
+                                                                  },
+                     "Javascript, math functions" : {
+                                                       "Key" : "PBS18"
+                                                     },
+                     "Javascript, multi-signature functions/constructors" : {
+                                                                               "Key" : "PBS94"
+                                                                             },
+                     "Javascript, name of a class" : {
+                                                        "Key" : "PBS48"
+                                                      },
+                     "Javascript, name of a function" : {
+                                                           "Key" : "PBS48"
+                                                         },
+                     "Javascript, name of an instance's class" : {
+                                                                    "Key" : "PBS48"
+                                                                  },
+                     "Javascript, nested dictionaries" : {
+                                                            "Key" : "PBS84"
+                                                          },
+                     "Javascript, new keyword (make a new instance of a class)" : {
+                                                                                     "Key" : "PBS94"
+                                                                                   },
+                     "Javascript, number input type" : {
+                                                          "Key" : "PBS36"
+                                                        },
+                     "Javascript, object destructuring" : {
+                                                             "Key" : "PBS84"
+                                                           },
+                     "Javascript, object keys function" : {
+                                                             "Key" : "PBS17"
+                                                           },
+                     "Javascript, object oriented (OO) programming" : {
+                                                                         "Key" : "PBS94"
+                                                                       },
+                     "Javascript, object oriented programming jargon" : {
+                                                                           "Key" : "PBS94"
+                                                                         },
+                     "Javascript, objects" : {
+                                                "Key" : "PBS17"
+                                              },
+                     "Javascript, objects and JSON" : {
+                                                         "Key" : "PBS17"
+                                                       },
+                     "Javascript, objects explained (Will)" : {
+                                                                 "Key" : "wills1"
+                                                               },
+                     "Javascript, objects revisited" : {
+                                                          "Key" : "PBS49"
+                                                        },
+                     "Javascript, objects, prototyped" : {
+                                                            "Key" : "PBS17"
+                                                          },
+                     "Javascript, obscured input" : {
+                                                       "Key" : "PBS36"
+                                                     },
+                     "Javascript, overriding a function" : {
+                                                              "Key" : "PBS47"
+                                                            },
+                     "Javascript, parseFloat function" : {
+                                                            "Key" : "PBS12"
+                                                          },
+                     "Javascript, parseInt function" : {
+                                                          "Key" : "PBS12"
+                                                        },
+                     "Javascript, password input type" : {
+                                                            "Key" : "PBS36"
+                                                          },
+                     "Javascript, polymorphism (ES6)" : {
+                                                           "Key" : "PBS47"
+                                                         },
+                     "Javascript, polymorphism (redux)" : {
+                                                             "Key" : "PBS99"
+                                                           },
+                     "Javascript, prototype revision" : {
+                                                           "Key" : "PBS28"
+                                                         },
+                     "Javascript, prototype revision 2" : {
+                                                             "Key" : "PBS29"
+                                                           },
+                     "Javascript, push function" : {
+                                                      "Key" : "PBS18"
+                                                    },
+                     "Javascript, range input type" : {
+                                                         "Key" : "PBS36"
+                                                       },
+                     "Javascript, recipe for namespacing" : {
+                                                               "Key" : "PBS24"
+                                                             },
+                     "Javascript, recursion" : {
+                                                  "Key" : "PBS15"
+                                                },
+                     "Javascript, regular exp exec function" : {
+                                                                  "Key" : "PBS18"
+                                                                },
+                     "Javascript, regular exp match function" : {
+                                                                   "Key" : "PBS18"
+                                                                 },
+                     "Javascript, regular exp test function" : {
+                                                                  "Key" : "PBS18"
+                                                                },
+                     "Javascript, regular expressions" : {
+                                                            "Key" : "PBS18"
+                                                          },
+                     "Javascript, rest (variadic) arguments in functions (redux)" : {
+                                                                                       "Key" : "PBS86"
+                                                                                     },
+                     "Javascript, rest AKA variadic arguments (ES6)" : {
+                                                                          "Key" : "PBS44"
+                                                                        },
+                     "Javascript, reverse array function" : {
+                                                               "Key" : "PBS18"
+                                                             },
+                     "Javascript, set keyword (setter)" : {
+                                                             "Key" : "PBS95"
+                                                           },
+                     "Javascript, setInterval function" : {
+                                                             "Key" : "PBS22"
+                                                           },
+                     "Javascript, shift function" : {
+                                                       "Key" : "PBS18"
+                                                     },
+                     "Javascript, sort array function" : {
+                                                            "Key" : "PBS18"
+                                                          },
+                     "Javascript, split function" : {
+                                                       "Key" : "PBS18"
+                                                     },
+                     "Javascript, spread operator (...) within arrays" : {
+                                                                            "Key" : "PBS85"
+                                                                          },
+                     "Javascript, spread operator (...) within dictionaries" : {
+                                                                                  "Key" : "PBS84"
+                                                                                },
+                     "Javascript, spread operator (ES6)" : {
+                                                              "Key" : "PBS46"
+                                                            },
+                     "Javascript, static data attributes" : {
+                                                               "Key" : "PBS97"
+                                                             },
+                     "Javascript, static functions" : {
+                                                         "Key" : "PBS97"
+                                                       },
+                     "Javascript, static functions (ES6)" : {
+                                                               "Key" : "PBS47"
+                                                             },
+                     "Javascript, static initialiser function" : {
+                                                                    "Key" : "PBS97"
+                                                                  },
+                     "Javascript, static keyword" : {
+                                                       "Key" : "PBS97"
+                                                     },
+                     "Javascript, static properties (ES6)" : {
+                                                                "Key" : "PBS47"
+                                                              },
+                     "Javascript, static, a closer look" : {
+                                                              "Key" : "PBS48"
+                                                            },
+                     "Javascript, string functions" : {
+                                                         "Key" : "PBS18"
+                                                       },
+                     "Javascript, strings & iterators" : {
+                                                            "Key" : "PBS87"
+                                                          },
+                     "Javascript, super keyword" : {
+                                                      "Key" : "PBS99"
+                                                    },
+                     "Javascript, switch example" : {
+                                                       "Key" : "PBS44"
+                                                     },
+                     "Javascript, telephone input type" : {
+                                                             "Key" : "PBS36"
+                                                           },
+                     "Javascript, ternary operator" : {
+                                                         "Key" : "PBS12"
+                                                       },
+                     "Javascript, this object" : {
+                                                    "Key" : "PBS17"
+                                                  },
+                     "Javascript, this, a closer look" : {
+                                                            "Key" : "PBS48"
+                                                          },
+                     "Javascript, this, determining the value" : {
+                                                                    "Key" : "PBS48"
+                                                                  },
+                     "Javascript, this, use with encapsulation" : {
+                                                                     "Key" : "PBS93"
+                                                                   },
+                     "Javascript, this, within classes" : {
+                                                             "Key" : "PBS94"
+                                                           },
+                     "Javascript, this, within static functions" : {
+                                                                      "Key" : "PBS97"
+                                                                    },
+                     "Javascript, this.constructor" : {
+                                                         "Key" : "PBS97"
+                                                       },
+                     "Javascript, three argument rule" : {
+                                                            "Key" : "PBS94"
+                                                          },
+                     "Javascript, throw" : {
+                                              "Key" : "PBS32"
+                                            },
+                     "Javascript, timers" : {
+                                               "Key" : "PBS22"
+                                             },
+                     "Javascript, toLowerCase function" : {
+                                                             "Key" : "PBS18"
+                                                           },
+                     "Javascript, toUpperCase function" : {
+                                                             "Key" : "PBS18"
+                                                           },
+                     "Javascript, tool to verify variable names" : {
+                                                                      "Key" : "MotherEff"
+                                                                    },
+                     "Javascript, try" : {
+                                            "Key" : "PBS32"
+                                          },
+                     "Javascript, typeof operator" : {
+                                                        "Key" : "PBS18"
+                                                      },
+                     "Javascript, undefined intro" : {
+                                                        "Key" : "PBS12"
+                                                      },
+                     "Javascript, underscore, use in class attribute names" : {
+                                                                                 "Key" : "PBS95"
+                                                                               },
+                     "Javascript, unshift function" : {
+                                                         "Key" : "PBS18"
+                                                       },
+                     "Javascript, use AJAX with callbacks" : {
+                                                                "Key" : "PBS77"
+                                                              },
+                     "Javascript, use callbacks to make code more generic" : {
+                                                                                "Key" : "PBS77"
+                                                                              },
+                     "Javascript, variables" : {
+                                                  "Key" : "PBS12"
+                                                },
+                     "Javascript, while loop" : {
+                                                   "Key" : "PBS14"
+                                                 },
+                     "Javascript, window alert example" : {
+                                                             "Key" : "PBS24"
+                                                           },
+                     "Javascript, worked example, getters & setters" : {
+                                                                          "Key" : "PBS98"
+                                                                        },
+                     "Javascript, worked example, has-a" : {
+                                                              "Key" : "PBS98"
+                                                            },
+                     "Javascript, worked example, is-a" : {
+                                                             "Key" : "PBS99"
+                                                           },
+                     "Javascript, yield keyword, with generator functions" : {
+                                                                                "Key" : "PBS87"
+                                                                              },
+                     "Javascript, yield, passing values" : {
+                                                              "Key" : "PBS87"
+                                                            },
+                     "Jquery documentation links" : {
+                                                       "Key" : "PBS38"
+                                                     },
+                     "Life game Automaton code" : {
+                                                     "Key" : "PBS36"
+                                                   },
+                     "Life game Cell code" : {
+                                                "Key" : "PBS35"
+                                              },
+                     "Life game finished" : {
+                                               "Key" : "PBS42"
+                                             },
+                     "Life game intro" : {
+                                            "Key" : "PBS35"
+                                          },
+                     "Links to useful development tools" : {
+                                                              "Key" : "PBS37"
+                                                            },
+                     "Lodash library of utility functions" : {
+                                                                "Key" : "PBS92"
+                                                              },
+                     "Looped Mustache sections" : {
+                                                     "Key" : "PBS73"
+                                                   },
+                     "MAMP, how to run" : {
+                                             "Key" : "PBS1"
+                                           },
+                     "Making the cursor be a pointer" : {
+                                                           "Key" : "PBS36"
+                                                         },
+                     "Maze cellular automaton" : {
+                                                    "Key" : "PBS51"
+                                                  },
+                     "Mustache partials (templates within templates)" : {
+                                                                           "Key" : "PBS74"
+                                                                         },
+                     "Mustache sections" : {
+                                              "Key" : "PBS73"
+                                            },
+                     "Number class" : {
+                                         "Key" : "PBS90"
+                                       },
+                     "PBS git branching strategy" : {
+                                                       "Key" : "PBS109"
+                                                     },
+                     "Programming Editor" : {
+                                               "Key" : "PBS1"
+                                             },
+                     "Promise.all()" : {
+                                          "Key" : "PBS81"
+                                        },
+                     "QUnit intro" : {
+                                        "Key" : "PBS33"
+                                      },
+                     "QUnit, callbacks" : {
+                                             "Key" : "PBS34"
+                                           },
+                     "QUnit, clone test" : {
+                                              "Key" : "PBS34"
+                                            },
+                     "QUnit, grouping tests" : {
+                                                  "Key" : "PBS33"
+                                                },
+                     "QUnit, hooks" : {
+                                         "Key" : "PBS34"
+                                       },
+                     "QUnit, todo" : {
+                                        "Key" : "PBS35"
+                                      },
+                     "Qunit, deepEqual function" : {
+                                                      "Key" : "PBS33"
+                                                    },
+                     "Qunit, equal function" : {
+                                                  "Key" : "PBS33"
+                                                },
+                     "Qunit, strictEqual function" : {
+                                                        "Key" : "PBS33"
+                                                      },
+                     "Radio buttons in Bootstrap 4" : {
+                                                         "Key" : "PBS62"
+                                                       },
+                     "Radio buttons in HTML forms" : {
+                                                        "Key" : "PBS31"
+                                                      },
+                     "Radio buttons, get value of checked button" : {
+                                                                       "Key" : "PBS63"
+                                                                     },
+                     "Responsive design, layout guidelines" : {
+                                                                 "Key" : "PBS58"
+                                                               },
+                     "Sample data entry form (by Bart!)" : {
+                                                              "Key" : "PBS40"
+                                                            },
+                     "String class" : {
+                                         "Key" : "PBS90"
+                                       },
+                     "Template tag, HTML5" : {
+                                                "Key" : "PBS72"
+                                              },
+                     "Templates, HTML5" : {
+                                             "Key" : "PBS72"
+                                           },
+                     "Templates, Mustache" : {
+                                                "Key" : "PBS73"
+                                              },
+                     "Test Driven Development (TDD)" : {
+                                                          "Key" : "PBS33"
+                                                        },
+                     "URI.js" : {
+                                   "Key" : "PBS23"
+                                 },
+                     "URL structure breakdown" : {
+                                                    "Key" : "PBS75"
+                                                  },
+                     "WAI-ARIA intro" : {
+                                           "Key" : "PBS30"
+                                         },
+                     "WAI-ARIA roles" : {
+                                           "Key" : "PBS30"
+                                         },
+                     "Web forms" : {
+                                      "Key" : "PBS27"
+                                    },
+                     "aa new test topic 2" : {
+                                                "Key" : "PBS118xx"
+                                              },
+                     "anchors" : {
+                                    "Key" : "PBS5"
+                                  },
+                     "asides" : {
+                                   "Key" : "PBS8"
+                                 },
+                     "assertion, use of" : {
+                                              "Key" : "PBS92"
+                                            },
+                     "asynchronous functions with async" : {
+                                                              "Key" : "PBS82"
+                                                            },
+                     "asynchronous self-executing functions (IIFE)" : {
+                                                                         "Key" : "PBS82"
+                                                                       },
+                     "automatic boxing by JavaScript" : {
+                                                           "Key" : "PBS90"
+                                                         },
+                     "awaiting Promises with await" : {
+                                                         "Key" : "PBS82"
+                                                       },
+                     "backgrounds" : {
+                                        "Key" : "PBS7"
+                                      },
+                     "block quotes" : {
+                                         "Key" : "PBS3"
+                                       },
+                     "borders" : {
+                                    "Key" : "PBS7"
+                                  },
+                     "boxes, positioned" : {
+                                              "Key" : "PBS8"
+                                            },
+                     "browser development tools" : {
+                                                      "Key" : "PBS7"
+                                                    },
+                     "browser event model" : {
+                                                "Key" : "PBS22"
+                                              },
+                     "classes" : {
+                                    "Key" : "PBS7"
+                                  },
+                     "client-server model version control" : {
+                                                                "Key" : "PBS101"
+                                                              },
+                     "code tag" : {
+                                     "Key" : "PBS4"
+                                   },
+                     "coercion, use of" : {
+                                             "Key" : "PBS92"
+                                           },
+                     "comments in HTML" : {
+                                             "Key" : "PBS2"
+                                           },
+                     "configuring git" : {
+                                            "Key" : "PBS103"
+                                          },
+                     "deep-clonining functions (Lodash)" : {
+                                                              "Key" : "PBS92"
+                                                            },
+                     "display property" : {
+                                             "Key" : "PBS9"
+                                           },
+                     "distributed (peer-to-peer) model version control" : {
+                                                                             "Key" : "PBS101"
+                                                                           },
+                     "dynamic site defined" : {
+                                                 "Key" : "PBS118"
+                                               },
+                     "figures" : {
+                                    "Key" : "PBS8"
+                                  },
+                     "flex boxes" : {
+                                       "Key" : "PBS9"
+                                     },
+                     "floats" : {
+                                   "Key" : "PBS8"
+                                 },
+                     "following selector" : {
+                                               "Key" : "PBS10"
+                                             },
+                     "free geo-location API" : {
+                                                  "Key" : "PBS80"
+                                                },
+                     "get delete branch" : {
+                                              "Key" : "PBS109"
+                                            },
+                     "git GUIs" : {
+                                     "Key" : "PBS102"
+                                   },
+                     "git URL schemes (for remote repositories)" : {
+                                                                      "Key" : "PBS112"
+                                                                    },
+                     "git add command (stage files)" : {
+                                                          "Key" : "PBS103"
+                                                        },
+                     "git annotated tags" : {
+                                               "Key" : "PBS108"
+                                             },
+                     "git archive command" : {
+                                                "Key" : "PBS105"
+                                              },
+                     "git bare repository defined" : {
+                                                        "Key" : "PBS112"
+                                                      },
+                     "git blob" : {
+                                     "Key" : "PBS102"
+                                   },
+                     "git branch" : {
+                                       "Key" : "PBS102"
+                                     },
+                     "git branch command" : {
+                                               "Key" : "PBS107"
+                                             },
+                     "git checkout -- command (fetch previously committed file)" : {
+                                                                                      "Key" : "PBS106"
+                                                                                    },
+                     "git checkout command" : {
+                                                 "Key" : "PBS105"
+                                               },
+                     "git cherry-pick command" : {
+                                                    "Key" : "PBS106"
+                                                  },
+                     "git commit command" : {
+                                               "Key" : "PBS103"
+                                             },
+                     "git commit defined" : {
+                                               "Key" : "PBS102"
+                                             },
+                     "git config command" : {
+                                               "Key" : "PBS103"
+                                             },
+                     "git conventional commits" : {
+                                                     "Key" : "PBS109"
+                                                   },
+                     "git database name & organization" : {
+                                                             "Key" : "PBS102"
+                                                           },
+                     "git diff command" : {
+                                             "Key" : "PBS104"
+                                           },
+                     "git fast forward merge" : {
+                                                   "Key" : "PBS107"
+                                                 },
+                     "git fetch defined" : {
+                                              "Key" : "PBS112"
+                                            },
+                     "git hunk defined" : {
+                                             "Key" : "PBS104"
+                                           },
+                     "git index" : {
+                                      "Key" : "PBS102"
+                                    },
+                     "git init command" : {
+                                             "Key" : "PBS103"
+                                           },
+                     "git local defined" : {
+                                              "Key" : "PBS112"
+                                            },
+                     "git log command" : {
+                                            "Key" : "PBS104"
+                                          },
+                     "git ls-remote command" : {
+                                                  "Key" : "PBS113"
+                                                },
+                     "git meaningful commit messages" : {
+                                                           "Key" : "PBS109"
+                                                         },
+                     "git merge command" : {
+                                              "Key" : "PBS107"
+                                            },
+                     "git origin defined" : {
+                                               "Key" : "PBS112"
+                                             },
+                     "git pull command" : {
+                                             "Key" : "PBS105"
+                                           },
+                     "git pull defined" : {
+                                             "Key" : "PBS112"
+                                           },
+                     "git push defined" : {
+                                             "Key" : "PBS112"
+                                           },
+                     "git remote defined" : {
+                                               "Key" : "PBS112"
+                                             },
+                     "git repository defined" : {
+                                                   "Key" : "PBS102"
+                                                 },
+                     "git repository parts" : {
+                                                 "Key" : "PBS102"
+                                               },
+                     "git shortcut, branch and change" : {
+                                                            "Key" : "PBS108"
+                                                          },
+                     "git shortcut, stage and commit" : {
+                                                           "Key" : "PBS108"
+                                                         },
+                     "git show command" : {
+                                             "Key" : "PBS106"
+                                           },
+                     "git staging defined" : {
+                                                "Key" : "PBS102"
+                                              },
+                     "git stash" : {
+                                      "Key" : "PBS102"
+                                    },
+                     "git stash command" : {
+                                              "Key" : "PBS111"
+                                            },
+                     "git status command" : {
+                                               "Key" : "PBS103"
+                                             },
+                     "git storage repository defined" : {
+                                                           "Key" : "PBS113"
+                                                         },
+                     "git tag" : {
+                                    "Key" : "PBS102"
+                                  },
+                     "git tag command" : {
+                                            "Key" : "PBS108"
+                                          },
+                     "git track branches defined" : {
+                                                       "Key" : "PBS112"
+                                                     },
+                     "git tree" : {
+                                     "Key" : "PBS102"
+                                   },
+                     "git upstream defined" : {
+                                                 "Key" : "PBS112"
+                                               },
+                     "git working repository defined" : {
+                                                           "Key" : "PBS113"
+                                                         },
+                     "git, adding new files" : {
+                                                  "Key" : "PBS103"
+                                                },
+                     "git, adding remote to existing repository" : {
+                                                                      "Key" : "PBS113"
+                                                                    },
+                     "git, branching strategies" : {
+                                                      "Key" : "PBS107"
+                                                    },
+                     "git, cloning a repository" : {
+                                                      "Key" : "PBS114"
+                                                    },
+                     "git, creating a bare repository" : {
+                                                            "Key" : "PBS113"
+                                                          },
+                     "git, creating new local branch from remote branch" : {
+                                                                              "Key" : "PBS115"
+                                                                            },
+                     "git, defining identity" : {
+                                                   "Key" : "PBS103"
+                                                 },
+                     "git, deleting tracking branches" : {
+                                                            "Key" : "PBS114"
+                                                          },
+                     "git, detached heads explained" : {
+                                                          "Key" : "PBS105"
+                                                        },
+                     "git, dividing changes into separate commits" : {
+                                                                        "Key" : "PBS104"
+                                                                      },
+                     "git, export contents of a commit" : {
+                                                             "Key" : "PBS105"
+                                                           },
+                     "git, fetch vs pull" : {
+                                               "Key" : "PBS116"
+                                             },
+                     "git, fetching remote branches & tags" : {
+                                                                 "Key" : "PBS113"
+                                                               },
+                     "git, getting team organized" : {
+                                                        "Key" : "PBS116"
+                                                      },
+                     "git, hosting options" : {
+                                                 "Key" : "PBS116"
+                                               },
+                     "git, installing" : {
+                                            "Key" : "PBS102"
+                                          },
+                     "git, listing branches" : {
+                                                  "Key" : "PBS107"
+                                                },
+                     "git, moving between branches" : {
+                                                         "Key" : "PBS107"
+                                                       },
+                     "git, pruning local repository" : {
+                                                          "Key" : "PBS115"
+                                                        },
+                     "git, publishing new local branch to remote repository" : {
+                                                                                  "Key" : "PBS114"
+                                                                                },
+                     "git, pushing & tracking with remote repository" : {
+                                                                           "Key" : "PBS114"
+                                                                         },
+                     "git, pushing tags automatically to remote repository" : {
+                                                                                 "Key" : "PBS114"
+                                                                               },
+                     "git, pushing to remote repository" : {
+                                                              "Key" : "PBS113"
+                                                            },
+                     "git, resolving merge conflicts" : {
+                                                           "Key" : "PBS110"
+                                                         },
+                     "git, reverse/abort conflicted merges" : {
+                                                                 "Key" : "PBS110"
+                                                               },
+                     "git, reviewing changes" : {
+                                                   "Key" : "PBS104"
+                                                 },
+                     "git, set text editor" : {
+                                                 "Key" : "PBS103"
+                                               },
+                     "git, staging and committing multiple files" : {
+                                                                       "Key" : "PBS104"
+                                                                     },
+                     "git, staging separate changes to a single file" : {
+                                                                           "Key" : "PBS104"
+                                                                         },
+                     "git, subcommands" : {
+                                             "Key" : "PBS103"
+                                           },
+                     "git, tracking existing branches" : {
+                                                            "Key" : "PBS114"
+                                                          },
+                     "git, tracking new remote branches" : {
+                                                              "Key" : "PBS115"
+                                                            },
+                     "git, using diff to compare arbitrary versions" : {
+                                                                          "Key" : "PBS105"
+                                                                        },
+                     "git, using git stash" : {
+                                                 "Key" : "PBS111"
+                                               },
+                     "git, viewing remote branches & tags" : {
+                                                                "Key" : "PBS113"
+                                                              },
+                     "grouping" : {
+                                     "Key" : "PBS8"
+                                   },
+                     "headings" : {
+                                     "Key" : "PBS3"
+                                   },
+                     "hover pseudo-class" : {
+                                               "Key" : "PBS10"
+                                             },
+                     "images in HTML" : {
+                                           "Key" : "PBS5"
+                                         },
+                     "is.js micro check library" : {
+                                                      "Key" : "PBS78"
+                                                    },
+                     "jQuery Objects" : {
+                                           "Key" : "PBS88"
+                                         },
+                     "jQuery and Bootstrap" : {
+                                                 "Key" : "PBS60"
+                                               },
+                     "jQuery and CSS" : {
+                                           "Key" : "PBS21"
+                                         },
+                     "jQuery and HTML Element Attributes" : {
+                                                               "Key" : "PBS21"
+                                                             },
+                     "jQuery, .on function" : {
+                                                 "Key" : "PBS40"
+                                               },
+                     "jQuery, .validate (plugin)" : {
+                                                       "Key" : "PBS41"
+                                                     },
+                     "jQuery, adding/inserting elements" : {
+                                                              "Key" : "PBS88"
+                                                            },
+                     "jQuery, after function" : {
+                                                   "Key" : "PBS23"
+                                                 },
+                     "jQuery, altering elements" : {
+                                                      "Key" : "PBS88"
+                                                    },
+                     "jQuery, append function" : {
+                                                    "Key" : "PBS23"
+                                                  },
+                     "jQuery, before function" : {
+                                                    "Key" : "PBS23"
+                                                  },
+                     "jQuery, change function" : {
+                                                    "Key" : "PBS40"
+                                                  },
+                     "jQuery, checkboxes" : {
+                                               "Key" : "PBS31"
+                                             },
+                     "jQuery, click function" : {
+                                                   "Key" : "PBS40"
+                                                 },
+                     "jQuery, creating elements" : {
+                                                      "Key" : "PBS23"
+                                                    },
+                     "jQuery, data URLs" : {
+                                              "Key" : "PBS23"
+                                            },
+                     "jQuery, data function" : {
+                                                  "Key" : "PBS26"
+                                                },
+                     "jQuery, data function (redux)" : {
+                                                          "Key" : "PBS88"
+                                                        },
+                     "jQuery, event objects" : {
+                                                  "Key" : "PBS41"
+                                                },
+                     "jQuery, event property, which" : {
+                                                          "Key" : "PBS41"
+                                                        },
+                     "jQuery, event, reset" : {
+                                                 "Key" : "PBS41"
+                                               },
+                     "jQuery, events" : {
+                                           "Key" : "PBS22"
+                                         },
+                     "jQuery, events (redux)" : {
+                                                   "Key" : "PBS88"
+                                                 },
+                     "jQuery, first function" : {
+                                                   "Key" : "PBS40"
+                                                 },
+                     "jQuery, function chaining" : {
+                                                      "Key" : "PBS21"
+                                                    },
+                     "jQuery, function chaining (redux)" : {
+                                                              "Key" : "PBS88"
+                                                            },
+                     "jQuery, get function" : {
+                                                 "Key" : "PBS40"
+                                               },
+                     "jQuery, intro" : {
+                                          "Key" : "PBS20"
+                                        },
+                     "jQuery, is function" : {
+                                                "Key" : "PBS21"
+                                              },
+                     "jQuery, keyup function" : {
+                                                   "Key" : "PBS40"
+                                                 },
+                     "jQuery, looping through an object" : {
+                                                              "Key" : "PBS23"
+                                                            },
+                     "jQuery, navigate the DOM" : {
+                                                     "Key" : "PBS88"
+                                                   },
+                     "jQuery, prepend function" : {
+                                                     "Key" : "PBS23"
+                                                   },
+                     "jQuery, selecting elements" : {
+                                                       "Key" : "PBS21"
+                                                     },
+                     "jQuery, selecting elements (redux)" : {
+                                                               "Key" : "PBS88"
+                                                             },
+                     "jQuery, submit function" : {
+                                                    "Key" : "PBS40"
+                                                  },
+                     "jQuery, testing elements" : {
+                                                     "Key" : "PBS88"
+                                                   },
+                     "links" : {
+                                  "Key" : "PBS5"
+                                },
+                     "lists" : {
+                                  "Key" : "PBS3"
+                                },
+                     "lists, bulleted" : {
+                                            "Key" : "PBS3"
+                                          },
+                     "lists, definition" : {
+                                              "Key" : "PBS3"
+                                            },
+                     "lists, nested" : {
+                                          "Key" : "PBS3"
+                                        },
+                     "lists, numbered" : {
+                                            "Key" : "PBS3"
+                                          },
+                     "margins & padding" : {
+                                              "Key" : "PBS7"
+                                            },
+                     "noscript tag" : {
+                                         "Key" : "PBS22"
+                                       },
+                     "optional CSS pseudo-class" : {
+                                                      "Key" : "PBS39"
+                                                    },
+                     "page structure, HTML" : {
+                                                 "Key" : "PBS2"
+                                               },
+                     "paragraphs" : {
+                                       "Key" : "PBS3"
+                                     },
+                     "precedes selector" : {
+                                              "Key" : "PBS10"
+                                            },
+                     "primitives defined" : {
+                                               "Key" : "PBS90"
+                                             },
+                     "primitives vs objects" : {
+                                                  "Key" : "PBS90"
+                                                },
+                     "promise chain passthrough" : {
+                                                      "Key" : "PBS80"
+                                                    },
+                     "promise chain practical example" : {
+                                                            "Key" : "PBS80"
+                                                          },
+                     "promise chain vs callback" : {
+                                                      "Key" : "PBS80"
+                                                    },
+                     "promises of promises" : {
+                                                 "Key" : "PBS80"
+                                               },
+                     "promises, controlling parallelisation" : {
+                                                                  "Key" : "PBS81"
+                                                                },
+                     "promises, creating fully serial promise chains" : {
+                                                                           "Key" : "PBS81"
+                                                                         },
+                     "pseudo-classes" : {
+                                           "Key" : "PBS10"
+                                         },
+                     "refactoring JavaScript" : {
+                                                   "Key" : "PBS92"
+                                                 },
+                     "required CSS pseudo-class" : {
+                                                      "Key" : "PBS39"
+                                                    },
+                     "sections" : {
+                                     "Key" : "PBS8"
+                                   },
+                     "selector, directly contained >" : {
+                                                           "Key" : "PBS10"
+                                                         },
+                     "semantic versioning (SemVer)" : {
+                                                         "Key" : "PBS109"
+                                                       },
+                     "setCustomValidity function" : {
+                                                       "Key" : "PBS40"
+                                                     },
+                     "shell variables, how to use" : {
+                                                        "Key" : "PBS111"
+                                                      },
+                     "special characters in urls" : {
+                                                       "Key" : "PBS5"
+                                                     },
+                     "static site defined" : {
+                                                "Key" : "PBS118"
+                                              },
+                     "static site generator defined" : {
+                                                          "Key" : "PBS118"
+                                                        },
+                     "stopPropagation function" : {
+                                                     "Key" : "PBS66"
+                                                   },
+                     "style" : {
+                                  "Key" : "PBS6"
+                                },
+                     "styling lists" : {
+                                          "Key" : "PBS10"
+                                        },
+                     "synchronous I/O vs asynchronous I/O" : {
+                                                                "Key" : "PBS82"
+                                                              },
+                     "tabindex" : {
+                                     "Key" : "PBS41"
+                                   },
+                     "tables" : {
+                                   "Key" : "PBS11"
+                                 },
+                     "tag attributes" : {
+                                           "Key" : "PBS5"
+                                         },
+                     "tags, HTML, intro" : {
+                                              "Key" : "PBS2"
+                                            },
+                     "url, absolute" : {
+                                          "Key" : "PBS5"
+                                        },
+                     "url, relative" : {
+                                          "Key" : "PBS5"
+                                        },
+                     "valid/invalid CSS pseudo-classes" : {
+                                                             "Key" : "PBS39"
+                                                           },
+                     "version/release numbering schema" : {
+                                                             "Key" : "PBS109"
+                                                           },
+                     "zzz test topic 1" : {
+                                             "Key" : "PBS118xx"
+                                           }
+                   }
+     }

@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<!-- Include Bootstrap 4 CSS -->
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+		<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/dt-1.10.18/datatables.min.css"/>
+		
+		<!-- Include Font Awesome 5 -->
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+
+		<title>PBS Index (3.0) Test</title>
+	</head>
+	<body>
+	<!-- The Page header -->
+	<header class="container mt-3">
+		<div class="">
+
+			<img class="d-inline align-middle" width="75px" src="https://www.podfeet.com/blog/wp-content/uploads/2018/08/PBS_logo-16-grey.png" alt="PBS Logo goes here" />
+			<h3 class="d-inline display-5 ml-3 align-middle">Programming By Stealth Index  <span class="badge badge-danger">Now with JSON</span></h3>
+			<br>
+			<small>Using Bootstrap Datatable w/ PBS Index Data JSON (test 9)</small>
+			<br>
+		</div>
+	</header>
+	<br>
+	<div class="table-responsive-md m-3" >
+		<table id="logs_table_adv" class="display table table-bordered table-sm ml-3 mr-3" style="width:100%">
+			<thead class="thead-light">
+				<tr>
+					<th scope="col">Topic</th>
+					<th scope="col">PBS URL</th>
+				</tr>
+			</thead>
+			<tfoot class="thead-light">
+				<tr>
+					<th scope="col">Topic</th>
+					<th scope="col">PBS URL</th>
+				</tr>
+			</tfoot>
+
+		</table>
+	</div>
+	<br>
+	<!-- revision date container -->
+	<div class="container">
+		<div class="row">	<!-- outer container, row 8> -->
+			<div class="col-12">	<!-- outer container, col 1> -->
+				<aside class="float-right text-muted p-1 bg-light border rounded">
+				<p class="d-inline font-weight-light align-right" id="vers_div1" style="font-size: 9pt">HTML version info,</p>
+				<p class="d-inline font-weight-light align-right" id="vers_div2" style="font-size: 9pt">data version info</p>
+				</aside>
+			</div>		<!-- outer container, end of col> -->
+		</div>		<!-- outer container, end of row 8> -->
+	</div>
+
+		
+	</body>	 
+	
+	<!-- Include Bootstrap JavaScript from CDNs -->
+	<script src="https://code.jquery.com/jquery-3.4.0.min.js" integrity="sha256-BJeo0qm959uMBGb65z40ejJYGSgR7REI4+CW1fNKwOg=" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+	
+	<script type="text/javascript" src="https://cdn.datatables.net/v/dt/dt-1.10.18/datatables.min.js"></script>
+
+	<!-- Include Mustache.js from a CDN -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/mustache.js/3.0.1/mustache.min.js" integrity="sha256-srhz/t0GOrmVGZryG24MVDyFDYZpvUH2+dnJ8FbpGi0=" crossorigin="anonymous"></script>
+	
+	<!-- This Page's Event handlers -->
+	<script type="text/javascript">
+	const htmlVersionInfo = "Rev. 3.0 (test), 15 Aug 2019";
+	
+	const ERRMSG = 0;
+	const PRIMSG = 1;
+	
+	// get a JS object of the JSON text
+	let jsObject = {};
+		
+	let indexData = [];
+	let theData = [];
+	let rowJSON = {};
+
+	let k = {};
+	let idx = 0;
+	
+
+	// debug vars
+	let globalErr = 0;
+	let xhr = 0;
+
+	// ******************************************************
+	// helper functions
+	// ******************************************************
+	// do a case-insensitive sort
+	function alphax(a, b) {
+		return a.toLowerCase().localeCompare(b.toLowerCase());
+	};
+	
+	$.fn.dataTableExt.oSort['string-case-asc']  = function(x,y) {
+	return ((x < y) ? -1 : ((x > y) ?  1 : 0));
+	};
+	
+	$.fn.dataTable.ext.type.order ['topic-pre'] = function ( d ) {
+		console.log (`in plugin: input is ${d}`);
+		//let x = d.toLowerCase();
+		//console.log (`.          LC is ${x}`);
+
+		return d.toLowerCase();
+		//return (0);
+	};
+	
+	// Create a JSObject with error information 
+	// & add it to the mustache area
+	function displayErrorMessage(sTxt, eTxt, fType){
+			const errText = `-->Failed to get ${fType} (status: ${sTxt}) with error: ${eTxt}`;
+			const $iconIcon = $(`<i>`).addClass('fas fa-exclamation-triangle h4 text-danger');
+			const $iconSpan = $(`<span>`).addClass('text-danger h4').text(errText);
+			$('#logs_table_adv').append($iconIcon); 
+			$('#logs_table_adv').append($iconSpan); 
+		return;
+	}
+		 
+	// ******************************************************
+	// a jQuery Document Ready Event Handler
+	// ******************************************************
+	$(function(){
+		// read in data into JSON struct from external file
+		// make the AJAX call
+		const ajaxRequest = $.ajax({
+			url: './PBSIndexData_new.json', // REQUIRED
+			method: 'GET', // the HTTP method to use, defaults to GET
+			cache: false, // whether or not to allow caching, defaults to true
+			data: { // the form data to send to the server as a dictionary
+			},
+			dataType: 'json', // one of 'text', 'html', or 'json' (for now)
+		}); // returns a jqXHR object representing the AJAX request
+		
+		// establish call-backs
+		xhr = ajaxRequest;
+		ajaxRequest.then(
+			function(data){		// resolved callback
+				//console.log ("in AJAX data success callback...");
+				//console.log (` data is ${data}`);
+
+				// convert data returned to JSON Object
+				jsObject = data;
+				
+				// now have all the data. Render it
+				// loop through all the index topics
+				idx = 0;
+				Object.keys(jsObject.Topics).sort(alphax).forEach(function(topic){
+					//  Use the topic to fetch out the key (=lesson name)
+					k = jsObject.Topics[topic];
+					let kt = k.Key;
+					//console.log (`topic is ${topic}`);
+					//console.log (`key is ${kt}`);
+					let lsn = jsObject.Lessons[kt];
+					if (jQuery.isEmptyObject(lsn)) {
+						// link not defined in JSON. create an object to use with dummy values
+						console.log (`topic #${idx} is empty. kt is ${kt}`);
+						lsn = {};
+						lsn.Title = `NO LINK for ${kt}`;
+						lsn.Link = "no link"
+					}
+
+					//console.log (`lsn is ${lsn.Title}`);
+
+					// create an object ready for rendering
+					let indexRow = new Object();
+					indexRow.Topic = topic;			// index row topic, col 1
+					indexRow.Title = lsn.Title;		// URl title
+					indexRow.Link = lsn.Link;		// actual URL
+					indexRow.Lesson = kt;			// lesson name, like PBS33
+					indexData.push(indexRow);		// add to array of data		
+					
+					idx++;
+				});
+				
+				// convert JSON struct to 2D array for index display
+				// all data in array, Now make JSON array
+				for(let idx=0; idx < indexData.length; idx++){
+					let rowArray = new Array(2);
+					//console.log (`indexData ${idx} has title ${indexData[idx].Topic}`);
+					rowArray[0] = indexData[idx].Topic;
+					rowArray[1] = Mustache.render($('#index_template').html(), indexData[idx]);
+					//console.log (`   row ${idx} title is ${rowArray[0]}`);
+					//console.log (`   --- ${rowArray[1]}`);
+					theData.push(rowArray);
+					//console.log (`array index ${idx} has: ${theData[idx]}`);
+				}
+
+				//console.log (`total array is ${theData}`);
+
+				// create dataTable
+				// -- get data from internal array created above
+				// -- order alpha ascending on col 1
+				// -- set data type to HTML, turn off filter on col 2
+				// -- set # of rows displayed/page, and options thereof
+				// -- pagination: include page numbers + first, last, next, previous buttons on bottom
+				$('#logs_table_adv').DataTable({
+					 data: theData,
+					"order": [[0, 'asc']],
+					"columns": [
+						null,
+						{ "type": "html", "searchable": false}				
+					],
+					"lengthMenu": [[30, 60, 100, -1], [30, 60, 100, "All"]],
+					"pagingType": "full_numbers"
+				});
+				//$('.dataTables_length').addClass('bs-select');
+				
+				// add version info
+				const versionString2 = `Index data created on ${jsObject.DataVersion}`;
+				$('#vers_div2').text(versionString2);
+				
+				const versionString1 = `HTML/JavaScript ${htmlVersionInfo}; `;
+				$('#vers_div1').text(versionString1);
+			},
+			function(err){		// rejected callback
+				globalErr = err;
+				displayErrorMessage("Ajax problem", err.statusText, "index data");
+			}
+		);
+
+	});
+	</script>
+	
+	<!-- Mustache templates -->
+	<!-- use target=top for iFrame in WordPress, use target=blank for all others -->
+	<script type="text/html" id="index_template">
+		<a href="{{Link}}" title="{{Lesson}}" target="_top" rel="noopener noreferrer">{{{Title}}}</a>
+		<!-- <a href="{{Link}}" title="{{Lesson}}" target="_blank" rel="noopener" class="bartificer-externalLink">{{{Title}}}</a>
+			<span class="fas fa-external-link-alt" style="color: lightblue"></span>
+		-->
+	</script>
+
+</html>
+
