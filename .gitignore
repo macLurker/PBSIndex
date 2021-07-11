@@ -1,0 +1,7 @@
+# ignore MSWord files
+/*.docx
+# ignore temporary test & save files
+/PBSIndexData_save.json
+/PBSNewData.txt
+# ignore Automator project files
+/UpdatePBSJSON_vers1.workflow/
