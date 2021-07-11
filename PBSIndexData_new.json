@@ -1,5 +1,5 @@
 {
-       "DataVersion" : " 4 Jul 2021, 12:08",
+       "DataVersion" : "11 Jul 2021, 16:28",
        "Lessons" : {
                       "CSSRef" : {
                                     "Link" : "https://www.w3schools.com/cssref/css_selectors.asp",
@@ -109,6 +109,10 @@
                                    "Link" : "https://pbs.bartificer.net/pbs12.html",
                                    "Title" : "PBS 12 of X &#8211; Introducing JavaScript"
                                  },
+                      "PBS120" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs120.html",
+                                    "Title" : "PBS 120 of X &#8211; Ignoring Files in Git"
+                                  },
                       "PBS13" : {
                                    "Link" : "https://pbs.bartificer.net/pbs13.html",
                                    "Title" : "PBS 13 of X &#8211; JS Conditionals"
@@ -2038,21 +2042,39 @@
                      "git hunk defined" : {
                                              "Key" : "PBS104"
                                            },
+                     "git ignore exceptions" : {
+                                                  "Key" : "PBS120"
+                                                },
+                     "git ignore patterns" : {
+                                                "Key" : "PBS120"
+                                              },
+                     "git ignore tracked files" : {
+                                                     "Key" : "PBS120"
+                                                   },
                      "git index" : {
                                       "Key" : "PBS102"
                                     },
                      "git init command" : {
                                              "Key" : "PBS103"
                                            },
+                     "git list ignored files" : {
+                                                   "Key" : "PBS120"
+                                                 },
                      "git local defined" : {
                                               "Key" : "PBS112"
                                             },
                      "git log command" : {
                                             "Key" : "PBS104"
                                           },
+                     "git ls-files command" : {
+                                                 "Key" : "PBS120"
+                                               },
                      "git ls-remote command" : {
                                                   "Key" : "PBS113"
                                                 },
+                     "git ls-tree command" : {
+                                                "Key" : "PBS120"
+                                              },
                      "git meaningful commit messages" : {
                                                            "Key" : "PBS109"
                                                          },
@@ -2080,6 +2102,9 @@
                      "git repository parts" : {
                                                  "Key" : "PBS102"
                                                },
+                     "git rm command" : {
+                                           "Key" : "PBS120"
+                                         },
                      "git shortcut, branch and change" : {
                                                             "Key" : "PBS108"
                                                           },
