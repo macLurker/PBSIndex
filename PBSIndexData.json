@@ -1,5 +1,5 @@
 {
-       "DataVersion" : "11 Jul 2021, 16:28",
+       "DataVersion" : "25 Jul 2021, 16:54",
        "Lessons" : {
                       "CSSRef" : {
                                     "Link" : "https://www.w3schools.com/cssref/css_selectors.asp",
@@ -112,6 +112,10 @@
                       "PBS120" : {
                                     "Link" : "https://pbs.bartificer.net/pbs120.html",
                                     "Title" : "PBS 120 of X &#8211; Ignoring Files in Git"
+                                  },
+                      "PBS121" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs121.html",
+                                    "Title" : "PBS 121 of X &#8211; Managing Dot Files and an Introduction to Chezmoi"
                                   },
                       "PBS13" : {
                                    "Link" : "https://pbs.bartificer.net/pbs13.html",
@@ -917,6 +921,12 @@
                      "Checkboxes in HTML forms" : {
                                                      "Key" : "PBS31"
                                                    },
+                     "Chezmoi jargon" : {
+                                           "Key" : "PBS121"
+                                         },
+                     "Chezmoi, installing" : {
+                                                "Key" : "PBS121"
+                                              },
                      "Conditional Mustache sections" : {
                                                           "Key" : "PBS73"
                                                         },
@@ -1958,6 +1968,9 @@
                      "distributed (peer-to-peer) model version control" : {
                                                                              "Key" : "PBS101"
                                                                            },
+                     "dot files explained" : {
+                                                "Key" : "PBS121"
+                                              },
                      "dynamic site defined" : {
                                                  "Key" : "PBS118"
                                                },
