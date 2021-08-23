@@ -1,5 +1,5 @@
 {
-       "DataVersion" : "25 Jul 2021, 16:54",
+       "DataVersion" : "23 Aug 2021, 16:39",
        "Lessons" : {
                       "CSSRef" : {
                                     "Link" : "https://www.w3schools.com/cssref/css_selectors.asp",
@@ -116,6 +116,10 @@
                       "PBS121" : {
                                     "Link" : "https://pbs.bartificer.net/pbs121.html",
                                     "Title" : "PBS 121 of X &#8211; Managing Dot Files and an Introduction to Chezmoi"
+                                  },
+                      "PBS122" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs122.html",
+                                    "Title" : "PBS 122 of X &#8211; Managing Dot Files with Chezmoi"
                                   },
                       "PBS13" : {
                                    "Link" : "https://pbs.bartificer.net/pbs13.html",
@@ -924,12 +928,24 @@
                      "Chezmoi jargon" : {
                                            "Key" : "PBS121"
                                          },
+                     "Chezmoi reference manual link" : {
+                                                          "Key" : "PBS122"
+                                                        },
+                     "Chezmoi subcommands" : {
+                                                "Key" : "PBS122"
+                                              },
                      "Chezmoi, installing" : {
                                                 "Key" : "PBS121"
                                               },
+                     "Chezmoi, using git with" : {
+                                                    "Key" : "PBS122"
+                                                  },
                      "Conditional Mustache sections" : {
                                                           "Key" : "PBS73"
                                                         },
+                     "Configuring Chezmoi" : {
+                                                "Key" : "PBS122"
+                                              },
                      "Convert this to jQuery object" : {
                                                           "Key" : "PBS40"
                                                         },
