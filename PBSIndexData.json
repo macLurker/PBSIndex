@@ -925,15 +925,48 @@
                      "Checkboxes in HTML forms" : {
                                                      "Key" : "PBS31"
                                                    },
+          "Chezmoi add subcommand" : {
+            "Key" : "PBS122"
+          },
+          "Chezmoi apply subcommand" : {
+            "Key" : "PBS122"
+          },
+          "Chezmoi cd subcommand" : {
+            "Key" : "PBS122"
+          },
+          "Chezmoi edit subcommand" : {
+            "Key" : "PBS122"
+          },
+          "Chezmoi edit-config subcommand" : {
+            "Key" : "PBS122"
+          },
+          "Chezmoi git subcommand" : {
+            "Key" : "PBS122"
+          },
                      "Chezmoi jargon" : {
                                            "Key" : "PBS121"
                                          },
+          "Chezmoi managed subcommand" : {
+            "Key" : "PBS122"
+          },
                      "Chezmoi reference manual link" : {
                                                           "Key" : "PBS122"
                                                         },
+          "Chezmoi remove subcommand" : {
+            "Key" : "PBS122"
+          },
+          "Chezmoi source-path subcommand" : {
+            "Key" : "PBS122"
+          },
+          "Chezmoi status subcommand" : {
+            "Key" : "PBS122"
+          },
                      "Chezmoi subcommands" : {
                                                 "Key" : "PBS122"
                                               },
+          "Chezmoi unmanage subcommand" : {
+            "Key" : "PBS122"
+          },
                      "Chezmoi, installing" : {
                                                 "Key" : "PBS121"
                                               },
