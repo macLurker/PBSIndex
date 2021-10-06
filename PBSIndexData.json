@@ -1,5 +1,5 @@
 {
-       "DataVersion" : " 4 Oct 2021, 17:39",
+       "DataVersion" : " 6 Oct 2021, 16:36",
        "Lessons" : {
                       "CSSRef" : {
                                     "Link" : "https://www.w3schools.com/cssref/css_selectors.asp",
@@ -124,6 +124,10 @@
                       "PBS123" : {
                                     "Link" : "https://pbs.bartificer.net/pbs123.html",
                                     "Title" : "PBS 123 of X &#8211; Backing up Dot Files with Chezmoi and Intro to Templating"
+                                  },
+                      "PBS124" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs124.html",
+                                    "Title" : "PBS 124 of X &#8211; Chezmoi Templates"
                                   },
                       "PBS13" : {
                                    "Link" : "https://pbs.bartificer.net/pbs13.html",
@@ -968,15 +972,48 @@
                      "Chezmoi source-path subcommand" : {
                                                            "Key" : "PBS122"
                                                          },
+                     "Chezmoi sprig coalesce function" : {
+                                                            "Key" : "PBS124"
+                                                          },
+                     "Chezmoi sprig default function" : {
+                                                           "Key" : "PBS124"
+                                                         },
+                     "Chezmoi sprig utility documentation link" : {
+                                                                     "Key" : "PBS124"
+                                                                   },
                      "Chezmoi status subcommand" : {
                                                       "Key" : "PBS122"
                                                     },
                      "Chezmoi subcommands" : {
                                                 "Key" : "PBS122"
                                               },
-          "Chezmoi template range action" : {
-            "Key" : "PBS123"
-          },
+                     "Chezmoi template actions" : {
+                                                     "Key" : "PBS124"
+                                                   },
+                     "Chezmoi template boolean functions" : {
+                                                               "Key" : "PBS124"
+                                                             },
+                     "Chezmoi template comment action" : {
+                                                            "Key" : "PBS124"
+                                                          },
+                     "Chezmoi template comparison functions" : {
+                                                                  "Key" : "PBS124"
+                                                                },
+                     "Chezmoi template conditional action" : {
+                                                                "Key" : "PBS124"
+                                                              },
+                     "Chezmoi template functions and arguments" : {
+                                                                     "Key" : "PBS124"
+                                                                   },
+                     "Chezmoi template pipelines" : {
+                                                       "Key" : "PBS124"
+                                                     },
+                     "Chezmoi template range action" : {
+                                                          "Key" : "PBS123"
+                                                        },
+                     "Chezmoi template variables" : {
+                                                       "Key" : "PBS124"
+                                                     },
                      "Chezmoi unmanage subcommand" : {
                                                         "Key" : "PBS122"
                                                       },
