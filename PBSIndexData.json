@@ -974,6 +974,9 @@
                      "Chezmoi subcommands" : {
                                                 "Key" : "PBS122"
                                               },
+          "Chezmoi template range action" : {
+            "Key" : "PBS123"
+          },
                      "Chezmoi unmanage subcommand" : {
                                                         "Key" : "PBS122"
                                                       },
