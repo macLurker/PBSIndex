@@ -1,5 +1,5 @@
 {
-       "DataVersion" : " 6 Oct 2021, 16:36",
+       "DataVersion" : " 7 Oct 2021, 17:32",
        "Lessons" : {
                       "CSSRef" : {
                                     "Link" : "https://www.w3schools.com/cssref/css_selectors.asp",
@@ -128,6 +128,10 @@
                       "PBS124" : {
                                     "Link" : "https://pbs.bartificer.net/pbs124.html",
                                     "Title" : "PBS 124 of X &#8211; Chezmoi Templates"
+                                  },
+                      "PBS125" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs125.html",
+                                    "Title" : "PBS 125 of X &#8211; Chezmoi on Multiple Computers"
                                   },
                       "PBS13" : {
                                    "Link" : "https://pbs.bartificer.net/pbs13.html",
@@ -945,6 +949,9 @@
                      "Chezmoi chattr subcommand, with template flag" : {
                                                                           "Key" : "PBS123"
                                                                         },
+                     "Chezmoi config template file and example" : {
+                                                                     "Key" : "PBS125"
+                                                                   },
                      "Chezmoi data subcommand" : {
                                                     "Key" : "PBS123"
                                                   },
@@ -957,6 +964,12 @@
                      "Chezmoi git subcommand" : {
                                                    "Key" : "PBS122"
                                                  },
+                     "Chezmoi how-to page link" : {
+                                                     "Key" : "PBS125"
+                                                   },
+                     "Chezmoi ignore file" : {
+                                                "Key" : "PBS125"
+                                              },
                      "Chezmoi jargon" : {
                                            "Key" : "PBS121"
                                          },
@@ -1011,6 +1024,12 @@
                      "Chezmoi template range action" : {
                                                           "Key" : "PBS123"
                                                         },
+                     "Chezmoi template string functions" : {
+                                                              "Key" : "PBS125"
+                                                            },
+                     "Chezmoi template ternary function" : {
+                                                              "Key" : "PBS125"
+                                                            },
                      "Chezmoi template variables" : {
                                                        "Key" : "PBS124"
                                                      },
