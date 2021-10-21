@@ -1061,7 +1061,7 @@
                      "Convert this to jQuery object" : {
                                                           "Key" : "PBS40"
                                                         },
-                     "Dependency management" : {
+                     "dependency management" : {
                                                   "Key" : "PBS127"
                                                 },
                      "Document Object Model (DOM)" : {
@@ -2102,7 +2102,7 @@
                      "configuring git" : {
                                             "Key" : "PBS103"
                                           },
-                     "deep-clonining functions (Lodash)" : {
+                     "deep-cloning functions (Lodash)" : {
                                                               "Key" : "PBS92"
                                                             },
                      "display property" : {
