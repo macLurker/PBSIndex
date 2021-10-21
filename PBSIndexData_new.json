@@ -1,5 +1,5 @@
 {
-       "DataVersion" : " 7 Oct 2021, 17:32",
+       "DataVersion" : "21 Oct 2021, 07:36",
        "Lessons" : {
                       "CSSRef" : {
                                     "Link" : "https://www.w3schools.com/cssref/css_selectors.asp",
@@ -132,6 +132,10 @@
                       "PBS125" : {
                                     "Link" : "https://pbs.bartificer.net/pbs125.html",
                                     "Title" : "PBS 125 of X &#8211; Chezmoi on Multiple Computers"
+                                  },
+                      "PBS127" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs127.html",
+                                    "Title" : "PBS 127 of X &#8211; Introducing NPM (and Node)"
                                   },
                       "PBS13" : {
                                    "Link" : "https://pbs.bartificer.net/pbs13.html",
@@ -1057,6 +1061,9 @@
                      "Convert this to jQuery object" : {
                                                           "Key" : "PBS40"
                                                         },
+                     "Dependency management" : {
+                                                  "Key" : "PBS127"
+                                                },
                      "Document Object Model (DOM)" : {
                                                         "Key" : "PBS20"
                                                       },
@@ -1942,6 +1949,18 @@
                      "Mustache sections" : {
                                               "Key" : "PBS73"
                                             },
+                     "Node JavaScript runtime" : {
+                                                    "Key" : "PBS127"
+                                                  },
+                     "Node Package Manager (NPM)" : {
+                                                       "Key" : "PBS127"
+                                                     },
+                     "NodeJS defined" : {
+                                           "Key" : "PBS127"
+                                         },
+                     "NodeJS example" : {
+                                           "Key" : "PBS127"
+                                         },
                      "Number class" : {
                                          "Key" : "PBS90"
                                        },
