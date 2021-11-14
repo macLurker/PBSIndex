@@ -1,5 +1,5 @@
 {
-       "DataVersion" : "21 Oct 2021, 07:36",
+       "DataVersion" : "14 Nov 2021, 13:38",
        "Lessons" : {
                       "CSSRef" : {
                                     "Link" : "https://www.w3schools.com/cssref/css_selectors.asp",
@@ -136,6 +136,10 @@
                       "PBS127" : {
                                     "Link" : "https://pbs.bartificer.net/pbs127.html",
                                     "Title" : "PBS 127 of X &#8211; Introducing NPM (and Node)"
+                                  },
+                      "PBS128" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs128.html",
+                                    "Title" : "PBS 128 of X &#8211; JavaScript Module Basics"
                                   },
                       "PBS13" : {
                                    "Link" : "https://pbs.bartificer.net/pbs13.html",
@@ -1061,15 +1065,15 @@
                      "Convert this to jQuery object" : {
                                                           "Key" : "PBS40"
                                                         },
-                     "Dependency management" : {
-                                                  "Key" : "PBS127"
-                                                },
                      "Document Object Model (DOM)" : {
                                                         "Key" : "PBS20"
                                                       },
                      "Document Object Model (DOM) & jQuery" : {
                                                                  "Key" : "PBS88"
                                                                },
+                     "ES6 module loading process" : {
+                                                       "Key" : "PBS128"
+                                                     },
                      "Embedding Javascript in Web Pages" : {
                                                               "Key" : "PBS22"
                                                             },
@@ -1187,6 +1191,21 @@
                      "JQuery, text inputs" : {
                                                 "Key" : "PBS35"
                                               },
+                     "JS Modules, default import example" : {
+                                                               "Key" : "PBS128"
+                                                             },
+                     "JS Modules, export" : {
+                                               "Key" : "PBS128"
+                                             },
+                     "JS Modules, import" : {
+                                               "Key" : "PBS128"
+                                             },
+                     "JS Modules, module specifier defined" : {
+                                                                 "Key" : "PBS128"
+                                                               },
+                     "JS Modules, named import example" : {
+                                                             "Key" : "PBS128"
+                                                           },
                      "JSDoc" : {
                                   "Key" : "PBS24"
                                 },
@@ -2084,6 +2103,9 @@
                      "browser event model" : {
                                                 "Key" : "PBS22"
                                               },
+                     "bundlers introduced" : {
+                                                "Key" : "PBS128"
+                                              },
                      "classes" : {
                                     "Key" : "PBS7"
                                   },
@@ -2102,9 +2124,12 @@
                      "configuring git" : {
                                             "Key" : "PBS103"
                                           },
-                     "deep-clonining functions (Lodash)" : {
-                                                              "Key" : "PBS92"
-                                                            },
+                     "deep-cloning functions (Lodash)" : {
+                                                            "Key" : "PBS92"
+                                                          },
+                     "dependency management" : {
+                                                  "Key" : "PBS127"
+                                                },
                      "display property" : {
                                              "Key" : "PBS9"
                                            },
@@ -2420,6 +2445,9 @@
                      "images in HTML" : {
                                            "Key" : "PBS5"
                                          },
+                     "immediately invoked function expressions (IIFE) " : {
+                                                                             "Key" : "PBS128"
+                                                                           },
                      "is.js micro check library" : {
                                                       "Key" : "PBS78"
                                                     },
@@ -2558,6 +2586,9 @@
                      "noscript tag" : {
                                          "Key" : "PBS22"
                                        },
+                     "npm install vs npm ci" : {
+                                                  "Key" : "PBS128"
+                                                },
                      "optional CSS pseudo-class" : {
                                                       "Key" : "PBS39"
                                                     },
