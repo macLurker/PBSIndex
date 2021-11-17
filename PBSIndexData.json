@@ -1,5 +1,5 @@
 {
-       "DataVersion" : "14 Nov 2021, 13:38",
+       "DataVersion" : "17 Nov 2021, 15:59",
        "Lessons" : {
                       "CSSRef" : {
                                     "Link" : "https://www.w3schools.com/cssref/css_selectors.asp",
@@ -140,6 +140,10 @@
                       "PBS128" : {
                                     "Link" : "https://pbs.bartificer.net/pbs128.html",
                                     "Title" : "PBS 128 of X &#8211; JavaScript Module Basics"
+                                  },
+                      "PBS129" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs129.html",
+                                    "Title" : "PBS 129 of X &#8211; ESLint - Guest Instructor Helma van der Linden"
                                   },
                       "PBS13" : {
                                    "Link" : "https://pbs.bartificer.net/pbs13.html",
@@ -1074,6 +1078,12 @@
                      "ES6 module loading process" : {
                                                        "Key" : "PBS128"
                                                      },
+                     "ESLint plugin for VSCode" : {
+                                                     "Key" : "PBS129"
+                                                   },
+                     "ESLint, for JavaScript" : {
+                                                   "Key" : "PBS129"
+                                                 },
                      "Embedding Javascript in Web Pages" : {
                                                               "Key" : "PBS22"
                                                             },
