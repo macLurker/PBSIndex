@@ -1216,7 +1216,7 @@
                      "JS Modules, named import example" : {
                                                              "Key" : "PBS128"
                                                            },
-                     "JSDoc" : {
+                     "JSDoc, auto-generate API documentation" : {
                                   "Key" : "PBS24"
                                 },
                      "JSDoc, how to use in detail" : {
@@ -1990,7 +1990,7 @@
                      "NodeJS example" : {
                                            "Key" : "PBS127"
                                          },
-                     "npx (execute npm package" : {
+                     "npx (execute npm package)" : {
                                            "Key" : "PBS129"
                                          },
                      "Number class" : {
