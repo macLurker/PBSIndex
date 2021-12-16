@@ -1,5 +1,5 @@
 {
-       "DataVersion" : "17 Nov 2021, 15:59",
+       "DataVersion" : "16 Dec 2021, 14:57",
        "Lessons" : {
                       "CSSRef" : {
                                     "Link" : "https://www.w3schools.com/cssref/css_selectors.asp",
@@ -149,6 +149,10 @@
                                    "Link" : "https://pbs.bartificer.net/pbs13.html",
                                    "Title" : "PBS 13 of X &#8211; JS Conditionals"
                                  },
+                      "PBS131" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs131.html",
+                                    "Title" : "PBS 131 of X &#8211; Introducing JSDoc"
+                                  },
                       "PBS14" : {
                                    "Link" : "https://pbs.bartificer.net/pbs14.html",
                                    "Title" : "PBS 14 of X &#8211; JS Loops &#038; Arrays"
@@ -1219,6 +1223,33 @@
                      "JSDoc, auto-generate API documentation" : {
                                   "Key" : "PBS24"
                                 },
+                     "JSDoc block tag" : {
+                                            "Key" : "PBS131"
+                                          },
+                     "JSDoc doc comment" : {
+                                              "Key" : "PBS131"
+                                            },
+                     "JSDoc documentation link" : {
+                                                     "Key" : "PBS131"
+                                                   },
+                     "JSDoc inline tag" : {
+                                             "Key" : "PBS131"
+                                           },
+                     "JSDoc name paths" : {
+                                             "Key" : "PBS131"
+                                           },
+                     "JSDoc type expression" : {
+                                                  "Key" : "PBS131"
+                                                },
+                     "JSDoc, adding a front page" : {
+                                                       "Key" : "PBS131"
+                                                     },
+                     "JSDoc, defining custom types" : {
+                                                         "Key" : "PBS131"
+                                                       },
+                     "JSDoc, documenting a module, variable, function, or class" : {
+                                                                                      "Key" : "PBS131"
+                                                                                    },
                      "JSDoc, how to use in detail" : {
                                                         "Key" : "PBS37"
                                                       },
@@ -1990,9 +2021,6 @@
                      "NodeJS example" : {
                                            "Key" : "PBS127"
                                          },
-                     "npx (execute npm package)" : {
-                                           "Key" : "PBS129"
-                                         },
                      "Number class" : {
                                          "Key" : "PBS90"
                                        },
@@ -2602,6 +2630,9 @@
                      "npm install vs npm ci" : {
                                                   "Key" : "PBS128"
                                                 },
+                     "npx (execute npm package)" : {
+                                                     "Key" : "PBS129"
+                                                   },
                      "optional CSS pseudo-class" : {
                                                       "Key" : "PBS39"
                                                     },

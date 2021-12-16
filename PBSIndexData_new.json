@@ -1220,7 +1220,7 @@
                      "JS Modules, named import example" : {
                                                              "Key" : "PBS128"
                                                            },
-                     "JSDoc" : {
+                     "JSDoc, auto-generate API documentation" : {
                                   "Key" : "PBS24"
                                 },
                      "JSDoc block tag" : {
@@ -2630,7 +2630,7 @@
                      "npm install vs npm ci" : {
                                                   "Key" : "PBS128"
                                                 },
-                     "npx (execute npm package" : {
+                     "npx (execute npm package)" : {
                                                      "Key" : "PBS129"
                                                    },
                      "optional CSS pseudo-class" : {
