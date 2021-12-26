@@ -1,5 +1,5 @@
 {
-       "DataVersion" : "16 Dec 2021, 14:57",
+       "DataVersion" : "26 Dec 2021, 14:35",
        "Lessons" : {
                       "CSSRef" : {
                                     "Link" : "https://www.w3schools.com/cssref/css_selectors.asp",
@@ -152,6 +152,10 @@
                       "PBS131" : {
                                     "Link" : "https://pbs.bartificer.net/pbs131.html",
                                     "Title" : "PBS 131 of X &#8211; Introducing JSDoc"
+                                  },
+                      "PBS132" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs132.html",
+                                    "Title" : "PBS 132 of X &#8211; Managing JSDoc"
                                   },
                       "PBS14" : {
                                    "Link" : "https://pbs.bartificer.net/pbs14.html",
@@ -1220,12 +1224,12 @@
                      "JS Modules, named import example" : {
                                                              "Key" : "PBS128"
                                                            },
-                     "JSDoc, auto-generate API documentation" : {
-                                  "Key" : "PBS24"
-                                },
                      "JSDoc block tag" : {
                                             "Key" : "PBS131"
                                           },
+                     "JSDoc configuration file" : {
+                                                     "Key" : "PBS132"
+                                                   },
                      "JSDoc doc comment" : {
                                               "Key" : "PBS131"
                                             },
@@ -1238,21 +1242,45 @@
                      "JSDoc name paths" : {
                                              "Key" : "PBS131"
                                            },
+                     "JSDoc themes (templates)" : {
+                                                     "Key" : "PBS132"
+                                                   },
                      "JSDoc type expression" : {
                                                   "Key" : "PBS131"
                                                 },
                      "JSDoc, adding a front page" : {
                                                        "Key" : "PBS131"
                                                      },
+                     "JSDoc, adding additional pages" : {
+                                                           "Key" : "PBS132"
+                                                         },
+                     "JSDoc, auto-generate API documentation" : {
+                                                                   "Key" : "PBS24"
+                                                                 },
+                     "JSDoc, automating document generation in NPM" : {
+                                                                         "Key" : "PBS132"
+                                                                       },
+                     "JSDoc, controlling tags" : {
+                                                    "Key" : "PBS132"
+                                                  },
                      "JSDoc, defining custom types" : {
                                                          "Key" : "PBS131"
                                                        },
                      "JSDoc, documenting a module, variable, function, or class" : {
                                                                                       "Key" : "PBS131"
                                                                                     },
+                     "JSDoc, enabling plugins" : {
+                                                    "Key" : "PBS132"
+                                                  },
+                     "JSDoc, generating different documentation for users and contributors" : {
+                                                                                                 "Key" : "PBS132"
+                                                                                               },
                      "JSDoc, how to use in detail" : {
                                                         "Key" : "PBS37"
                                                       },
+                     "JSDoc, replacing command line flags in config file" : {
+                                                                               "Key" : "PBS132"
+                                                                             },
                      "JavaScript Playground" : {
                                                   "Key" : "PBS12"
                                                 },
@@ -2009,6 +2037,9 @@
                      "Mustache sections" : {
                                               "Key" : "PBS73"
                                             },
+                     "NPM scripts" : {
+                                        "Key" : "PBS132"
+                                      },
                      "Node JavaScript runtime" : {
                                                     "Key" : "PBS127"
                                                   },
@@ -2631,8 +2662,8 @@
                                                   "Key" : "PBS128"
                                                 },
                      "npx (execute npm package)" : {
-                                                     "Key" : "PBS129"
-                                                   },
+                                                      "Key" : "PBS129"
+                                                    },
                      "optional CSS pseudo-class" : {
                                                       "Key" : "PBS39"
                                                     },
