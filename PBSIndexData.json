@@ -1,5 +1,5 @@
 {
-       "DataVersion" : "26 Dec 2021, 14:35",
+       "DataVersion" : "15 Jan 2022, 16:05",
        "Lessons" : {
                       "CSSRef" : {
                                     "Link" : "https://www.w3schools.com/cssref/css_selectors.asp",
@@ -156,6 +156,10 @@
                       "PBS132" : {
                                     "Link" : "https://pbs.bartificer.net/pbs132.html",
                                     "Title" : "PBS 132 of X &#8211; Managing JSDoc"
+                                  },
+                      "PBS133" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs133.html",
+                                    "Title" : "PBS 133 of X &#8211; Firming up our Foundations (1 of 2)"
                                   },
                       "PBS14" : {
                                    "Link" : "https://pbs.bartificer.net/pbs14.html",
@@ -1239,6 +1243,9 @@
                      "JSDoc inline tag" : {
                                              "Key" : "PBS131"
                                            },
+                     "JSDoc most useful tags" : {
+                                                   "Key" : "PBS133"
+                                                 },
                      "JSDoc name paths" : {
                                              "Key" : "PBS131"
                                            },
@@ -1470,6 +1477,9 @@
                      "Javascript, arrow functions (redux)" : {
                                                                 "Key" : "PBS86"
                                                               },
+                     "Javascript, arrow functions (review)" : {
+                                                                 "Key" : "PBS133"
+                                                               },
                      "Javascript, basics" : {
                                                "Key" : "PBS12"
                                              },
@@ -1629,6 +1639,9 @@
                      "Javascript, function arguments (ES6)" : {
                                                                  "Key" : "PBS44"
                                                                },
+                     "Javascript, function chaining (review)" : {
+                                                                   "Key" : "PBS133"
+                                                                 },
                      "Javascript, function class constructor" : {
                                                                    "Key" : "PBS94"
                                                                  },
@@ -2661,6 +2674,9 @@
                      "npm install vs npm ci" : {
                                                   "Key" : "PBS128"
                                                 },
+                     "npm install vs npm ci (redux)" : {
+                                                          "Key" : "PBS133"
+                                                        },
                      "npx (execute npm package)" : {
                                                       "Key" : "PBS129"
                                                     },
