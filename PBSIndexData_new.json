@@ -1,5 +1,5 @@
 {
-       "DataVersion" : "15 Jan 2022, 16:05",
+       "DataVersion" : "27 Jan 2022, 12:27",
        "Lessons" : {
                       "CSSRef" : {
                                     "Link" : "https://www.w3schools.com/cssref/css_selectors.asp",
@@ -160,6 +160,10 @@
                       "PBS133" : {
                                     "Link" : "https://pbs.bartificer.net/pbs133.html",
                                     "Title" : "PBS 133 of X &#8211; Firming up our Foundations (1 of 2)"
+                                  },
+                      "PBS134" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs134.html",
+                                    "Title" : "PBS 134 of X &#8211; Firming up our Foundations (2 of 2)"
                                   },
                       "PBS14" : {
                                    "Link" : "https://pbs.bartificer.net/pbs14.html",
@@ -1538,7 +1542,7 @@
                                                           "Key" : "PBS29"
                                                         },
                      "Javascript, closure" : {
-                                                "Key" : "PBS24"
+                                                "Key" : "PBS134"
                                               },
                      "Javascript, comparisons" : {
                                                     "Key" : "PBS13"
@@ -1609,6 +1613,9 @@
                      "Javascript, extends (inherits from) keyword" : {
                                                                         "Key" : "PBS99"
                                                                       },
+                     "Javascript, factory method" : {
+                                                       "Key" : "PBS134"
+                                                     },
                      "Javascript, for loop" : {
                                                  "Key" : "PBS14"
                                                },
@@ -1702,6 +1709,9 @@
                      "Javascript, get keyword (getter)" : {
                                                              "Key" : "PBS95"
                                                            },
+                     "Javascript, getters (review)" : {
+                                                         "Key" : "PBS134"
+                                                       },
                      "Javascript, has-a relationship" : {
                                                            "Key" : "PBS98"
                                                          },
@@ -2689,6 +2699,9 @@
                      "paragraphs" : {
                                        "Key" : "PBS3"
                                      },
+                     "passthrough functions (review)" : {
+                                                           "Key" : "PBS134"
+                                                         },
                      "precedes selector" : {
                                               "Key" : "PBS10"
                                             },
@@ -2749,6 +2762,9 @@
                      "static site generator defined" : {
                                                           "Key" : "PBS118"
                                                         },
+                     "stealth functions" : {
+                                              "Key" : "PBS134"
+                                            },
                      "stopPropagation function" : {
                                                      "Key" : "PBS66"
                                                    },
