@@ -1,5 +1,5 @@
 {
-       "DataVersion" : "24 Feb 2022, 12:06",
+       "DataVersion" : "16 Mar 2022, 16:32",
        "Lessons" : {
                       "CSSRef" : {
                                     "Link" : "https://www.w3schools.com/cssref/css_selectors.asp",
@@ -168,6 +168,10 @@
                       "PBS135" : {
                                     "Link" : "https://pbs.bartificer.net/pbs135.html",
                                     "Title" : "PBS 135 of X &#8211; Introducing Jest (and re-Introducing Test Driven Development & Unit Testing)"
+                                  },
+                      "PBS136" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs136.html",
+                                    "Title" : "PBS 136 of X &#8211; More Jesting"
                                   },
                       "PBS14" : {
                                    "Link" : "https://pbs.bartificer.net/pbs14.html",
@@ -2025,15 +2029,42 @@
                      "Javascript, yield, passing values" : {
                                                               "Key" : "PBS87"
                                                             },
+                     "Jest .only modifier " : {
+                                                 "Key" : "PBS136"
+                                               },
+                     "Jest .skip modifier" : {
+                                                "Key" : "PBS136"
+                                              },
+                     "Jest describe function" : {
+                                                   "Key" : "PBS136"
+                                                 },
+                     "Jest describe.each function" : {
+                                                        "Key" : "PBS136"
+                                                      },
                      "Jest documentation links" : {
                                                      "Key" : "PBS135"
                                                    },
+                     "Jest function expect" : {
+                                                 "Key" : "PBS135"
+                                               },
+                     "Jest function test" : {
+                                               "Key" : "PBS135"
+                                             },
                      "Jest intro" : {
                                        "Key" : "PBS135"
                                      },
                      "Jest matchers" : {
                                           "Key" : "PBS135"
                                         },
+                     "Jest, grouping tests" : {
+                                                 "Key" : "PBS136"
+                                               },
+                     "Jest, modifying test sequence" : {
+                                                          "Key" : "PBS136"
+                                                        },
+                     "Jest, test setup and tear-down " : {
+                                                            "Key" : "PBS136"
+                                                          },
                      "Jquery documentation links" : {
                                                        "Key" : "PBS38"
                                                      },
