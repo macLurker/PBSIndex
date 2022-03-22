@@ -16,4 +16,4 @@ To test new data, use: https://maclurker.github.io/PBSIndex/test.html
 To load production page, use: https://maclurker.github.io/PBSIndex/index.html
 
 All files created by D. Rendon, June 2020
-Connected to Podfeet.com, March 2022
+Connected to Podfeet.com via github, March 2022
