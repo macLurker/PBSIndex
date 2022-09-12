@@ -1,5 +1,5 @@
 {
-       "DataVersion" : "12 Sep 2022, 15:58",
+       "DataVersion" : "12 Sep 2022, 16:11",
        "Lessons" : {
                       "CSSRef" : {
                                     "Link" : "https://www.w3schools.com/cssref/css_selectors.asp",
@@ -180,6 +180,10 @@
                       "PBS138" : {
                                     "Link" : "https://pbs.bartificer.net/pbs138.html",
                                     "Title" : "PBS 138 of X &#8211; Bundling a Web App/Site with Webpack (Part 1)"
+                                  },
+                      "PBS139" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs139.html",
+                                    "Title" : "PBS 139 of X &#8211; Bundling a Web App/Site with Webpack (Part 2)"
                                   },
                       "PBS14" : {
                                    "Link" : "https://pbs.bartificer.net/pbs14.html",
@@ -918,9 +922,15 @@
                      "Bootstrap 4, which notification to use" : {
                                                                    "Key" : "PBS70"
                                                                  },
+                     "Bootstrap 5 intro" : {
+                                              "Key" : "PBS139"
+                                            },
                      "Bootstrap and JavaScript interactions" : {
                                                                   "Key" : "PBS60"
                                                                 },
+                     "Bootstrap icons, how to use " : {
+                                                         "Key" : "PBS139"
+                                                       },
                      "Bootstrap, using components to build a game" : {
                                                                         "Key" : "PBS78"
                                                                       },
@@ -1119,6 +1129,9 @@
                      "Embedding Javascript in Web Pages" : {
                                                               "Key" : "PBS22"
                                                             },
+                     "Fontsource, how to use" : {
+                                                   "Key" : "PBS139"
+                                                 },
                      "Form events" : {
                                         "Key" : "PBS41"
                                       },
@@ -2207,6 +2220,9 @@
                                                   },
                      "Using Webpack, part 1" : {
                                                   "Key" : "PBS138"
+                                                },
+                     "Using Webpack, part 2" : {
+                                                  "Key" : "PBS139"
                                                 },
                      "WAI-ARIA intro" : {
                                            "Key" : "PBS30"
