@@ -1,5 +1,5 @@
 {
-       "DataVersion" : "12 Sep 2022, 16:11",
+       "DataVersion" : "21 Dec 2022, 16:22",
        "Lessons" : {
                       "CSSRef" : {
                                     "Link" : "https://www.w3schools.com/cssref/css_selectors.asp",
@@ -189,6 +189,10 @@
                                    "Link" : "https://pbs.bartificer.net/pbs14.html",
                                    "Title" : "PBS 14 of X &#8211; JS Loops &#038; Arrays"
                                  },
+                      "PBS140" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs140.html",
+                                    "Title" : "PBS 140 of X &#8211; UML Class Diagrams"
+                                  },
                       "PBS15" : {
                                    "Link" : "https://pbs.bartificer.net/pbs15.html",
                                    "Title" : "PBS 15 of X &#8211; JS Functions"
@@ -2212,6 +2216,24 @@
                      "Test Driven Development (redux)" : {
                                                             "Key" : "PBS135"
                                                           },
+                     "UML class diagram definition" : {
+                                                         "Key" : "PBS140"
+                                                       },
+                     "UML class diagrams, adding class members" : {
+                                                                     "Key" : "PBS140"
+                                                                   },
+                     "UML class diagrams, cardinality" : {
+                                                            "Key" : "PBS140"
+                                                          },
+                     "UML class diagrams, drawing abstract classes" : {
+                                                                         "Key" : "PBS140"
+                                                                       },
+                     "UML class diagrams, drawing aggregation and composition class relationships" : {
+                                                                                                        "Key" : "PBS140"
+                                                                                                      },
+                     "UML class diagrams, drawing inheritance class relationship" : {
+                                                                                       "Key" : "PBS140"
+                                                                                     },
                      "URI.js" : {
                                    "Key" : "PBS23"
                                  },
