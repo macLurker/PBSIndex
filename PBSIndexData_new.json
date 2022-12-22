@@ -1,5 +1,5 @@
 {
-       "DataVersion" : "21 Dec 2022, 16:22",
+       "DataVersion" : "22 Dec 2022, 14:58",
        "Lessons" : {
                       "CSSRef" : {
                                     "Link" : "https://www.w3schools.com/cssref/css_selectors.asp",
@@ -192,6 +192,10 @@
                       "PBS140" : {
                                     "Link" : "https://pbs.bartificer.net/pbs140.html",
                                     "Title" : "PBS 140 of X &#8211; UML Class Diagrams"
+                                  },
+                      "PBS141" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs141.html",
+                                    "Title" : "PBS 141 of X &#8211; Generating UML Class Diagrams with Mermaid"
                                   },
                       "PBS15" : {
                                    "Link" : "https://pbs.bartificer.net/pbs15.html",
@@ -2123,6 +2127,12 @@
                      "Maze cellular automaton" : {
                                                     "Key" : "PBS51"
                                                   },
+                     "Mermaid syntax" : {
+                                           "Key" : "PBS141"
+                                         },
+                     "Mermaid, installing " : {
+                                                 "Key" : "PBS141"
+                                               },
                      "Mustache partials (templates within templates)" : {
                                                                            "Key" : "PBS74"
                                                                          },
