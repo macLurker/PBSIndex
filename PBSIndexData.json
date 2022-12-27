@@ -1314,6 +1314,9 @@
                      "JSDoc, defining custom types" : {
                                                          "Key" : "PBS131"
                                                        },
+                    "JSDoc, Docdash theme" : {
+                                                    "Key" : "PBS132"
+                                                       },
                      "JSDoc, documenting a module, variable, function, or class" : {
                                                                                       "Key" : "PBS131"
                                                                                     },
