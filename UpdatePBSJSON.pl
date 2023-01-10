@@ -12,10 +12,11 @@
 # Revision History:
 #	05/28/19     d.rendon     Initial creation
 #	02/24/20.    d.rendon     Update for Bart's new URL pattern
+#	01/05/23     d.rendon     Add check on input file open
 #
 #******************************************************************************
 use POSIX qw(strftime);
-my $version = "1.2";
+my $version = "1.3";
 
 use JSON;
 use Data::Dumper;
@@ -37,7 +38,9 @@ $numTopics = 0;
 #=============================================
 # Suck in file data into string
 # Get input from data file
-open (INP,$filename);
+#open (INP,$filename);
+open (INP,$filename) or die "Unable to open JSON data file ".$filename."\n <<";
+
 @lines = ();
 @lines = <INP>;
 $l = scalar(@lines);
@@ -54,7 +57,9 @@ $pobj = from_json($json);			# convert JSON text into Perl object
 #=============================================
 # Get new index data from data file
 #=============================================
-open (INP2,$newdataFilename);
+#open (INP2,$newdataFilename);
+open (INP2,$newdataFilename) or die "Unable to open new data file ".$newdataFilename."\n <<";
+
 @lines = ();
 @lines = <INP2>;
 $l2 = scalar(@lines);

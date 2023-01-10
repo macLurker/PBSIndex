@@ -1,5 +1,5 @@
 {
-       "DataVersion" : "27 Dec 2022, 16:10",
+       "DataVersion" : "10 Jan 2023, 16:30",
        "Lessons" : {
                       "CSSRef" : {
                                     "Link" : "https://www.w3schools.com/cssref/css_selectors.asp",
@@ -196,6 +196,10 @@
                       "PBS141" : {
                                     "Link" : "https://pbs.bartificer.net/pbs141.html",
                                     "Title" : "PBS 141 of X &#8211; Generating UML Class Diagrams with Mermaid"
+                                  },
+                      "PBS143" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs143.html",
+                                    "Title" : "PBS 143 of X &#8211; Shell Script Basics"
                                   },
                       "PBS15" : {
                                    "Link" : "https://pbs.bartificer.net/pbs15.html",
@@ -1296,6 +1300,9 @@
                      "JSDoc type expression" : {
                                                   "Key" : "PBS131"
                                                 },
+                     "JSDoc, Docdash theme" : {
+                                                 "Key" : "PBS132"
+                                               },
                      "JSDoc, adding a front page" : {
                                                        "Key" : "PBS131"
                                                      },
@@ -1313,9 +1320,6 @@
                                                   },
                      "JSDoc, defining custom types" : {
                                                          "Key" : "PBS131"
-                                                       },
-                    "JSDoc, Docdash theme" : {
-                                                    "Key" : "PBS132"
                                                        },
                      "JSDoc, documenting a module, variable, function, or class" : {
                                                                                       "Key" : "PBS131"
@@ -2871,6 +2875,12 @@
                      "setCustomValidity function" : {
                                                        "Key" : "PBS40"
                                                      },
+                     "shell scripts, introduction" : {
+                                                        "Key" : "PBS143"
+                                                      },
+                     "shell scripts, strings and quotes " : {
+                                                               "Key" : "PBS143"
+                                                             },
                      "shell variables, how to use" : {
                                                         "Key" : "PBS111"
                                                       },
