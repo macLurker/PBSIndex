@@ -9,7 +9,7 @@ File List:
 * PBSIndexData.json - production index data, updated after every PBS episode
 * PBSNewData_template.txt - Template for new PBS episode data
 * scripts/WF_shell1.sh - shell script to run UpdatePBSJSON.pl & check results
-* scripts/WF_shell2.sh - shell script put changes in git/GitHub
+* scripts/WF_shell2.sh - shell script to put changes in git/GitHub
 * test.html - HTML file for testing newly updated PBS index data file
 * UpdatePBSJSON.pl - Perl script to update PBSIndexData.json from PBSNewData.txt
 
