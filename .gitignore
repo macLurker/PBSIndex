@@ -5,3 +5,6 @@
 /PBSNewData.txt
 # ignore Automator project files
 /UpdatePBSJSON_vers1.workflow/
+# ignore test data & scripts
+/scripts/UpdatePBSJSON.pl
+/scripts/test*
