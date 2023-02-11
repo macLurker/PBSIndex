@@ -1,5 +1,5 @@
 {
-       "DataVersion" : "10 Jan 2023, 16:30",
+       "DataVersion" : "11 Feb 2023, 16:41",
        "Lessons" : {
                       "CSSRef" : {
                                     "Link" : "https://www.w3schools.com/cssref/css_selectors.asp",
@@ -200,6 +200,10 @@
                       "PBS143" : {
                                     "Link" : "https://pbs.bartificer.net/pbs143.html",
                                     "Title" : "PBS 143 of X &#8211; Shell Script Basics"
+                                  },
+                      "PBS144" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs144.html",
+                                    "Title" : "PBS 144 of X &#8211; Basic Shell Script IO"
                                   },
                       "PBS15" : {
                                    "Link" : "https://pbs.bartificer.net/pbs15.html",
@@ -2875,6 +2879,15 @@
                      "setCustomValidity function" : {
                                                        "Key" : "PBS40"
                                                      },
+                     "shell scripts, command line arguments" : {
+                                                                  "Key" : "PBS144"
+                                                                },
+                     "shell scripts, exit codes " : {
+                                                       "Key" : "PBS144"
+                                                     },
+                     "shell scripts, exit codes as pseudo-boolean" : {
+                                                                        "Key" : "PBS144"
+                                                                      },
                      "shell scripts, introduction" : {
                                                         "Key" : "PBS143"
                                                       },
