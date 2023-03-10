@@ -1,5 +1,5 @@
 {
-       "DataVersion" : "10 Mar 2023, 15:39",
+       "DataVersion" : "10 Mar 2023, 16:02",
        "Lessons" : {
                       "CSSRef" : {
                                     "Link" : "https://www.w3schools.com/cssref/css_selectors.asp",
@@ -208,6 +208,10 @@
                       "PBS145" : {
                                     "Link" : "https://pbs.bartificer.net/pbs145.html",
                                     "Title" : "PBS 145 of X &#8211; Shell Conditionals"
+                                  },
+                      "PBS146" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs146.html",
+                                    "Title" : "PBS 146 of X &#8211; Shell Loops"
                                   },
                       "PBS15" : {
                                    "Link" : "https://pbs.bartificer.net/pbs15.html",
@@ -2895,8 +2899,14 @@
                      "shell scripts, exit codes as pseudo-boolean" : {
                                                                         "Key" : "PBS144"
                                                                       },
+                     "shell scripts, for loops" : {
+                                                     "Key" : "PBS146"
+                                                   },
                      "shell scripts, introduction" : {
                                                         "Key" : "PBS143"
+                                                      },
+                     "shell scripts, select loops" : {
+                                                        "Key" : "PBS146"
                                                       },
                      "shell scripts, strings and quotes " : {
                                                                "Key" : "PBS143"
@@ -2907,6 +2917,12 @@
                      "shell scripts, test command operators" : {
                                                                   "Key" : "PBS145"
                                                                 },
+                     "shell scripts, until loops" : {
+                                                       "Key" : "PBS146"
+                                                     },
+                     "shell scripts, while loops" : {
+                                                       "Key" : "PBS146"
+                                                     },
                      "shell variables, how to use" : {
                                                         "Key" : "PBS111"
                                                       },
