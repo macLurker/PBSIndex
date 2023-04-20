@@ -1,5 +1,5 @@
 {
-       "DataVersion" : "10 Mar 2023, 16:02",
+       "DataVersion" : "20 Apr 2023, 16:31",
        "Lessons" : {
                       "CSSRef" : {
                                     "Link" : "https://www.w3schools.com/cssref/css_selectors.asp",
@@ -212,6 +212,10 @@
                       "PBS146" : {
                                     "Link" : "https://pbs.bartificer.net/pbs146.html",
                                     "Title" : "PBS 146 of X &#8211; Shell Loops"
+                                  },
+                      "PBS147" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs147.html",
+                                    "Title" : "PBS 147 of X &#8211; Bash Arrays"
                                   },
                       "PBS15" : {
                                    "Link" : "https://pbs.bartificer.net/pbs15.html",
@@ -2320,13 +2324,19 @@
                      "backgrounds" : {
                                         "Key" : "PBS7"
                                       },
+                     "bash, array manipulation" : {
+                                                     "Key" : "PBS147"
+                                                   },
                      "bash, case command" : {
-                                      "Key" : "PBS145"
-                                      },
+                                               "Key" : "PBS145"
+                                             },
+                     "bash, declare an array" : {
+                                                   "Key" : "PBS147"
+                                                 },
                      "bash, if command" : {
-                                      "Key" : "PBS145"
-                                     },
-                    "block quotes" : {
+                                             "Key" : "PBS145"
+                                           },
+                     "block quotes" : {
                                          "Key" : "PBS3"
                                        },
                      "borders" : {
@@ -2906,14 +2916,14 @@
                                                                         "Key" : "PBS144"
                                                                       },
                      "shell scripts, for loop" : {
-                                                     "Key" : "PBS146"
-                                                   },
+                                                    "Key" : "PBS146"
+                                                  },
                      "shell scripts, introduction" : {
                                                         "Key" : "PBS143"
                                                       },
                      "shell scripts, select loop" : {
-                                                        "Key" : "PBS146"
-                                                      },
+                                                       "Key" : "PBS146"
+                                                     },
                      "shell scripts, strings and quotes " : {
                                                                "Key" : "PBS143"
                                                              },
@@ -2924,11 +2934,11 @@
                                                                   "Key" : "PBS145"
                                                                 },
                      "shell scripts, until loop" : {
-                                                       "Key" : "PBS146"
-                                                     },
+                                                      "Key" : "PBS146"
+                                                    },
                      "shell scripts, while loop" : {
-                                                       "Key" : "PBS146"
-                                                     },
+                                                      "Key" : "PBS146"
+                                                    },
                      "shell variables, how to use" : {
                                                         "Key" : "PBS111"
                                                       },
