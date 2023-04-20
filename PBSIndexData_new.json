@@ -1,5 +1,5 @@
 {
-       "DataVersion" : "20 Apr 2023, 16:31",
+       "DataVersion" : "20 Apr 2023, 16:40",
        "Lessons" : {
                       "CSSRef" : {
                                     "Link" : "https://www.w3schools.com/cssref/css_selectors.asp",
@@ -216,6 +216,10 @@
                       "PBS147" : {
                                     "Link" : "https://pbs.bartificer.net/pbs147.html",
                                     "Title" : "PBS 147 of X &#8211; Bash Arrays"
+                                  },
+                      "PBS148" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs148.html",
+                                    "Title" : "PBS 148 of X &#8211; A Bash Potpourri (Subshells, Relative Paths & More)"
                                   },
                       "PBS15" : {
                                    "Link" : "https://pbs.bartificer.net/pbs15.html",
@@ -2324,6 +2328,12 @@
                      "backgrounds" : {
                                         "Key" : "PBS7"
                                       },
+                     "bash here (multi-line) strings" : {
+                                                           "Key" : "PBS148"
+                                                         },
+                     "bash subshells" : {
+                                           "Key" : "PBS148"
+                                         },
                      "bash, array manipulation" : {
                                                      "Key" : "PBS147"
                                                    },
@@ -2336,6 +2346,9 @@
                      "bash, if command" : {
                                              "Key" : "PBS145"
                                            },
+                     "bash, split file path & name string" : {
+                                                                "Key" : "PBS148"
+                                                              },
                      "block quotes" : {
                                          "Key" : "PBS3"
                                        },
