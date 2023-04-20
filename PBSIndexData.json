@@ -2320,7 +2320,13 @@
                      "backgrounds" : {
                                         "Key" : "PBS7"
                                       },
-                     "block quotes" : {
+                     "bash, case command" : {
+                                      "Key" : "PBS145"
+                                      },
+                     "bash, if command" : {
+                                      "Key" : "PBS145"
+                                     },
+                    "block quotes" : {
                                          "Key" : "PBS3"
                                        },
                      "borders" : {
@@ -2899,13 +2905,13 @@
                      "shell scripts, exit codes as pseudo-boolean" : {
                                                                         "Key" : "PBS144"
                                                                       },
-                     "shell scripts, for loops" : {
+                     "shell scripts, for loop" : {
                                                      "Key" : "PBS146"
                                                    },
                      "shell scripts, introduction" : {
                                                         "Key" : "PBS143"
                                                       },
-                     "shell scripts, select loops" : {
+                     "shell scripts, select loop" : {
                                                         "Key" : "PBS146"
                                                       },
                      "shell scripts, strings and quotes " : {
@@ -2917,10 +2923,10 @@
                      "shell scripts, test command operators" : {
                                                                   "Key" : "PBS145"
                                                                 },
-                     "shell scripts, until loops" : {
+                     "shell scripts, until loop" : {
                                                        "Key" : "PBS146"
                                                      },
-                     "shell scripts, while loops" : {
+                     "shell scripts, while loop" : {
                                                        "Key" : "PBS146"
                                                      },
                      "shell variables, how to use" : {
