@@ -1,5 +1,5 @@
 {
-       "DataVersion" : "20 Apr 2023, 16:40",
+       "DataVersion" : "22 Apr 2023, 07:16",
        "Lessons" : {
                       "CSSRef" : {
                                     "Link" : "https://www.w3schools.com/cssref/css_selectors.asp",
@@ -220,6 +220,10 @@
                       "PBS148" : {
                                     "Link" : "https://pbs.bartificer.net/pbs148.html",
                                     "Title" : "PBS 148 of X &#8211; A Bash Potpourri (Subshells, Relative Paths & More)"
+                                  },
+                      "PBS149" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs149.html",
+                                    "Title" : "PBS 149 of X &#8211; Better Arguments with POSIX Special Variables and Options"
                                   },
                       "PBS15" : {
                                    "Link" : "https://pbs.bartificer.net/pbs15.html",
@@ -2916,6 +2920,12 @@
                      "setCustomValidity function" : {
                                                        "Key" : "PBS40"
                                                      },
+                     "shell scripts, POSIX variables" : {
+                                                           "Key" : "PBS149"
+                                                         },
+                     "shell scripts, command line argument processing" : {
+                                                                            "Key" : "PBS149"
+                                                                          },
                      "shell scripts, command line arguments" : {
                                                                   "Key" : "PBS144"
                                                                 },
@@ -2931,6 +2941,12 @@
                      "shell scripts, for loop" : {
                                                     "Key" : "PBS146"
                                                   },
+                     "shell scripts, getopts command" : {
+                                                           "Key" : "PBS149"
+                                                         },
+                     "shell scripts, getopts example" : {
+                                                           "Key" : "PBS149"
+                                                         },
                      "shell scripts, introduction" : {
                                                         "Key" : "PBS143"
                                                       },
