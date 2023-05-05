@@ -1,5 +1,5 @@
 {
-       "DataVersion" : "22 Apr 2023, 07:16",
+       "DataVersion" : " 5 May 2023, 15:53",
        "Lessons" : {
                       "CSSRef" : {
                                     "Link" : "https://www.w3schools.com/cssref/css_selectors.asp",
@@ -229,6 +229,10 @@
                                    "Link" : "https://pbs.bartificer.net/pbs15.html",
                                    "Title" : "PBS 15 of X &#8211; JS Functions"
                                  },
+                      "PBS150" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs150.html",
+                                    "Title" : "PBS 150 of X &#8211; Script Plumbing"
+                                  },
                       "PBS16" : {
                                    "Link" : "https://pbs.bartificer.net/pbs16.html",
                                    "Title" : "PBS 16 of X &#8211; JS Callbacks"
@@ -2341,6 +2345,9 @@
                      "bash, array manipulation" : {
                                                      "Key" : "PBS147"
                                                    },
+                     "bash, capturing STDIN" : {
+                                                  "Key" : "PBS150"
+                                                },
                      "bash, case command" : {
                                                "Key" : "PBS145"
                                              },
@@ -2353,6 +2360,21 @@
                      "bash, split file path & name string" : {
                                                                 "Key" : "PBS148"
                                                               },
+                     "bash, standard error (STDERR)" : {
+                                                          "Key" : "PBS150"
+                                                        },
+                     "bash, standard in (STDIN)" : {
+                                                      "Key" : "PBS150"
+                                                    },
+                     "bash, standard out (STDOUT)" : {
+                                                        "Key" : "PBS150"
+                                                      },
+                     "bash, stream redirection operators" : {
+                                                               "Key" : "PBS150"
+                                                             },
+                     "bash, terminal plumbing explained" : {
+                                                              "Key" : "PBS150"
+                                                            },
                      "block quotes" : {
                                          "Key" : "PBS3"
                                        },
