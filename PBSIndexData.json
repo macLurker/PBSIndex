@@ -1,5 +1,5 @@
 {
-       "DataVersion" : " 7 May 2023, 15:53",
+       "DataVersion" : "15 May 2023, 14:53",
        "Lessons" : {
                       "CSSRef" : {
                                     "Link" : "https://www.w3schools.com/cssref/css_selectors.asp",
@@ -599,6 +599,9 @@
                                   }
                     },
        "Topics" : {
+                     "/dev special files" : {
+                        "Key" : "PBS150"
+                     },
                      "AJAX Same Origin Policy" : {
                                                     "Key" : "PBS76"
                                                   },
@@ -2195,7 +2198,16 @@
                      "PBS git branching strategy" : {
                                                        "Key" : "PBS109"
                                                      },
-                     "Programming Editor" : {
+          "POSIX streams" : {
+            "Key" : "PBS150"
+          },
+          "POSIX files & file descriptors" : {
+            "Key" : "PBS150"
+          },
+          "POSIX special files (streams)" : {
+            "Key" : "PBS150"
+          },
+                   "Programming Editor" : {
                                                "Key" : "PBS1"
                                              },
                      "Promise.all()" : {
@@ -2351,13 +2363,34 @@
                      "bash, case command" : {
                                                "Key" : "PBS145"
                                              },
+                     "bash, command pipeline" : {
+            "Key" : "PBS150"
+          },
                      "bash, declare an array" : {
                                                    "Key" : "PBS147"
                                                  },
+                     "bash, direct access to keyboard & terminal (/dev/tty)" : {
+            "Key" : "PBS150"
+          },
+                     "bash, file descriptor aliases" : {
+            "Key" : "PBS150"
+          },
                      "bash, if command" : {
                                              "Key" : "PBS145"
                                            },
-                     "bash, split file path & name string" : {
+                    "bash, merging STDERR into STDOUT" : {
+            "Key" : "PBS150"
+         },
+                    "bash, multiple redirection of streams" : {
+            "Key" : "PBS150"
+          },
+                    "bash, redirection example" : {
+            "Key" : "PBS150"
+          },
+                    "bash, special variables" : {
+            "Key" : "PBS149"
+          },
+                  "bash, split file path & name string" : {
                                                                 "Key" : "PBS148"
                                                               },
                      "bash, standard error (STDERR)" : {
