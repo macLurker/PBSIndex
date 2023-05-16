@@ -2,6 +2,7 @@
 /*.docx
 # ignore temporary test & save files
 /PBSIndexData_save.json
+/PBSIndexData_save2.json
 /PBSNewData.txt
 # ignore Automator project files
 /UpdatePBSJSON_vers1.workflow/
