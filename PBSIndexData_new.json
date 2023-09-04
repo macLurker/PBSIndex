@@ -1,5 +1,5 @@
 {
-       "DataVersion" : "15 May 2023, 14:53",
+       "DataVersion" : " 4 Sep 2023, 15:38",
        "Lessons" : {
                       "CSSRef" : {
                                     "Link" : "https://www.w3schools.com/cssref/css_selectors.asp",
@@ -232,6 +232,10 @@
                       "PBS150" : {
                                     "Link" : "https://pbs.bartificer.net/pbs150.html",
                                     "Title" : "PBS 150 of X &#8211; Script Plumbing"
+                                  },
+                      "PBS151" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs151.html",
+                                    "Title" : "PBS 151 of X &#8211; Bash"
                                   },
                       "PBS16" : {
                                    "Link" : "https://pbs.bartificer.net/pbs16.html",
@@ -600,8 +604,8 @@
                     },
        "Topics" : {
                      "/dev special files" : {
-                        "Key" : "PBS150"
-                     },
+                                               "Key" : "PBS150"
+                                             },
                      "AJAX Same Origin Policy" : {
                                                     "Key" : "PBS76"
                                                   },
@@ -2198,16 +2202,16 @@
                      "PBS git branching strategy" : {
                                                        "Key" : "PBS109"
                                                      },
-          "POSIX streams" : {
-            "Key" : "PBS150"
-          },
-          "POSIX files & file descriptors" : {
-            "Key" : "PBS150"
-          },
-          "POSIX special files (streams)" : {
-            "Key" : "PBS150"
-          },
-                   "Programming Editor" : {
+                     "POSIX files & file descriptors" : {
+                                                           "Key" : "PBS150"
+                                                         },
+                     "POSIX special files (streams)" : {
+                                                          "Key" : "PBS150"
+                                                        },
+                     "POSIX streams" : {
+                                          "Key" : "PBS150"
+                                        },
+                     "Programming Editor" : {
                                                "Key" : "PBS1"
                                              },
                      "Promise.all()" : {
@@ -2312,6 +2316,9 @@
                      "Web forms" : {
                                       "Key" : "PBS27"
                                     },
+                     "Webpack & bundling worked example" : {
+                                                              "Key" : "PBS137"
+                                                            },
                      "Webpack core concepts" : {
                                                   "Key" : "PBS137"
                                                 },
@@ -2319,9 +2326,6 @@
                                                         "Key" : "PBS137"
                                                       },
                      "Webpack loader defined" : {
-                                                   "Key" : "PBS137"
-                                                 },
-                     "Webpack & bundling worked example" : {
                                                    "Key" : "PBS137"
                                                  },
                      "anchors" : {
@@ -2348,6 +2352,9 @@
                      "backgrounds" : {
                                         "Key" : "PBS7"
                                       },
+                     "bash and printf" : {
+                                            "Key" : "PBS151"
+                                          },
                      "bash here (multi-line) strings" : {
                                                            "Key" : "PBS148"
                                                          },
@@ -2364,33 +2371,36 @@
                                                "Key" : "PBS145"
                                              },
                      "bash, command pipeline" : {
-            "Key" : "PBS150"
-          },
+                                                   "Key" : "PBS150"
+                                                 },
                      "bash, declare an array" : {
                                                    "Key" : "PBS147"
                                                  },
+                     "bash, detecting terminals in streams" : {
+                                                                 "Key" : "PBS151"
+                                                               },
                      "bash, direct access to keyboard & terminal (/dev/tty)" : {
-            "Key" : "PBS150"
-          },
+                                                                                  "Key" : "PBS150"
+                                                                                },
                      "bash, file descriptor aliases" : {
-            "Key" : "PBS150"
-          },
+                                                          "Key" : "PBS150"
+                                                        },
                      "bash, if command" : {
                                              "Key" : "PBS145"
                                            },
-                    "bash, merging STDERR into STDOUT" : {
-            "Key" : "PBS150"
-         },
-                    "bash, multiple redirection of streams" : {
-            "Key" : "PBS150"
-          },
-                    "bash, redirection example" : {
-            "Key" : "PBS150"
-          },
-                    "bash, special variables" : {
-            "Key" : "PBS149"
-          },
-                  "bash, split file path & name string" : {
+                     "bash, merging STDERR into STDOUT" : {
+                                                             "Key" : "PBS150"
+                                                           },
+                     "bash, multiple redirection of streams" : {
+                                                                  "Key" : "PBS150"
+                                                                },
+                     "bash, redirection example" : {
+                                                      "Key" : "PBS150"
+                                                    },
+                     "bash, special variables" : {
+                                                    "Key" : "PBS149"
+                                                  },
+                     "bash, split file path & name string" : {
                                                                 "Key" : "PBS148"
                                                               },
                      "bash, standard error (STDERR)" : {
@@ -2423,15 +2433,15 @@
                      "browser event model" : {
                                                 "Key" : "PBS22"
                                               },
-          "bundlers in action" : {
-            "Key" : "PBS137"
-          },
+                     "bundlers in action" : {
+                                               "Key" : "PBS137"
+                                             },
                      "bundlers introduced" : {
                                                 "Key" : "PBS128"
                                               },
-          "bundling a library" : {
-            "Key" : "PBS137"
-          },
+                     "bundling a library" : {
+                                               "Key" : "PBS137"
+                                             },
                      "classes" : {
                                     "Key" : "PBS7"
                                   },
@@ -2942,6 +2952,21 @@
                      "primitives vs objects" : {
                                                   "Key" : "PBS90"
                                                 },
+                     "printf format specifications" : {
+                                                         "Key" : "PBS151"
+                                                       },
+                     "printf format string escape sequence" : {
+                                                                 "Key" : "PBS151"
+                                                               },
+                     "printf format string format" : {
+                                                        "Key" : "PBS151"
+                                                      },
+                     "printf format string syntax" : {
+                                                        "Key" : "PBS151"
+                                                      },
+                     "printf specifications, aligning data" : {
+                                                                 "Key" : "PBS151"
+                                                               },
                      "promise chain passthrough" : {
                                                       "Key" : "PBS80"
                                                     },
