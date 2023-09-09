@@ -606,6 +606,9 @@
                      "/dev special files" : {
                                                "Key" : "PBS150"
                                              },
+          "[[ (test command) and operators" : {
+            "Key" : "PBS145"
+          },
                      "AJAX Same Origin Policy" : {
                                                     "Key" : "PBS76"
                                                   },
@@ -2355,6 +2358,9 @@
                      "bash and printf" : {
                                             "Key" : "PBS151"
                                           },
+          "bash $ operator, ${} vs $()" : {
+            "Key" : "PBS143"
+          },
                      "bash here (multi-line) strings" : {
                                                            "Key" : "PBS148"
                                                          },

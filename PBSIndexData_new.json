@@ -1,5 +1,5 @@
 {
-       "DataVersion" : " 4 Sep 2023, 15:44",
+       "DataVersion" : " 9 Sep 2023, 16:23",
        "Lessons" : {
                       "CSSRef" : {
                                     "Link" : "https://www.w3schools.com/cssref/css_selectors.asp",
@@ -236,6 +236,10 @@
                       "PBS151" : {
                                     "Link" : "https://pbs.bartificer.net/pbs151.html",
                                     "Title" : "PBS 151 of X &#8211; Bash- Printf and More"
+                                  },
+                      "PBS152" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs152.html",
+                                    "Title" : "PBS 152 of X &#8211; Bash- xargs & Easier Arithmatic"
                                   },
                       "PBS16" : {
                                    "Link" : "https://pbs.bartificer.net/pbs16.html",
@@ -2328,6 +2332,9 @@
                      "Webpack loader defined" : {
                                                    "Key" : "PBS137"
                                                  },
+                     "[[ (test command) and operators" : {
+                                                            "Key" : "PBS145"
+                                                          },
                      "anchors" : {
                                     "Key" : "PBS5"
                                   },
@@ -2352,6 +2359,9 @@
                      "backgrounds" : {
                                         "Key" : "PBS7"
                                       },
+                     "bash \$ operator, \${} vs \$()" : {
+                                                           "Key" : "PBS143"
+                                                         },
                      "bash and printf" : {
                                             "Key" : "PBS151"
                                           },
@@ -2361,6 +2371,12 @@
                      "bash subshells" : {
                                            "Key" : "PBS148"
                                          },
+                     "bash, add easier debugging" : {
+                                                       "Key" : "PBS152"
+                                                     },
+                     "bash, arithmetic expressions" : {
+                                                         "Key" : "PBS152"
+                                                       },
                      "bash, array manipulation" : {
                                                      "Key" : "PBS147"
                                                    },
@@ -2967,6 +2983,9 @@
                      "printf specifications, aligning data" : {
                                                                  "Key" : "PBS151"
                                                                },
+                     "printf, calculating output widths" : {
+                                                              "Key" : "PBS152"
+                                                            },
                      "promise chain passthrough" : {
                                                       "Key" : "PBS80"
                                                     },
@@ -3009,6 +3028,9 @@
                      "shell scripts, POSIX variables" : {
                                                            "Key" : "PBS149"
                                                          },
+                     "shell scripts, add easier debugging" : {
+                                                                "Key" : "PBS152"
+                                                              },
                      "shell scripts, command line argument processing" : {
                                                                             "Key" : "PBS149"
                                                                           },
@@ -3018,6 +3040,9 @@
                      "shell scripts, conditional examples" : {
                                                                 "Key" : "PBS145"
                                                               },
+                     "shell scripts, conditional paging of output" : {
+                                                                        "Key" : "PBS152"
+                                                                      },
                      "shell scripts, exit codes " : {
                                                        "Key" : "PBS144"
                                                      },
@@ -3102,11 +3127,26 @@
                      "url, relative" : {
                                           "Key" : "PBS5"
                                         },
+                     "using xargs to trim strings" : {
+                                                        "Key" : "PBS152"
+                                                      },
+                     "using xargs with find" : {
+                                                  "Key" : "PBS152"
+                                                },
                      "valid/invalid CSS pseudo-classes" : {
                                                              "Key" : "PBS39"
                                                            },
                      "version/release numbering schema" : {
                                                              "Key" : "PBS109"
-                                                           }
+                                                           },
+                     "xargs command explained" : {
+                                                    "Key" : "PBS152"
+                                                  },
+                     "xargs command syntax" : {
+                                                 "Key" : "PBS152"
+                                               },
+                     "xargs use examples" : {
+                                               "Key" : "PBS152"
+                                             }
                    }
      }
