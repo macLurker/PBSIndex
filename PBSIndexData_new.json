@@ -2359,7 +2359,7 @@
                      "backgrounds" : {
                                         "Key" : "PBS7"
                                       },
-                     "bash \$ operator, \${} vs \$()" : {
+                     "bash $ operator, ${} vs $()" : {
                                                            "Key" : "PBS143"
                                                          },
                      "bash and printf" : {
