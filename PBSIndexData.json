@@ -1,5 +1,5 @@
 {
-       "DataVersion" : " 9 Sep 2023, 16:23",
+       "DataVersion" : "11 Sep 2023, 15:21",
        "Lessons" : {
                       "CSSRef" : {
                                     "Link" : "https://www.w3schools.com/cssref/css_selectors.asp",
@@ -240,6 +240,10 @@
                       "PBS152" : {
                                     "Link" : "https://pbs.bartificer.net/pbs152.html",
                                     "Title" : "PBS 152 of X &#8211; Bash- xargs & Easier Arithmatic"
+                                  },
+                      "PBS153" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs153.html",
+                                    "Title" : "PBS 153 of X &#8211; Bash- Functions & Scope"
                                   },
                       "PBS16" : {
                                    "Link" : "https://pbs.bartificer.net/pbs16.html",
@@ -2365,12 +2369,30 @@
                      "bash and printf" : {
                                             "Key" : "PBS151"
                                           },
+                     "bash functions & arguments" : {
+                                                       "Key" : "PBS153"
+                                                     },
+                     "bash functions & exit codes" : {
+                                                        "Key" : "PBS153"
+                                                      },
+                     "bash functions & streams" : {
+                                                     "Key" : "PBS153"
+                                                   },
                      "bash here (multi-line) strings" : {
                                                            "Key" : "PBS148"
                                                          },
                      "bash subshells" : {
                                            "Key" : "PBS148"
                                          },
+          "bash, BASH_SOURCE command" : {
+            "Key" : "PBS148"
+          },
+                     "bash, POSIX function syntax" : {
+                                                        "Key" : "PBS153"
+                                                      },
+                     "bash, POSIX functions" : {
+                                                  "Key" : "PBS153"
+                                                },
                      "bash, add easier debugging" : {
                                                        "Key" : "PBS152"
                                                      },
@@ -2380,6 +2402,9 @@
                      "bash, array manipulation" : {
                                                      "Key" : "PBS147"
                                                    },
+          "bash, basename command" : {
+            "Key" : "PBS148"
+          },
                      "bash, capturing STDIN" : {
                                                   "Key" : "PBS150"
                                                 },
@@ -2398,12 +2423,18 @@
                      "bash, direct access to keyboard & terminal (/dev/tty)" : {
                                                                                   "Key" : "PBS150"
                                                                                 },
+          "bash, dirname command" : {
+            "Key" : "PBS148"
+          },
                      "bash, file descriptor aliases" : {
                                                           "Key" : "PBS150"
                                                         },
                      "bash, if command" : {
                                              "Key" : "PBS145"
                                            },
+                     "bash, local keyword" : {
+                                                "Key" : "PBS153"
+                                              },
                      "bash, merging STDERR into STDOUT" : {
                                                              "Key" : "PBS150"
                                                            },
@@ -2413,6 +2444,9 @@
                      "bash, redirection example" : {
                                                       "Key" : "PBS150"
                                                     },
+                     "bash, source command" : {
+                                                 "Key" : "PBS153"
+                                               },
                      "bash, special variables" : {
                                                     "Key" : "PBS149"
                                                   },
@@ -2434,6 +2468,9 @@
                      "bash, terminal plumbing explained" : {
                                                               "Key" : "PBS150"
                                                             },
+                     "bash, variable/dynamic scope" : {
+                                                         "Key" : "PBS153"
+                                                       },
                      "block quotes" : {
                                          "Key" : "PBS3"
                                        },
