@@ -1,5 +1,5 @@
 {
-       "DataVersion" : "11 Sep 2023, 15:21",
+       "DataVersion" : "11 Sep 2023, 15:21 test",
        "Lessons" : {
                       "CSSRef" : {
                                     "Link" : "https://www.w3schools.com/cssref/css_selectors.asp",
@@ -2365,6 +2365,9 @@
                                       },
                      "bash $ operator, ${} vs $()" : {
                                                            "Key" : "PBS143"
+                                                         },
+                     "bash $IFS special variable" : {
+                                                           "Key" : "PBS149"
                                                          },
                      "bash and printf" : {
                                             "Key" : "PBS151"
