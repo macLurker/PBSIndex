@@ -1,5 +1,5 @@
 {
-       "DataVersion" : "11 Sep 2023, 15:21 test",
+       "DataVersion" : "14 Sep 2023, 11:42",
        "Lessons" : {
                       "CSSRef" : {
                                     "Link" : "https://www.w3schools.com/cssref/css_selectors.asp",
@@ -244,6 +244,10 @@
                       "PBS153" : {
                                     "Link" : "https://pbs.bartificer.net/pbs153.html",
                                     "Title" : "PBS 153 of X &#8211; Bash- Functions & Scope"
+                                  },
+                      "PBS154" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs154.html",
+                                    "Title" : "PBS 154 of X &#8211; Bash- Expansions & Brackets Redux"
                                   },
                       "PBS16" : {
                                    "Link" : "https://pbs.bartificer.net/pbs16.html",
@@ -2367,11 +2371,29 @@
                                                            "Key" : "PBS143"
                                                          },
                      "bash $IFS special variable" : {
-                                                           "Key" : "PBS149"
-                                                         },
+                                                        "Key" : "PBS149"
+                                                      },
                      "bash and printf" : {
                                             "Key" : "PBS151"
                                           },
+                     "bash arithmetic expansion" : {
+                                                      "Key" : "PBS154"
+                                                    },
+                     "bash brace expansion" : {
+                                                 "Key" : "PBS154"
+                                               },
+                     "bash command substitution expansion" : {
+                                                                "Key" : "PBS154"
+                                                              },
+                     "bash documentation link" : {
+                                                    "Key" : "PBS154"
+                                                  },
+                     "bash expansions" : {
+                                            "Key" : "PBS154"
+                                          },
+                     "bash file name expansion" : {
+                                                     "Key" : "PBS154"
+                                                   },
                      "bash functions & arguments" : {
                                                        "Key" : "PBS153"
                                                      },
@@ -2384,12 +2406,21 @@
                      "bash here (multi-line) strings" : {
                                                            "Key" : "PBS148"
                                                          },
+                     "bash shell parameter expansion" : {
+                                                           "Key" : "PBS154"
+                                                         },
                      "bash subshells" : {
                                            "Key" : "PBS148"
                                          },
-          "bash, BASH_SOURCE command" : {
-            "Key" : "PBS148"
-          },
+                     "bash tilde expansion" : {
+                                                 "Key" : "PBS154"
+                                               },
+                     "bash word splitting expansion" : {
+                                                          "Key" : "PBS154"
+                                                        },
+                     "bash, BASH_SOURCE command" : {
+                                                      "Key" : "PBS148"
+                                                    },
                      "bash, POSIX function syntax" : {
                                                         "Key" : "PBS153"
                                                       },
@@ -2405,9 +2436,12 @@
                      "bash, array manipulation" : {
                                                      "Key" : "PBS147"
                                                    },
-          "bash, basename command" : {
-            "Key" : "PBS148"
-          },
+                     "bash, basename command" : {
+                                                   "Key" : "PBS148"
+                                                 },
+                     "bash, brace {}, bracket [], parenthesis () usage reference table" : {
+                                                                                             "Key" : "PBS154"
+                                                                                           },
                      "bash, capturing STDIN" : {
                                                   "Key" : "PBS150"
                                                 },
@@ -2426,9 +2460,9 @@
                      "bash, direct access to keyboard & terminal (/dev/tty)" : {
                                                                                   "Key" : "PBS150"
                                                                                 },
-          "bash, dirname command" : {
-            "Key" : "PBS148"
-          },
+                     "bash, dirname command" : {
+                                                  "Key" : "PBS148"
+                                                },
                      "bash, file descriptor aliases" : {
                                                           "Key" : "PBS150"
                                                         },
@@ -2474,6 +2508,12 @@
                      "bash, variable/dynamic scope" : {
                                                          "Key" : "PBS153"
                                                        },
+                     "bash, when to use braces {} for command grouping" : {
+                                                                             "Key" : "PBS154"
+                                                                           },
+                     "bash, when to use parentheses () for command grouping" : {
+                                                                                  "Key" : "PBS154"
+                                                                                },
                      "block quotes" : {
                                          "Key" : "PBS3"
                                        },
