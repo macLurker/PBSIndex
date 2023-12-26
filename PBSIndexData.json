@@ -1,5 +1,5 @@
 {
-       "DataVersion" : "12 Dec 2023, 16:47",
+       "DataVersion" : "26 Dec 2023, 12:18",
        "Lessons" : {
                       "CSSRef" : {
                                     "Link" : "https://www.w3schools.com/cssref/css_selectors.asp",
@@ -252,6 +252,10 @@
                       "PBS155" : {
                                     "Link" : "https://pbs.bartificer.net/pbs155.html",
                                     "Title" : "PBS 155 of X &#8211; Introducing JSON Processing from the Shell with jq"
+                                  },
+                      "PBS156" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs156.html",
+                                    "Title" : "PBS 156 of X &#8211; Exracting Data with jq"
                                   },
                       "PBS16" : {
                                    "Link" : "https://pbs.bartificer.net/pbs16.html",
@@ -2998,15 +3002,36 @@
                      "jQuery, testing elements" : {
                                                      "Key" : "PBS88"
                                                    },
+                     "jq, exploding arrays" : {
+                                                 "Key" : "PBS156"
+                                               },
+                     "jq, extracting multiple values" : {
+                                                           "Key" : "PBS156"
+                                                         },
                      "jq, installing" : {
                                            "Key" : "PBS155"
                                          },
                      "jq, intro" : {
                                       "Key" : "PBS155"
                                     },
+                     "jq, more filter options" : {
+                                                    "Key" : "PBS156"
+                                                  },
+                     "jq, output unquoted strings" : {
+                                                        "Key" : "PBS156"
+                                                      },
                      "jq, pretty print examples" : {
                                                       "Key" : "PBS155"
                                                     },
+                     "jq, raw output flag" : {
+                                                "Key" : "PBS156"
+                                              },
+                     "jq, slurp flag (output into JSON object)" : {
+                                                                     "Key" : "PBS156"
+                                                                   },
+                     "jq, suppressing errors in output" : {
+                                                             "Key" : "PBS156"
+                                                           },
                      "links" : {
                                   "Key" : "PBS5"
                                 },
