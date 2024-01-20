@@ -6,6 +6,8 @@
 /PBSIndexData_save3.json
 /PBSNewData.txt
 /save/
+/.DS_Store
+/scripts/.DS_Store
 # ignore Automator project files
 /UpdatePBSJSON_vers1.workflow/
 # ignore test data & scripts
