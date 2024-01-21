@@ -1,5 +1,5 @@
 {
-       "DataVersion" : "20 Jan 2024, 15:22",
+       "DataVersion" : "21 Jan 2024, 14:11",
        "Lessons" : {
                       "CSSRef" : {
                                     "Link" : "https://www.w3schools.com/cssref/css_selectors.asp",
@@ -255,7 +255,11 @@
                                   },
                       "PBS156" : {
                                     "Link" : "https://pbs.bartificer.net/pbs156.html",
-                                    "Title" : "PBS 156 of X &#8211; Querying JSON with jq"
+                                    "Title" : "PBS 156 of X &#8211; Extracting Data with jq"
+                                  },
+                      "PBS157" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs157.html",
+                                    "Title" : "PBS 157 of X &#8211; Querying JSON with jq"
                                   },
                       "PBS16" : {
                                    "Link" : "https://pbs.bartificer.net/pbs16.html",
@@ -2375,10 +2379,10 @@
                      "backgrounds" : {
                                         "Key" : "PBS7"
                                       },
-                     "bash \$ operator, \${} vs \$()" : {
+                     "bash $ operator, ${} vs $()" : {
                                                            "Key" : "PBS143"
                                                          },
-                     "bash \$IFS special variable" : {
+                     "bash $IFS special variable" : {
                                                         "Key" : "PBS149"
                                                       },
                      "bash and printf" : {
@@ -3003,7 +3007,7 @@
                                                      "Key" : "PBS88"
                                                    },
                      "jq, chaining filters" : {
-                                                 "Key" : "PBS156"
+                                                 "Key" : "PBS157"
                                                },
                      "jq, exploding arrays" : {
                                                  "Key" : "PBS156"
@@ -3012,7 +3016,7 @@
                                                            "Key" : "PBS156"
                                                          },
                      "jq, functions in filters" : {
-                                                     "Key" : "PBS156"
+                                                     "Key" : "PBS157"
                                                    },
                      "jq, installing" : {
                                            "Key" : "PBS155"
@@ -3024,7 +3028,7 @@
                                                     "Key" : "PBS156"
                                                   },
                      "jq, operators in filters" : {
-                                                     "Key" : "PBS156"
+                                                     "Key" : "PBS157"
                                                    },
                      "jq, output unquoted strings" : {
                                                         "Key" : "PBS156"
