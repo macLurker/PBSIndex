@@ -1,5 +1,5 @@
 {
-       "DataVersion" : "26 Dec 2023, 12:18",
+       "DataVersion" : "21 Jan 2024, 14:11",
        "Lessons" : {
                       "CSSRef" : {
                                     "Link" : "https://www.w3schools.com/cssref/css_selectors.asp",
@@ -256,6 +256,10 @@
                       "PBS156" : {
                                     "Link" : "https://pbs.bartificer.net/pbs156.html",
                                     "Title" : "PBS 156 of X &#8211; Extracting Data with jq"
+                                  },
+                      "PBS157" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs157.html",
+                                    "Title" : "PBS 157 of X &#8211; Querying JSON with jq"
                                   },
                       "PBS16" : {
                                    "Link" : "https://pbs.bartificer.net/pbs16.html",
@@ -3002,12 +3006,18 @@
                      "jQuery, testing elements" : {
                                                      "Key" : "PBS88"
                                                    },
+                     "jq, chaining filters" : {
+                                                 "Key" : "PBS157"
+                                               },
                      "jq, exploding arrays" : {
                                                  "Key" : "PBS156"
                                                },
                      "jq, extracting multiple values" : {
                                                            "Key" : "PBS156"
                                                          },
+                     "jq, functions in filters" : {
+                                                     "Key" : "PBS157"
+                                                   },
                      "jq, installing" : {
                                            "Key" : "PBS155"
                                          },
@@ -3017,6 +3027,9 @@
                      "jq, more filter options" : {
                                                     "Key" : "PBS156"
                                                   },
+                     "jq, operators in filters" : {
+                                                     "Key" : "PBS157"
+                                                   },
                      "jq, output unquoted strings" : {
                                                         "Key" : "PBS156"
                                                       },
