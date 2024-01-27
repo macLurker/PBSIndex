@@ -1,5 +1,5 @@
 {
-       "DataVersion" : "21 Jan 2024, 14:11",
+       "DataVersion" : "27 Jan 2024, 14:11",
        "Lessons" : {
                       "CSSRef" : {
                                     "Link" : "https://www.w3schools.com/cssref/css_selectors.asp",
@@ -3006,6 +3006,12 @@
                      "jQuery, testing elements" : {
                                                      "Key" : "PBS88"
                                                    },
+          "jq, any function" : {
+            "Key" : "PBS157"
+          },
+          "jq, all function" : {
+            "Key" : "PBS157"
+          },
                      "jq, chaining filters" : {
                                                  "Key" : "PBS157"
                                                },
@@ -3024,6 +3030,9 @@
                      "jq, intro" : {
                                       "Key" : "PBS155"
                                     },
+          "jq, length function" : {
+            "Key" : "PBS157"
+          },
                      "jq, more filter options" : {
                                                     "Key" : "PBS156"
                                                   },
@@ -3042,6 +3051,9 @@
                      "jq, slurp flag (output into JSON object)" : {
                                                                      "Key" : "PBS156"
                                                                    },
+          "jq, select function" : {
+            "Key" : "PBS157"
+          },
                      "jq, suppressing errors in output" : {
                                                              "Key" : "PBS156"
                                                            },
