@@ -1,5 +1,5 @@
 {
-       "DataVersion" : "27 Jan 2024, 16:41",
+       "DataVersion" : " 5 Feb 2024, 14:14",
        "Lessons" : {
                       "CSSRef" : {
                                     "Link" : "https://www.w3schools.com/cssref/css_selectors.asp",
@@ -260,6 +260,10 @@
                       "PBS157" : {
                                     "Link" : "https://pbs.bartificer.net/pbs157.html",
                                     "Title" : "PBS 157 of X &#8211; Querying JSON with jq"
+                                  },
+                      "PBS158" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs158.html",
+                                    "Title" : "PBS 158 of X &#8211; More Queries with jq"
                                   },
                       "PBS16" : {
                                    "Link" : "https://pbs.bartificer.net/pbs16.html",
@@ -3006,12 +3010,15 @@
                      "jQuery, testing elements" : {
                                                      "Key" : "PBS88"
                                                    },
-          "jq, any function" : {
-            "Key" : "PBS157"
-          },
-          "jq, all function" : {
-            "Key" : "PBS157"
-          },
+                     "jq, all function" : {
+                                             "Key" : "PBS157"
+                                           },
+                     "jq, alternate operator" : {
+                                                   "Key" : "PBS158"
+                                                 },
+                     "jq, any function" : {
+                                             "Key" : "PBS157"
+                                           },
                      "jq, chaining filters" : {
                                                  "Key" : "PBS157"
                                                },
@@ -3021,18 +3028,24 @@
                      "jq, extracting multiple values" : {
                                                            "Key" : "PBS156"
                                                          },
+                     "jq, filter by data type" : {
+                                                    "Key" : "PBS158"
+                                                  },
                      "jq, functions in filters" : {
                                                      "Key" : "PBS157"
                                                    },
+                     "jq, inside function" : {
+                                                "Key" : "PBS158"
+                                              },
                      "jq, installing" : {
                                            "Key" : "PBS155"
                                          },
                      "jq, intro" : {
                                       "Key" : "PBS155"
                                     },
-          "jq, length function" : {
-            "Key" : "PBS157"
-          },
+                     "jq, length function" : {
+                                                "Key" : "PBS157"
+                                              },
                      "jq, more filter options" : {
                                                     "Key" : "PBS156"
                                                   },
@@ -3048,15 +3061,24 @@
                      "jq, raw output flag" : {
                                                 "Key" : "PBS156"
                                               },
+                     "jq, select function" : {
+                                                "Key" : "PBS157"
+                                              },
                      "jq, slurp flag (output into JSON object)" : {
                                                                      "Key" : "PBS156"
                                                                    },
-          "jq, select function" : {
-            "Key" : "PBS157"
-          },
                      "jq, suppressing errors in output" : {
                                                              "Key" : "PBS156"
                                                            },
+                     "jq, test function and regular expressions" : {
+                                                                      "Key" : "PBS158"
+                                                                    },
+                     "jq, testing for containment (contains function)" : {
+                                                                            "Key" : "PBS158"
+                                                                          },
+                     "jq, type=related functions" : {
+                                                       "Key" : "PBS158"
+                                                     },
                      "links" : {
                                   "Key" : "PBS5"
                                 },
