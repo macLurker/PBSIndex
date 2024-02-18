@@ -3076,7 +3076,10 @@
                      "jq, testing for containment (contains function)" : {
                                                                             "Key" : "PBS158"
                                                                           },
-                     "jq, type=related functions" : {
+                     "jq, tonumber function" : {
+                                                                      "Key" : "PBS158"
+                                                                    },
+                     "jq, type-related functions" : {
                                                        "Key" : "PBS158"
                                                      },
                      "links" : {
