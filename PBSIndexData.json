@@ -1,5 +1,5 @@
 {
-       "DataVersion" : " 5 Feb 2024, 14:14",
+       "DataVersion" : "18 Feb 2024, 14:34",
        "Lessons" : {
                       "CSSRef" : {
                                     "Link" : "https://www.w3schools.com/cssref/css_selectors.asp",
@@ -264,6 +264,10 @@
                       "PBS158" : {
                                     "Link" : "https://pbs.bartificer.net/pbs158.html",
                                     "Title" : "PBS 158 of X &#8211; More Queries with jq"
+                                  },
+                      "PBS159" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs159.html",
+                                    "Title" : "PBS 159 of X &#8211; Building Data Structures with jq"
                                   },
                       "PBS16" : {
                                    "Link" : "https://pbs.bartificer.net/pbs16.html",
@@ -3019,6 +3023,18 @@
                      "jq, any function" : {
                                              "Key" : "PBS157"
                                            },
+                     "jq, building arrays" : {
+                                                "Key" : "PBS159"
+                                              },
+                     "jq, building dictionaries" : {
+                                                      "Key" : "PBS159"
+                                                    },
+                     "jq, building strings with interpolation" : {
+                                                                    "Key" : "PBS159"
+                                                                  },
+                     "jq, capture function (string to dictionary)" : {
+                                                                        "Key" : "PBS159"
+                                                                      },
                      "jq, chaining filters" : {
                                                  "Key" : "PBS157"
                                                },
@@ -3043,6 +3059,9 @@
                      "jq, intro" : {
                                       "Key" : "PBS155"
                                     },
+                     "jq, join function (array to string)" : {
+                                                                "Key" : "PBS159"
+                                                              },
                      "jq, length function" : {
                                                 "Key" : "PBS157"
                                               },
@@ -3067,6 +3086,15 @@
                      "jq, slurp flag (output into JSON object)" : {
                                                                      "Key" : "PBS156"
                                                                    },
+                     "jq, split function (string to array)" : {
+                                                                 "Key" : "PBS159"
+                                                               },
+                     "jq, string formatting" : {
+                                                  "Key" : "PBS159"
+                                                },
+                     "jq, supported string formats" : {
+                                                         "Key" : "PBS159"
+                                                       },
                      "jq, suppressing errors in output" : {
                                                              "Key" : "PBS156"
                                                            },
@@ -3077,8 +3105,8 @@
                                                                             "Key" : "PBS158"
                                                                           },
                      "jq, tonumber function" : {
-                                                                      "Key" : "PBS158"
-                                                                    },
+                                                  "Key" : "PBS158"
+                                                },
                      "jq, type-related functions" : {
                                                        "Key" : "PBS158"
                                                      },
