@@ -1,5 +1,5 @@
 {
-       "DataVersion" : "18 Feb 2024, 14:34",
+       "DataVersion" : "29 Feb 2024, 14:30",
        "Lessons" : {
                       "CSSRef" : {
                                     "Link" : "https://www.w3schools.com/cssref/css_selectors.asp",
@@ -273,6 +273,10 @@
                                    "Link" : "https://pbs.bartificer.net/pbs16.html",
                                    "Title" : "PBS 16 of X &#8211; JS Callbacks"
                                  },
+                      "PBS160" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs160.html",
+                                    "Title" : "PBS 160 of X &#8211; jq as a Programming Language"
+                                  },
                       "PBS17" : {
                                    "Link" : "https://pbs.bartificer.net/pbs17.html",
                                    "Title" : "PBS 17 of X &#8211; JS Objects"
@@ -2387,10 +2391,10 @@
                      "backgrounds" : {
                                         "Key" : "PBS7"
                                       },
-                     "bash $ operator, ${} vs $()" : {
+                     "bash \$ operator, \${} vs \$()" : {
                                                            "Key" : "PBS143"
                                                          },
-                     "bash $IFS special variable" : {
+                     "bash \$IFS special variable" : {
                                                         "Key" : "PBS149"
                                                       },
                      "bash and printf" : {
@@ -3038,6 +3042,15 @@
                      "jq, chaining filters" : {
                                                  "Key" : "PBS157"
                                                },
+                     "jq, code layout in filter files" : {
+                                                            "Key" : "PBS160"
+                                                          },
+                     "jq, comments in filter files" : {
+                                                         "Key" : "PBS160"
+                                                       },
+                     "jq, debug function" : {
+                                               "Key" : "PBS160"
+                                             },
                      "jq, exploding arrays" : {
                                                  "Key" : "PBS156"
                                                },
@@ -3047,9 +3060,15 @@
                      "jq, filter by data type" : {
                                                     "Key" : "PBS158"
                                                   },
+                     "jq, first function (element in array)" : {
+                                                                  "Key" : "PBS160"
+                                                                },
                      "jq, functions in filters" : {
                                                      "Key" : "PBS157"
                                                    },
+                     "jq, has (given key) function" : {
+                                                         "Key" : "PBS160"
+                                                       },
                      "jq, inside function" : {
                                                 "Key" : "PBS158"
                                               },
@@ -3062,9 +3081,18 @@
                      "jq, join function (array to string)" : {
                                                                 "Key" : "PBS159"
                                                               },
+                     "jq, keys function" : {
+                                              "Key" : "PBS160"
+                                            },
+                     "jq, last function (element in array)" : {
+                                                                 "Key" : "PBS160"
+                                                               },
                      "jq, length function" : {
                                                 "Key" : "PBS157"
                                               },
+                     "jq, limit function" : {
+                                               "Key" : "PBS160"
+                                             },
                      "jq, more filter options" : {
                                                     "Key" : "PBS156"
                                                   },
@@ -3080,6 +3108,9 @@
                      "jq, raw output flag" : {
                                                 "Key" : "PBS156"
                                               },
+                     "jq, running jq filters from a file" : {
+                                                               "Key" : "PBS160"
+                                                             },
                      "jq, select function" : {
                                                 "Key" : "PBS157"
                                               },
@@ -3110,6 +3141,9 @@
                      "jq, type-related functions" : {
                                                        "Key" : "PBS158"
                                                      },
+                     "jq, variables introduced" : {
+                                                     "Key" : "PBS160"
+                                                   },
                      "links" : {
                                   "Key" : "PBS5"
                                 },
