@@ -1,5 +1,5 @@
 {
-       "DataVersion" : " 3 Mar 2024, 12:28",
+       "DataVersion" : " 3 Mar 2024, 15:13",
        "Lessons" : {
                       "CSSRef" : {
                                     "Link" : "https://www.w3schools.com/cssref/css_selectors.asp",
@@ -280,6 +280,10 @@
                       "PBS161" : {
                                     "Link" : "https://pbs.bartificer.net/pbs161.html",
                                     "Title" : "PBS 161 of X &#8211; jq Maths, Assignment, & String Manipulation"
+                                  },
+                      "PBS162" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs162.html",
+                                    "Title" : "PBS 162 of X &#8211; jq Altering Arrays & Dictionaries"
                                   },
                       "PBS17" : {
                                    "Link" : "https://pbs.bartificer.net/pbs17.html",
@@ -3022,9 +3026,18 @@
                      "jQuery, testing elements" : {
                                                      "Key" : "PBS88"
                                                    },
+                     "jq, add & remove array elements" : {
+                                                            "Key" : "PBS162"
+                                                          },
                      "jq, all function" : {
                                              "Key" : "PBS157"
                                            },
+                     "jq, alter dictionaries (add & remove keys)" : {
+                                                                       "Key" : "PBS162"
+                                                                     },
+                     "jq, alternate assignment operators" : {
+                                                               "Key" : "PBS161"
+                                                             },
                      "jq, alternate operator" : {
                                                    "Key" : "PBS158"
                                                  },
@@ -3073,6 +3086,9 @@
                      "jq, first function (element in array)" : {
                                                                   "Key" : "PBS160"
                                                                 },
+                     "jq, flatten (nested arrays) function" : {
+                                                                 "Key" : "PBS162"
+                                                               },
                      "jq, functions in filters" : {
                                                      "Key" : "PBS157"
                                                    },
@@ -3124,6 +3140,18 @@
                      "jq, raw output flag" : {
                                                 "Key" : "PBS156"
                                               },
+                     "jq, remove duplicate elements in arrays with unique function" : {
+                                                                                         "Key" : "PBS162"
+                                                                                       },
+                     "jq, remove duplicate elements in dictionaries with unique_by function" : {
+                                                                                                  "Key" : "PBS162"
+                                                                                                },
+                     "jq, remove key from a dictionary with del function" : {
+                                                                               "Key" : "PBS162"
+                                                                             },
+                     "jq, reverse function" : {
+                                                 "Key" : "PBS162"
+                                               },
                      "jq, running jq filters from a file" : {
                                                                "Key" : "PBS160"
                                                              },
@@ -3133,6 +3161,12 @@
                      "jq, slurp flag (output into JSON object)" : {
                                                                      "Key" : "PBS156"
                                                                    },
+                     "jq, sort function" : {
+                                              "Key" : "PBS162"
+                                            },
+                     "jq, sorting dictionaries by keys with sort_by function" : {
+                                                                                   "Key" : "PBS162"
+                                                                                 },
                      "jq, split function (string to array)" : {
                                                                  "Key" : "PBS159"
                                                                },

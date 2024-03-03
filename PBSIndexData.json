@@ -3025,6 +3025,9 @@
                      "jq, all function" : {
                                              "Key" : "PBS157"
                                            },
+          "jq, alternate assignment operators" : {
+            "Key" : "PBS161"
+          },
                      "jq, alternate operator" : {
                                                    "Key" : "PBS158"
                                                  },
