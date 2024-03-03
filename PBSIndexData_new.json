@@ -1,5 +1,5 @@
 {
-       "DataVersion" : "29 Feb 2024, 14:30",
+       "DataVersion" : " 3 Mar 2024, 12:28",
        "Lessons" : {
                       "CSSRef" : {
                                     "Link" : "https://www.w3schools.com/cssref/css_selectors.asp",
@@ -276,6 +276,10 @@
                       "PBS160" : {
                                     "Link" : "https://pbs.bartificer.net/pbs160.html",
                                     "Title" : "PBS 160 of X &#8211; jq as a Programming Language"
+                                  },
+                      "PBS161" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs161.html",
+                                    "Title" : "PBS 161 of X &#8211; jq Maths, Assignment, & String Manipulation"
                                   },
                       "PBS17" : {
                                    "Link" : "https://pbs.bartificer.net/pbs17.html",
@@ -3027,6 +3031,9 @@
                      "jq, any function" : {
                                              "Key" : "PBS157"
                                            },
+                     "jq, assignment operators" : {
+                                                     "Key" : "PBS161"
+                                                   },
                      "jq, building arrays" : {
                                                 "Key" : "PBS159"
                                               },
@@ -3036,6 +3043,9 @@
                      "jq, building strings with interpolation" : {
                                                                     "Key" : "PBS159"
                                                                   },
+                     "jq, built-in string functions" : {
+                                                          "Key" : "PBS161"
+                                                        },
                      "jq, capture function (string to dictionary)" : {
                                                                         "Key" : "PBS159"
                                                                       },
@@ -3093,6 +3103,12 @@
                      "jq, limit function" : {
                                                "Key" : "PBS160"
                                              },
+                     "jq, math functions" : {
+                                               "Key" : "PBS161"
+                                             },
+                     "jq, math operators" : {
+                                               "Key" : "PBS161"
+                                             },
                      "jq, more filter options" : {
                                                     "Key" : "PBS156"
                                                   },
@@ -3138,9 +3154,15 @@
                      "jq, tonumber function" : {
                                                   "Key" : "PBS158"
                                                 },
+                     "jq, transforming strings" : {
+                                                     "Key" : "PBS161"
+                                                   },
                      "jq, type-related functions" : {
                                                        "Key" : "PBS158"
                                                      },
+                     "jq, update assignment operators" : {
+                                                            "Key" : "PBS161"
+                                                          },
                      "jq, variables introduced" : {
                                                      "Key" : "PBS160"
                                                    },
