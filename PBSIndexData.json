@@ -1,5 +1,5 @@
 {
-       "DataVersion" : " 3 Mar 2024, 15:13",
+       "DataVersion" : "27 May 2024, 16:38",
        "Lessons" : {
                       "CSSRef" : {
                                     "Link" : "https://www.w3schools.com/cssref/css_selectors.asp",
@@ -284,6 +284,10 @@
                       "PBS162" : {
                                     "Link" : "https://pbs.bartificer.net/pbs162.html",
                                     "Title" : "PBS 162 of X &#8211; jq Altering Arrays & Dictionaries"
+                                  },
+                      "PBS163" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs163.html",
+                                    "Title" : "PBS 163 of X &#8211; jq Lookup Tables & Records"
                                   },
                       "PBS17" : {
                                    "Link" : "https://pbs.bartificer.net/pbs17.html",
@@ -3026,6 +3030,12 @@
                      "jQuery, testing elements" : {
                                                      "Key" : "PBS88"
                                                    },
+                     "jq entries (entry-type dictionaries, intermediate format)" : {
+                                                                                      "Key" : "PBS163"
+                                                                                    },
+                     "jq lookup tables (lookups) defined" : {
+                                                               "Key" : "PBS163"
+                                                             },
                      "jq, add & remove array elements" : {
                                                             "Key" : "PBS162"
                                                           },
@@ -3089,9 +3099,15 @@
                      "jq, flatten (nested arrays) function" : {
                                                                  "Key" : "PBS162"
                                                                },
+                     "jq, from_entries function" : {
+                                                      "Key" : "PBS163"
+                                                    },
                      "jq, functions in filters" : {
                                                      "Key" : "PBS157"
                                                    },
+                     "jq, group_by function" : {
+                                                  "Key" : "PBS163"
+                                                },
                      "jq, has (given key) function" : {
                                                          "Key" : "PBS160"
                                                        },
