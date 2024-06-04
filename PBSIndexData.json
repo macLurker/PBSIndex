@@ -3150,6 +3150,9 @@
                      "jq, output unquoted strings" : {
                                                         "Key" : "PBS156"
                                                       },
+          "jq, passing variables from command line (--arg)" : {
+            "Key" : "PBS160"
+          },
                      "jq, pretty print examples" : {
                                                       "Key" : "PBS155"
                                                     },
