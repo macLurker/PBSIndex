@@ -1,5 +1,5 @@
 {
-       "DataVersion" : "27 May 2024, 16:38",
+       "DataVersion" : " 4 Jun 2024, 08:59",
        "Lessons" : {
                       "CSSRef" : {
                                     "Link" : "https://www.w3schools.com/cssref/css_selectors.asp",
@@ -288,6 +288,10 @@
                       "PBS163" : {
                                     "Link" : "https://pbs.bartificer.net/pbs163.html",
                                     "Title" : "PBS 163 of X &#8211; jq Lookup Tables & Records"
+                                  },
+                      "PBS164" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs164.html",
+                                    "Title" : "PBS 164 of X &#8211; jq Working with Lookup Tables"
                                   },
                       "PBS17" : {
                                    "Link" : "https://pbs.bartificer.net/pbs17.html",
@@ -3093,6 +3097,9 @@
                      "jq, filter by data type" : {
                                                     "Key" : "PBS158"
                                                   },
+                     "jq, filtering a lookup table" : {
+                                                         "Key" : "PBS164"
+                                                       },
                      "jq, first function (element in array)" : {
                                                                   "Key" : "PBS160"
                                                                 },
@@ -3135,6 +3142,9 @@
                      "jq, limit function" : {
                                                "Key" : "PBS160"
                                              },
+                     "jq, loading data from external files" : {
+                                                                 "Key" : "PBS164"
+                                                               },
                      "jq, math functions" : {
                                                "Key" : "PBS161"
                                              },
@@ -3150,9 +3160,9 @@
                      "jq, output unquoted strings" : {
                                                         "Key" : "PBS156"
                                                       },
-          "jq, passing variables from command line (--arg)" : {
-            "Key" : "PBS160"
-          },
+                     "jq, passing variables from command line (--arg)" : {
+                                                                            "Key" : "PBS160"
+                                                                          },
                      "jq, pretty print examples" : {
                                                       "Key" : "PBS155"
                                                     },
@@ -3180,6 +3190,9 @@
                      "jq, slurp flag (output into JSON object)" : {
                                                                      "Key" : "PBS156"
                                                                    },
+                     "jq, slurpfile command line option" : {
+                                                              "Key" : "PBS164"
+                                                            },
                      "jq, sort function" : {
                                               "Key" : "PBS162"
                                             },
@@ -3204,6 +3217,9 @@
                      "jq, testing for containment (contains function)" : {
                                                                             "Key" : "PBS158"
                                                                           },
+                     "jq, to_entries function" : {
+                                                    "Key" : "PBS164"
+                                                  },
                      "jq, tonumber function" : {
                                                   "Key" : "PBS158"
                                                 },
@@ -3216,6 +3232,9 @@
                      "jq, update assignment operators" : {
                                                             "Key" : "PBS161"
                                                           },
+                     "jq, using lookup tables to enrich data" : {
+                                                                   "Key" : "PBS164"
+                                                                 },
                      "jq, variables introduced" : {
                                                      "Key" : "PBS160"
                                                    },
