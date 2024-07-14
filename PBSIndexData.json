@@ -3170,7 +3170,7 @@
                      "jq, pretty print examples" : {
                                                       "Key" : "PBS155"
                                                     },
-                     "jq, range functions" : {
+                     "jq, range function" : {
                                                 "Key" : "PBS165"
                                               },
                      "jq, raw output flag" : {

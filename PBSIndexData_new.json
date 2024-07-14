@@ -1,5 +1,5 @@
 {
-       "DataVersion" : "14 Jul 2024, 12:42",
+       "DataVersion" : "14 Jul 2024, 17:19",
        "Lessons" : {
                       "CSSRef" : {
                                     "Link" : "https://www.w3schools.com/cssref/css_selectors.asp",
@@ -296,6 +296,10 @@
                       "PBS165" : {
                                     "Link" : "https://pbs.bartificer.net/pbs165.html",
                                     "Title" : "PBS 165 of X &#8211; jq Variables"
+                                  },
+                      "PBS166" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs166.html",
+                                    "Title" : "PBS 166 of X &#8211; jq Processing Arrays & Dictionaries sans Explosions"
                                   },
                       "PBS17" : {
                                    "Link" : "https://pbs.bartificer.net/pbs17.html",
@@ -3062,6 +3066,9 @@
                      "jq, any function" : {
                                              "Key" : "PBS157"
                                            },
+                     "jq, array filtering with map(select())" : {
+                                                                   "Key" : "PBS166"
+                                                                 },
                      "jq, assignment operators" : {
                                                      "Key" : "PBS161"
                                                    },
@@ -3149,6 +3156,12 @@
                      "jq, loading data from external files" : {
                                                                  "Key" : "PBS164"
                                                                },
+                     "jq, map function" : {
+                                             "Key" : "PBS166"
+                                           },
+                     "jq, map_values function" : {
+                                                    "Key" : "PBS166"
+                                                  },
                      "jq, math functions" : {
                                                "Key" : "PBS161"
                                              },
@@ -3170,11 +3183,14 @@
                      "jq, pretty print examples" : {
                                                       "Key" : "PBS155"
                                                     },
-                     "jq, range functions" : {
-                                                "Key" : "PBS165"
-                                              },
+                     "jq, range function" : {
+                                               "Key" : "PBS165"
+                                             },
                      "jq, raw output flag" : {
                                                 "Key" : "PBS156"
+                                              },
+                     "jq, reduce operator" : {
+                                                "Key" : "PBS166"
                                               },
                      "jq, remove duplicate elements in arrays with unique function" : {
                                                                                          "Key" : "PBS162"
