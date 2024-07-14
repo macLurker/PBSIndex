@@ -1,5 +1,5 @@
 {
-       "DataVersion" : " 4 Jun 2024, 08:59",
+       "DataVersion" : "14 Jul 2024, 12:42",
        "Lessons" : {
                       "CSSRef" : {
                                     "Link" : "https://www.w3schools.com/cssref/css_selectors.asp",
@@ -292,6 +292,10 @@
                       "PBS164" : {
                                     "Link" : "https://pbs.bartificer.net/pbs164.html",
                                     "Title" : "PBS 164 of X &#8211; jq Working with Lookup Tables"
+                                  },
+                      "PBS165" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs165.html",
+                                    "Title" : "PBS 165 of X &#8211; jq Variables"
                                   },
                       "PBS17" : {
                                    "Link" : "https://pbs.bartificer.net/pbs17.html",
@@ -3166,6 +3170,9 @@
                      "jq, pretty print examples" : {
                                                       "Key" : "PBS155"
                                                     },
+                     "jq, range functions" : {
+                                                "Key" : "PBS165"
+                                              },
                      "jq, raw output flag" : {
                                                 "Key" : "PBS156"
                                               },
@@ -3235,6 +3242,12 @@
                      "jq, using lookup tables to enrich data" : {
                                                                    "Key" : "PBS164"
                                                                  },
+                     "jq, variable assignment operator (creating variables)" : {
+                                                                                  "Key" : "PBS165"
+                                                                                },
+                     "jq, variable operator loops" : {
+                                                        "Key" : "PBS165"
+                                                      },
                      "jq, variables introduced" : {
                                                      "Key" : "PBS160"
                                                    },
