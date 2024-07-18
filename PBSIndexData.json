@@ -1,5 +1,5 @@
 {
-       "DataVersion" : "14 Jul 2024, 17:19",
+       "DataVersion" : "18 Jul 2024, 13:46",
        "Lessons" : {
                       "CSSRef" : {
                                     "Link" : "https://www.w3schools.com/cssref/css_selectors.asp",
@@ -300,6 +300,10 @@
                       "PBS166" : {
                                     "Link" : "https://pbs.bartificer.net/pbs166.html",
                                     "Title" : "PBS 166 of X &#8211; jq Processing Arrays & Dictionaries sans Explosions"
+                                  },
+                      "PBS167" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs167.html",
+                                    "Title" : "PBS 167 of X &#8211; jq Recursion, Syntactic Sugar, Some Old Friends, and a Few Honourable Mentions"
                                   },
                       "PBS17" : {
                                    "Link" : "https://pbs.bartificer.net/pbs17.html",
@@ -3042,6 +3046,9 @@
                      "jQuery, testing elements" : {
                                                      "Key" : "PBS88"
                                                    },
+                     "jq documentation link" : {
+                                                  "Key" : "PBS167"
+                                                },
                      "jq entries (entry-type dictionaries, intermediate format)" : {
                                                                                       "Key" : "PBS163"
                                                                                     },
@@ -3072,6 +3079,9 @@
                      "jq, assignment operators" : {
                                                      "Key" : "PBS161"
                                                    },
+                     "jq, better error handling" : {
+                                                      "Key" : "PBS167"
+                                                    },
                      "jq, building arrays" : {
                                                 "Key" : "PBS159"
                                               },
@@ -3096,9 +3106,18 @@
                      "jq, comments in filter files" : {
                                                          "Key" : "PBS160"
                                                        },
+                     "jq, complex assignments in arrays and dictionaries" : {
+                                                                               "Key" : "PBS167"
+                                                                             },
                      "jq, debug function" : {
                                                "Key" : "PBS160"
                                              },
+                     "jq, destructuring (advanced variable binding)" : {
+                                                                          "Key" : "PBS167"
+                                                                        },
+                     "jq, dictionary construction shortcuts" : {
+                                                                  "Key" : "PBS167"
+                                                                },
                      "jq, exploding arrays" : {
                                                  "Key" : "PBS156"
                                                },
@@ -3129,6 +3148,9 @@
                      "jq, has (given key) function" : {
                                                          "Key" : "PBS160"
                                                        },
+                     "jq, if statements" : {
+                                              "Key" : "PBS167"
+                                            },
                      "jq, inside function" : {
                                                 "Key" : "PBS158"
                                               },
@@ -3183,12 +3205,21 @@
                      "jq, pretty print examples" : {
                                                       "Key" : "PBS155"
                                                     },
+                     "jq, querying nested data structures" : {
+                                                                "Key" : "PBS167"
+                                                              },
                      "jq, range function" : {
                                                "Key" : "PBS165"
                                              },
                      "jq, raw output flag" : {
                                                 "Key" : "PBS156"
                                               },
+                     "jq, recurse function" : {
+                                                 "Key" : "PBS167"
+                                               },
+                     "jq, recursive descent into arrays (.. operator)" : {
+                                                                            "Key" : "PBS167"
+                                                                          },
                      "jq, reduce operator" : {
                                                 "Key" : "PBS166"
                                               },
