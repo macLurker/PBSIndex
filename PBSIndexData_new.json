@@ -1,5 +1,5 @@
 {
-       "DataVersion" : "18 Jul 2024, 13:46",
+       "DataVersion" : "20 Jul 2024, 16:27",
        "Lessons" : {
                       "CSSRef" : {
                                     "Link" : "https://www.w3schools.com/cssref/css_selectors.asp",
@@ -304,6 +304,10 @@
                       "PBS167" : {
                                     "Link" : "https://pbs.bartificer.net/pbs167.html",
                                     "Title" : "PBS 167 of X &#8211; jq Recursion, Syntactic Sugar, Some Old Friends, and a Few Honourable Mentions"
+                                  },
+                      "PBS168" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs168.html",
+                                    "Title" : "PBS 168 of X &#8211; jq Introduction to YAML"
                                   },
                       "PBS17" : {
                                    "Link" : "https://pbs.bartificer.net/pbs17.html",
@@ -2392,6 +2396,12 @@
                      "Webpack loader defined" : {
                                                    "Key" : "PBS137"
                                                  },
+                     "YAML basic syntax" : {
+                                              "Key" : "PBS168"
+                                            },
+                     "YAML terminology" : {
+                                             "Key" : "PBS168"
+                                           },
                      "[[ (test command) and operators" : {
                                                             "Key" : "PBS145"
                                                           },
@@ -3534,6 +3544,9 @@
                                                },
                      "xargs use examples" : {
                                                "Key" : "PBS152"
-                                             }
+                                             },
+                     "yq tool introduction" : {
+                                                 "Key" : "PBS168"
+                                               }
                    }
      }
