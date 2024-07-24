@@ -1,5 +1,5 @@
 {
-       "DataVersion" : "20 Jul 2024, 16:27",
+       "DataVersion" : "24 Jul 2024, 16:33",
        "Lessons" : {
                       "CSSRef" : {
                                     "Link" : "https://www.w3schools.com/cssref/css_selectors.asp",
@@ -308,6 +308,10 @@
                       "PBS168" : {
                                     "Link" : "https://pbs.bartificer.net/pbs168.html",
                                     "Title" : "PBS 168 of X &#8211; Introduction to YAML"
+                                  },
+                      "PBS169" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs169.html",
+                                    "Title" : "PBS 169 of X &#8211; Advanced YAML Topics"
                                   },
                       "PBS17" : {
                                    "Link" : "https://pbs.bartificer.net/pbs17.html",
@@ -2375,6 +2379,12 @@
                      "Using Webpack, part 2" : {
                                                   "Key" : "PBS139"
                                                 },
+                     "Using yq to convert YAML to JSON, and vice-versa" : {
+                                                                             "Key" : "PBS169"
+                                                                           },
+                     "Using yq to query YAML files" : {
+                                                         "Key" : "PBS169"
+                                                       },
                      "WAI-ARIA intro" : {
                                            "Key" : "PBS30"
                                          },
@@ -2399,9 +2409,15 @@
                      "YAML basic syntax" : {
                                               "Key" : "PBS168"
                                             },
+                     "YAML documentation link" : {
+                                                    "Key" : "PBS169"
+                                                  },
                      "YAML terminology" : {
                                              "Key" : "PBS168"
                                            },
+                     "YAML, flow style sequences and mappings" : {
+                                                                    "Key" : "PBS169"
+                                                                  },
                      "[[ (test command) and operators" : {
                                                             "Key" : "PBS145"
                                                           },
