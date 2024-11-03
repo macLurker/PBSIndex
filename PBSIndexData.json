@@ -1,5 +1,5 @@
 {
-       "DataVersion" : " 3 Nov 2024, 13:20",
+       "DataVersion" : " 3 Nov 2024, 13:29",
        "Lessons" : {
                       "CSSRef" : {
                                     "Link" : "https://www.w3schools.com/cssref/css_selectors.asp",
@@ -320,6 +320,10 @@
                       "PBS170" : {
                                     "Link" : "https://pbs.bartificer.net/pbs170.html",
                                     "Title" : "PBS 170 of X &#8211; The Model View Controller Design Pattern (MVC)"
+                                  },
+                      "PBS171" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs171.html",
+                                    "Title" : "PBS 171 of X &#8211; How XKpasswd-js Applies Model View Controller (MVC)"
                                   },
                       "PBS18" : {
                                    "Link" : "https://pbs.bartificer.net/pbs18.html",
@@ -2239,6 +2243,9 @@
                      "MAMP, how to run" : {
                                              "Key" : "PBS1"
                                            },
+                     "MVC in XKpasswd-js" : {
+                                               "Key" : "PBS171"
+                                             },
                      "Making the cursor be a pointer" : {
                                                            "Key" : "PBS36"
                                                          },
