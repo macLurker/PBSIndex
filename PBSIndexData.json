@@ -1,5 +1,5 @@
 {
-       "DataVersion" : "24 Jul 2024, 16:33",
+       "DataVersion" : " 3 Nov 2024, 13:20",
        "Lessons" : {
                       "CSSRef" : {
                                     "Link" : "https://www.w3schools.com/cssref/css_selectors.asp",
@@ -317,6 +317,10 @@
                                    "Link" : "https://pbs.bartificer.net/pbs17.html",
                                    "Title" : "PBS 17 of X &#8211; JS Objects"
                                  },
+                      "PBS170" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs170.html",
+                                    "Title" : "PBS 170 of X &#8211; The Model View Controller Design Pattern (MVC)"
+                                  },
                       "PBS18" : {
                                    "Link" : "https://pbs.bartificer.net/pbs18.html",
                                    "Title" : "PBS 18 of X &#8211; JS Miscellany"
@@ -2247,6 +2251,9 @@
                      "Mermaid, installing " : {
                                                  "Key" : "PBS141"
                                                },
+                     "Model View Controller (MVC) framework" : {
+                                                                  "Key" : "PBS170"
+                                                                },
                      "Mustache partials (templates within templates)" : {
                                                                            "Key" : "PBS74"
                                                                          },
