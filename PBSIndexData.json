@@ -1,5 +1,5 @@
 {
-       "DataVersion" : " 3 Nov 2024, 13:29",
+       "DataVersion" : " 3 Nov 2024, 14:27",
        "Lessons" : {
                       "CSSRef" : {
                                     "Link" : "https://www.w3schools.com/cssref/css_selectors.asp",
@@ -324,6 +324,10 @@
                       "PBS171" : {
                                     "Link" : "https://pbs.bartificer.net/pbs171.html",
                                     "Title" : "PBS 171 of X &#8211; How XKpasswd-js Applies Model View Controller (MVC)"
+                                  },
+                      "PBS172" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs172.html",
+                                    "Title" : "PBS 172 of X &#8211; Submodules (git)"
                                   },
                       "PBS18" : {
                                    "Link" : "https://pbs.bartificer.net/pbs18.html",
@@ -2834,6 +2838,9 @@
                      "git storage repository defined" : {
                                                            "Key" : "PBS113"
                                                          },
+                     "git submodules use cases" : {
+                                                     "Key" : "PBS172"
+                                                   },
                      "git tag" : {
                                     "Key" : "PBS102"
                                   },
@@ -3359,6 +3366,9 @@
                      "margins & padding" : {
                                               "Key" : "PBS7"
                                             },
+                     "nested git repositories" : {
+                                                    "Key" : "PBS172"
+                                                  },
                      "noscript tag" : {
                                          "Key" : "PBS22"
                                        },
