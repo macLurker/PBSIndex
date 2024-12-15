@@ -1,5 +1,5 @@
 {
-       "DataVersion" : " 3 Nov 2024, 14:27",
+       "DataVersion" : "15 Dec 2024, 14:50",
        "Lessons" : {
                       "CSSRef" : {
                                     "Link" : "https://www.w3schools.com/cssref/css_selectors.asp",
@@ -328,6 +328,10 @@
                       "PBS172" : {
                                     "Link" : "https://pbs.bartificer.net/pbs172.html",
                                     "Title" : "PBS 172 of X &#8211; Submodules (git)"
+                                  },
+                      "PBS174" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs174.html",
+                                    "Title" : "PBS 174 of X &#8211; Working with Submodules (git)"
                                   },
                       "PBS18" : {
                                    "Link" : "https://pbs.bartificer.net/pbs18.html",
@@ -2837,6 +2841,9 @@
                                              },
                      "git storage repository defined" : {
                                                            "Key" : "PBS113"
+                                                         },
+                     "git submodule commands summary" : {
+                                                           "Key" : "PBS174"
                                                          },
                      "git submodules use cases" : {
                                                      "Key" : "PBS172"
