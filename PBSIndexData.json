@@ -1,5 +1,5 @@
 {
-       "DataVersion" : "15 Dec 2024, 14:50",
+       "DataVersion" : "22 Feb 2025, 14:09",
        "Lessons" : {
                       "CSSRef" : {
                                     "Link" : "https://www.w3schools.com/cssref/css_selectors.asp",
@@ -332,6 +332,10 @@
                       "PBS174" : {
                                     "Link" : "https://pbs.bartificer.net/pbs174.html",
                                     "Title" : "PBS 174 of X &#8211; Working with Submodules (git)"
+                                  },
+                      "PBS175" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs175.html",
+                                    "Title" : "PBS 175 of X &#8211; Static Site Generators (GitHub Pages)"
                                   },
                       "PBS18" : {
                                    "Link" : "https://pbs.bartificer.net/pbs18.html",
@@ -1243,9 +1247,15 @@
                      "Configuring Chezmoi" : {
                                                 "Key" : "PBS122"
                                               },
+                     "Content Management Systems (CMS) Intro " : {
+                                                                    "Key" : "PBS175"
+                                                                  },
                      "Convert this to jQuery object" : {
                                                           "Key" : "PBS40"
                                                         },
+                     "Deciding between dynamic and static site managers" : {
+                                                                              "Key" : "PBS175"
+                                                                            },
                      "Document Object Model (DOM)" : {
                                                         "Key" : "PBS20"
                                                       },
@@ -2428,6 +2438,9 @@
                      "Webpack loader defined" : {
                                                    "Key" : "PBS137"
                                                  },
+                     "Why use GitHub Pages (overview)" : {
+                                                            "Key" : "PBS175"
+                                                          },
                      "YAML basic syntax" : {
                                               "Key" : "PBS168"
                                             },
