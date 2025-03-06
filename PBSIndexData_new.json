@@ -1,5 +1,5 @@
 {
-       "DataVersion" : "22 Feb 2025, 14:09",
+       "DataVersion" : " 6 Mar 2025, 13:59",
        "Lessons" : {
                       "CSSRef" : {
                                     "Link" : "https://www.w3schools.com/cssref/css_selectors.asp",
@@ -336,6 +336,10 @@
                       "PBS175" : {
                                     "Link" : "https://pbs.bartificer.net/pbs175.html",
                                     "Title" : "PBS 175 of X &#8211; Static Site Generators (GitHub Pages)"
+                                  },
+                      "PBS176" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs176.html",
+                                    "Title" : "PBS 176 of X &#8211; Deploying a JavaScript Web App with Webpack & GitHub Actions"
                                   },
                       "PBS18" : {
                                    "Link" : "https://pbs.bartificer.net/pbs18.html",
@@ -1295,6 +1299,9 @@
                      "GitHub Jekyll documentation links" : {
                                                               "Key" : "PBS118"
                                                             },
+                     "GitHub Pages" : {
+                                         "Key" : "PBS176"
+                                       },
                      "GitHub Pages documentation links" : {
                                                              "Key" : "PBS118"
                                                            },
@@ -2423,6 +2430,9 @@
                      "WAI-ARIA roles" : {
                                            "Key" : "PBS30"
                                          },
+                     "Web App/GitHub Pages worked examples " : {
+                                                                  "Key" : "PBS176"
+                                                                },
                      "Web forms" : {
                                       "Key" : "PBS27"
                                     },
