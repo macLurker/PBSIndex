@@ -1,5 +1,5 @@
 {
-       "DataVersion" : " 6 Mar 2025, 14:09",
+       "DataVersion" : "18 Mar 2025, 12:03",
        "Lessons" : {
                       "CSSRef" : {
                                     "Link" : "https://www.w3schools.com/cssref/css_selectors.asp",
@@ -340,6 +340,10 @@
                       "PBS176" : {
                                     "Link" : "https://pbs.bartificer.net/pbs176.html",
                                     "Title" : "PBS 176 of X &#8211; Deploying a JavaScript Web App with Webpack & GitHub Actions"
+                                  },
+                      "PBS177" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs177.html",
+                                    "Title" : "PBS 177 of X &#8211; PUblishing A Basic Jekyll Site (GitHub Pages)"
                                   },
                       "PBS18" : {
                                    "Link" : "https://pbs.bartificer.net/pbs18.html",
@@ -1071,9 +1075,15 @@
                      "Bootstrap and JavaScript interactions" : {
                                                                   "Key" : "PBS60"
                                                                 },
+                     "Bootstrap customizing with Sass" : {
+                                                            "Key" : "PBS177"
+                                                          },
                      "Bootstrap icons, how to use " : {
                                                          "Key" : "PBS139"
                                                        },
+                     "Bootstrap, create a custom theme with Jekyll" : {
+                                                                         "Key" : "PBS177"
+                                                                       },
                      "Bootstrap, using components to build a game" : {
                                                                         "Key" : "PBS78"
                                                                       },
@@ -1308,6 +1318,12 @@
                      "GitHub Pages, actions terminology " : {
                                                                "Key" : "PBS176"
                                                              },
+                     "GitHub Pages, installing a local Jekyll" : {
+                                                                    "Key" : "PBS177"
+                                                                  },
+                     "GitHub Pages, worked example using Jekyll & custom themes" : {
+                                                                                      "Key" : "PBS177"
+                                                                                    },
                      "GitHub Pages, workflow job keys " : {
                                                              "Key" : "PBS176"
                                                            },
