@@ -1,5 +1,5 @@
 {
-       "DataVersion" : "18 Mar 2025, 12:03",
+       "DataVersion" : " 6 Apr 2025, 15:18",
        "Lessons" : {
                       "CSSRef" : {
                                     "Link" : "https://www.w3schools.com/cssref/css_selectors.asp",
@@ -344,6 +344,10 @@
                       "PBS177" : {
                                     "Link" : "https://pbs.bartificer.net/pbs177.html",
                                     "Title" : "PBS 177 of X &#8211; PUblishing A Basic Jekyll Site (GitHub Pages)"
+                                  },
+                      "PBS178" : {
+                                    "Link" : "https://pbs.bartificer.net/pbs178.html",
+                                    "Title" : "PBS 178 of X &#8211; Getting Started with Jekyll Pages (GitHub Pages)"
                                   },
                       "PBS18" : {
                                    "Link" : "https://pbs.bartificer.net/pbs18.html",
@@ -2233,6 +2237,15 @@
                      "Javascript, yield, passing values" : {
                                                               "Key" : "PBS87"
                                                             },
+                     "Jekyll assets defined and located" : {
+                                                              "Key" : "PBS178"
+                                                            },
+                     "Jekyll file processing rules" : {
+                                                         "Key" : "PBS178"
+                                                       },
+                     "Jekyll rendering process" : {
+                                                     "Key" : "PBS178"
+                                                   },
                      "Jest .only modifier " : {
                                                  "Key" : "PBS136"
                                                },
